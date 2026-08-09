@@ -149,6 +149,31 @@ def analisar_com_ia(noticias, historico):
     resposta = modelo.generate_content(prompt)
     return resposta.text
 
+def enviar_telegram(relatorio):
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    
+    if not token or not chat_id:
+        print("Configurações do Telegram ausentes. Pulando envio.")
+        return
+        
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    
+    # O Telegram tem um limite de 4096 caracteres por mensagem
+    # O código divide o relatório em blocos se ele for muito grande
+    partes = [relatorio[i:i+4000] for i in range(0, len(relatorio), 4000)]
+    
+    for parte in partes:
+        payload = {
+            "chat_id": chat_id,
+            "text": parte,
+            "parse_mode": "Markdown" # Ajuda o Telegram a ler o formato do texto (negritos, listas)
+        }
+        try:
+            requests.post(url, json=payload)
+        except Exception as e:
+            print(f"Erro ao enviar para o Telegram: {e}")
+
 def main():
     noticias = buscar_noticias()
     historico = obter_historico_30_dias()
@@ -161,9 +186,14 @@ def main():
         except Exception as e:
             relatorio = f"# Erro na IA\nDetalhes: {e}"
 
+    # Dispara o relatório para o seu Telegram
+    enviar_telegram(relatorio)
+
+    # Salva no arquivo README da página inicial do GitHub
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(relatorio)
         
+    # Salva o arquivo de histórico diário
     os.makedirs("relatorios", exist_ok=True)
     with open(f"relatorios/noticias_{datetime.datetime.now().strftime('%Y-%m-%d')}.md", "w", encoding="utf-8") as f:
         f.write(relatorio)

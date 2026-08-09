@@ -5,12 +5,12 @@ import feedparser
 import google.generativeai as genai
 
 def buscar_noticias():
-    # Consultas direcionadas combinando a busca geral, os portais exigidos e os influenciadores
+    # Consultas baseadas em palavras-chave inteligentes (substituindo o 'site:' que falha no RSS)
     queries = [
         '("Atlético Mineiro" OR "Galo") when:1d',
-        '("Atlético Mineiro" OR "Galo") site:itatiaia.com.br when:1d',
-        '("Atlético Mineiro" OR "Galo") site:otempo.com.br when:1d',
-        '("Atlético Mineiro" OR "Galo") ("Fala Galo" OR "Frossard" OR "Eu Acredito" OR "Itatiaia Esporte") when:1d'
+        '(Itatiaia AND ("Atlético Mineiro" OR "Galo")) when:1d',
+        '("O Tempo" AND ("Atlético Mineiro" OR "Galo")) when:1d',
+        '(("Fala Galo" OR "Frossard" OR "Eu Acredito" OR "Itatiaia Esporte") AND ("Atlético Mineiro" OR "Galo")) when:1d'
     ]
     
     todas_noticias = []
@@ -31,13 +31,13 @@ def buscar_noticias():
 def analisar_com_ia(noticias):
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
     
-    texto_noticias = "NOTÍCIAS COLETADAS (Dê peso e prioridade analítica absoluta para conteúdos vindos de Itatiaia, O Tempo, Fala Galo, Frossard e Eu Acredito):\n"
-    for i, n in enumerate(noticias[:30], 1):
+    texto_noticias = "NOTÍCIAS COLETADAS:\n"
+    for i, n in enumerate(noticias[:35], 1):
         texto_noticias += f"Notícia {i}: {n.title} (Link: {n.link})\n"
 
     prompt = f"""
     Você é um analista esportivo de alto nível e inteligência de dados focado no Clube Atlético Mineiro.
-    Abaixo estão as manchetes coletadas. Dê prioridade explícita às matérias e análises das fontes prioritárias (Itatiaia, O Tempo e canais especializados).
+    Abaixo estão as manchetes coletadas. Dê prioridade e destaque explícito às matérias e análises das fontes prioritárias (Itatiaia, O Tempo, Fala Galo, Frossard e Eu Acredito) que aparecem no conjunto de dados.
     
     {texto_noticias}
     

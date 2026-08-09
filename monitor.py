@@ -5,7 +5,6 @@ import feedparser
 import google.generativeai as genai
 
 def buscar_noticias():
-    # Busca notícias das últimas 24h contendo Atlético Mineiro ou Galo
     query = '("Atlético Mineiro" OR "Galo") when:1d'
     encoded_query = urllib.parse.quote(query)
     rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=pt-BR&gl=BR&ceid=BR:pt-BR"
@@ -14,14 +13,12 @@ def buscar_noticias():
     return feed.entries
 
 def analisar_com_ia(noticias):
-    # Configura a chave utilizando o cofre do GitHub Secrets
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
     
     texto_noticias = ""
     for i, n in enumerate(noticias[:25], 1):
         texto_noticias += f"Notícia {i}: {n.title} (Link: {n.link})\n"
 
-    # Prompt estruturado com o Resumo Quantitativo Qualificado e Seções Especializadas
     prompt = f"""
     Você é um analista esportivo de alto nível e inteligência de dados focado no Clube Atlético Mineiro.
     Abaixo estão as manchetes e notícias coletadas nas últimas 24 horas sobre o time:
@@ -60,30 +57,23 @@ def analisar_com_ia(noticias):
     [Faça uma lista com as 5 notícias mais importantes, contendo seus respectivos links em formato Markdown e um resumo analítico de 2 linhas para cada uma].
     """
 
-    # Lista de modelos seguros com fallback para garantir o funcionamento
-    modelos_seguros = [
-        'gemini-1.5-flash',
-        'gemini-1.5-pro',
-        'gemini-pro'
-    ]
+    # Busca dinâmica: pergunta diretamente à API quais modelos estão disponíveis para a chave
+    modelo_escolhido = None
+    try:
+        for m in genai.list_models():
+            if 'generateContent' in m.supported_generation_methods:
+                modelo_escolhido = m.name
+                break
+    except Exception as e:
+        raise Exception(f"Erro ao listar modelos da API: {e}")
 
-    resposta_texto = None
-    ultimo_erro = None
+    if not modelo_escolhido:
+        raise Exception("Nenhum modelo compatível com geração de conteúdo foi encontrado para esta chave.")
 
-    for nome_modelo in modelos_seguros:
-        try:
-            modelo = genai.GenerativeModel(nome_modelo)
-            resposta = modelo.generate_content(prompt)
-            resposta_texto = resposta.text
-            break
-        except Exception as e:
-            ultimo_erro = e
-            continue
-
-    if resposta_texto:
-        return resposta_texto
-    else:
-        raise Exception(f"Todos os modelos falharam. Último erro: {ultimo_erro}")
+    modelo = genai.GenerativeModel(modelo_escolhido)
+    resposta = modelo.generate_content(prompt)
+    
+    return resposta.text
 
 def main():
     noticias = buscar_noticias()

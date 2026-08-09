@@ -5,28 +5,23 @@ import feedparser
 import google.generativeai as genai
 
 def buscar_noticias():
-    # 1. Busca Geral (Google News)
-    query = '("Atlético Mineiro" OR "Galo") when:1d'
-    encoded_query = urllib.parse.quote(query)
-    urls = [
-        f"https://news.google.com/rss/search?q={encoded_query}&hl=pt-BR&gl=BR&ceid=BR:pt-BR",
-        # 2. Feeds Prioritários (Sites de Notícias)
-        "https://www.otempo.com.br/sports/atletico/rss.xml",
-        # 3. Feeds YouTube (Convertidos para formato RSS)
-        "https://www.youtube.com/feeds/videos.xml?channel_id=UC2Zzj4636i_mqvSdOJddbbQ", # Fala Galo
-        "https://www.youtube.com/feeds/videos.xml?channel_id=UCT-l3gJ3kK2VnE888pC225g", # FalaGalo13
-        "https://www.youtube.com/feeds/videos.xml?channel_id=UCrB_rN8B0e052c93d9S8lCg", # Canal do Frossard
-        "https://www.youtube.com/feeds/videos.xml?channel_id=UC52JjXbW_lJpD2YfN5gK5kA", # Canal Eu Acredito
-        "https://www.youtube.com/feeds/videos.xml?channel_id=UCe19eP55X2u0FqjVn7y4U8A"  # Itatiaia Esporte
+    # Consultas direcionadas combinando a busca geral, os portais exigidos e os influenciadores
+    queries = [
+        '("Atlético Mineiro" OR "Galo") when:1d',
+        '("Atlético Mineiro" OR "Galo") site:itatiaia.com.br when:1d',
+        '("Atlético Mineiro" OR "Galo") site:otempo.com.br when:1d',
+        '("Atlético Mineiro" OR "Galo") ("Fala Galo" OR "Frossard" OR "Eu Acredito" OR "Itatiaia Esporte") when:1d'
     ]
     
     todas_noticias = []
     links_visitados = set()
 
-    for url in urls:
-        feed = feedparser.parse(url)
+    for q in queries:
+        encoded_query = urllib.parse.quote(q)
+        rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=pt-BR&gl=BR&ceid=BR:pt-BR"
+        
+        feed = feedparser.parse(rss_url)
         for entry in feed.entries:
-            # Filtro básico: apenas notícias recentes e relevantes
             if entry.link not in links_visitados:
                 todas_noticias.append(entry)
                 links_visitados.add(entry.link)
@@ -36,14 +31,13 @@ def buscar_noticias():
 def analisar_com_ia(noticias):
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
     
-    # Destaque das fontes prioritárias para a IA
-    texto_noticias = "FONTES PRIORITÁRIAS (Favor dar peso extra a estas notícias):\n"
+    texto_noticias = "NOTÍCIAS COLETADAS (Dê peso e prioridade analítica absoluta para conteúdos vindos de Itatiaia, O Tempo, Fala Galo, Frossard e Eu Acredito):\n"
     for i, n in enumerate(noticias[:30], 1):
         texto_noticias += f"Notícia {i}: {n.title} (Link: {n.link})\n"
 
     prompt = f"""
     Você é um analista esportivo de alto nível e inteligência de dados focado no Clube Atlético Mineiro.
-    Abaixo estão as manchetes e notícias coletadas. Dê prioridade analítica às fontes indicadas no topo da lista.
+    Abaixo estão as manchetes coletadas. Dê prioridade explícita às matérias e análises das fontes prioritárias (Itatiaia, O Tempo e canais especializados).
     
     {texto_noticias}
     
@@ -52,10 +46,10 @@ def analisar_com_ia(noticias):
     # 🐔 Dossiê Analítico do Atlético Mineiro - {datetime.datetime.now().strftime("%d/%m/%Y")}
     
     ## 📊 Resumo Quantitativo & Qualitativo
-    - **Total por Tipo de Notícia / Assunto:** (Contagem absoluta).
+    - **Total por Tipo de Notícia / Assunto:** (Contagem absoluta por categoria).
     - **Índice de Tom / Clima da Cobertura:** (Positivo, Neutro, Tenso/Crítico).
-    - **Matriz de Foco Temático com Proporção:** (Distribuição percentual).
-    - **Raio-X dos Veículos:** (Destaque o que veio das fontes prioritárias: Itatiaia, O Tempo, Canais YouTube).
+    - **Matriz de Foco Temático com Proporção:** (Distribuição percentual dos temas).
+    - **Raio-X dos Veículos:** (Destaque expressivo para a cobertura da Itatiaia, O Tempo e dos influenciadores/blogs citados).
     - **Indicador de "Ruído vs. Fato":** (Análise de furos vs. repetições).
     
     ## 🌡️ Termômetro da Torcida e Ambiente
@@ -71,12 +65,12 @@ def analisar_com_ia(noticias):
     [Ingressos, Arena MRV e Sócio-Torcedor].
     
     ## ⚔️ Seção Especial de Jogo (Se houver partida)
-    - **O Termômetro da Imprensa:** (Consenso e narrativa do confronto).
+    - **O Termômetro da Imprensa:** (Consenso dos jornalistas locais e nacionais).
     - **A Prancheta Tática:** (Escalações e desfalques).
     - **Previsões e Tendências Esportivas:** (Palpites e visão de mercado).
     - **O Fator Adversário:** (Momentos do rival).
     
-    ## 📰 Principais Notícias (Top 5 - Dê preferência às fontes prioritárias)
+    ## 📰 Principais Notícias (Top 5 - Dê preferência absoluta às fontes prioritárias)
     """
 
     modelo_escolhido = None

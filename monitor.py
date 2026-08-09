@@ -30,8 +30,9 @@ def analisar_com_ia(noticias):
     # 🐔 Dossiê Analítico do Atlético Mineiro - {datetime.datetime.now().strftime("%d/%m/%Y")}
     
     ## 📊 Resumo Quantitativo & Qualitativo
+    - **Total por Tipo de Notícia / Assunto:** (Apresente a contagem absoluta de matérias encontradas para cada categoria, ex: Mercado da Bola: X notícias, Gestão/Bastidores: Y notícias, Tática/Treinos: Z notícias, DM/Lesões: W notícias, etc.).
     - **Índice de Tom / Clima da Cobertura:** (Classifique o clima midiático do dia, ex: Positivo, Neutro, Tenso/Crítico, com uma breve justificativa baseada nas matérias).
-    - **Matriz de Foco Temático com Proporção:** (Estime a distribuição percentual dos assuntos do dia, ex: Mercado da Bola %, Tática/Treinos %, Gestão/SAF %, DM/Lesões %, Bastidores %).
+    - **Matriz de Foco Temático com Proporção:** (Estime a distribuição percentual dos assuntos do dia comparando o volume de cada tema).
     - **Raio-X dos Veículos:** (Aponte quais fontes ou tipos de veículos — imprensa nacional vs. portais locais/influenciadores de MG — estão puxando o noticiário).
     - **Indicador de "Ruído vs. Fato":** (Analise se há muita repetição requentada da mesma notícia gerando efeito eco ou se há furos reais e informações novas).
     
@@ -57,7 +58,6 @@ def analisar_com_ia(noticias):
     [Faça uma lista com as 5 notícias mais importantes, contendo seus respectivos links em formato Markdown e um resumo analítico de 2 linhas para cada uma].
     """
 
-    # Busca dinâmica: pergunta diretamente à API quais modelos estão disponíveis para a chave
     modelo_escolhido = None
     try:
         for m in genai.list_models():

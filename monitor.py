@@ -2,15 +2,43 @@ import os
 import datetime
 import urllib.parse
 import feedparser
+import requests
+from bs4 import BeautifulSoup
 import google.generativeai as genai
 
+def buscar_itatiaia_direto():
+    # Acessa diretamente a editoria do Atlético na Itatiaia para garantir 100% de captura
+    noticias_itatiaia = []
+    try:
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+        url = 'https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/'
+        resposta = requests.get(url, headers=headers, timeout=10)
+        
+        if resposta.status_code == 200:
+            soup = BeautifulSoup(resposta.text, 'html.parser')
+            # Procura por links de matérias no site
+            for a in soup.find_all('a', href=True):
+                href = a['href']
+                titulo = a.get_text().strip()
+                # Filtra apenas links que parecem notícias de esportes e possuem títulos válidos
+                if ('/esportes/' in href or '/noticia/' in href) and len(titulo) > 20:
+                    link_completo = href if href.startswith('http') else 'https://www.itatiaia.com.br' + href
+                    # Padroniza no formato que o código espera
+                    class Entidade:
+                        def __init__(self, title, link):
+                            self.title = f"{titulo} - Itatiaia"
+                            self.link = link
+                    noticias_itatiaia.append(Entidade(titulo, link_completo))
+    except Exception as e:
+        print(f"Erro ao buscar direto na Itatiaia: {e}")
+        
+    return noticias_itatiaia
+
 def buscar_noticias():
-    # Consultas baseadas em palavras-chave inteligentes (substituindo o 'site:' que falha no RSS)
+    # 1. Busca ampla via Google News (Galo, O Tempo, etc.)
     queries = [
         '("Atlético Mineiro" OR "Galo") when:1d',
-        '(Itatiaia AND ("Atlético Mineiro" OR "Galo")) when:1d',
-        '("O Tempo" AND ("Atlético Mineiro" OR "Galo")) when:1d',
-        '(("Fala Galo" OR "Frossard" OR "Eu Acredito" OR "Itatiaia Esporte") AND ("Atlético Mineiro" OR "Galo")) when:1d'
+        '("O Tempo" AND ("Atlético Mineiro" OR "Galo")) when:1d'
     ]
     
     todas_noticias = []
@@ -25,19 +53,26 @@ def buscar_noticias():
             if entry.link not in links_visitados:
                 todas_noticias.append(entry)
                 links_visitados.add(entry.link)
-    
+
+    # 2. Insere diretamente as notícias raspadas da Itatiaia
+    noticias_ita = buscar_itatiaia_direto()
+    for item in noticias_ita:
+        if item.link not in links_visitados:
+            todas_noticias.insert(0, item) # Joga a Itatiaia para o topo da lista (prioridade)
+            links_visitados.add(item.link)
+            
     return todas_noticias
 
 def analisar_com_ia(noticias):
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
     
-    texto_noticias = "NOTÍCIAS COLETADAS:\n"
+    texto_noticias = "NOTÍCIAS COLETADAS (Dê prioridade máxima analítica e de citação para a Rádio Itatiaia e O Tempo):\n"
     for i, n in enumerate(noticias[:35], 1):
         texto_noticias += f"Notícia {i}: {n.title} (Link: {n.link})\n"
 
     prompt = f"""
     Você é um analista esportivo de alto nível e inteligência de dados focado no Clube Atlético Mineiro.
-    Abaixo estão as manchetes coletadas. Dê prioridade e destaque explícito às matérias e análises das fontes prioritárias (Itatiaia, O Tempo, Fala Galo, Frossard e Eu Acredito) que aparecem no conjunto de dados.
+    Abaixo estão as manchetes coletadas. Dê prioridade e destaque explícito às matérias da Itatiaia e do O Tempo que constam na lista.
     
     {texto_noticias}
     
@@ -49,7 +84,7 @@ def analisar_com_ia(noticias):
     - **Total por Tipo de Notícia / Assunto:** (Contagem absoluta por categoria).
     - **Índice de Tom / Clima da Cobertura:** (Positivo, Neutro, Tenso/Crítico).
     - **Matriz de Foco Temático com Proporção:** (Distribuição percentual dos temas).
-    - **Raio-X dos Veículos:** (Destaque expressivo para a cobertura da Itatiaia, O Tempo e dos influenciadores/blogs citados).
+    - **Raio-X dos Veículos:** (Destaque expressivo para a cobertura da Itatiaia e O Tempo).
     - **Indicador de "Ruído vs. Fato":** (Análise de furos vs. repetições).
     
     ## 🌡️ Termômetro da Torcida e Ambiente
@@ -70,7 +105,7 @@ def analisar_com_ia(noticias):
     - **Previsões e Tendências Esportivas:** (Palpites e visão de mercado).
     - **O Fator Adversário:** (Momentos do rival).
     
-    ## 📰 Principais Notícias (Top 5 - Dê preferência absoluta às fontes prioritárias)
+    ## 📰 Principais Notícias (Top 5 - Dê preferência absoluta à Itatiaia e O Tempo)
     """
 
     modelo_escolhido = None

@@ -25,6 +25,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Gerar Relatório de Notícias
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python monitor.py
 
       - name: Salvar Relatório no GitHub

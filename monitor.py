@@ -3,11 +3,11 @@ import datetime
 import urllib.parse
 import feedparser
 import requests
+import glob
 from bs4 import BeautifulSoup
 import google.generativeai as genai
 
 def buscar_itatiaia_direto():
-    # Acessa diretamente a editoria do Atlético na Itatiaia para garantir 100% de captura
     noticias_itatiaia = []
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
@@ -16,14 +16,11 @@ def buscar_itatiaia_direto():
         
         if resposta.status_code == 200:
             soup = BeautifulSoup(resposta.text, 'html.parser')
-            # Procura por links de matérias no site
             for a in soup.find_all('a', href=True):
                 href = a['href']
                 titulo = a.get_text().strip()
-                # Filtra apenas links que parecem notícias de esportes e possuem títulos válidos
                 if ('/esportes/' in href or '/noticia/' in href) and len(titulo) > 20:
                     link_completo = href if href.startswith('http') else 'https://www.itatiaia.com.br' + href
-                    # Padroniza no formato que o código espera
                     class Entidade:
                         def __init__(self, title, link):
                             self.title = f"{titulo} - Itatiaia"
@@ -35,7 +32,6 @@ def buscar_itatiaia_direto():
     return noticias_itatiaia
 
 def buscar_noticias():
-    # 1. Busca ampla via Google News (Galo, O Tempo, etc.)
     queries = [
         '("Atlético Mineiro" OR "Galo") when:1d',
         '("O Tempo" AND ("Atlético Mineiro" OR "Galo")) when:1d'
@@ -54,33 +50,59 @@ def buscar_noticias():
                 todas_noticias.append(entry)
                 links_visitados.add(entry.link)
 
-    # 2. Insere diretamente as notícias raspadas da Itatiaia
     noticias_ita = buscar_itatiaia_direto()
     for item in noticias_ita:
         if item.link not in links_visitados:
-            todas_noticias.insert(0, item) # Joga a Itatiaia para o topo da lista (prioridade)
+            todas_noticias.insert(0, item) 
             links_visitados.add(item.link)
             
     return todas_noticias
 
-def analisar_com_ia(noticias):
+def obter_historico_30_dias():
+    # Lê os últimos 30 relatórios salvos para gerar contexto de longo prazo
+    historico_texto = ""
+    if not os.path.exists("relatorios"):
+        return historico_texto
+        
+    arquivos = glob.glob("relatorios/noticias_*.md")
+    arquivos.sort(reverse=True) # Ordena do mais novo para o mais velho
+    arquivos_30_dias = arquivos[:30] # Pega apenas os 30 últimos dias
+    
+    if not arquivos_30_dias:
+        return "Nenhum histórico disponível ainda. Este é o primeiro dia de análise."
+        
+    for arq in arquivos_30_dias:
+        try:
+            with open(arq, "r", encoding="utf-8") as f:
+                # Extrai apenas parte do arquivo para não sobrecarregar com links, focando na análise textual
+                conteudo = f.read()
+                historico_texto += f"\n\n--- Relatório Histórico: {arq} ---\n{conteudo}\n"
+        except Exception:
+            continue
+            
+    return historico_texto
+
+def analisar_com_ia(noticias, historico):
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
     
-    texto_noticias = "NOTÍCIAS COLETADAS (Dê prioridade máxima analítica e de citação para a Rádio Itatiaia e O Tempo):\n"
+    texto_noticias = "NOTÍCIAS DE HOJE (Dê prioridade máxima analítica e de citação para a Rádio Itatiaia e O Tempo):\n"
     for i, n in enumerate(noticias[:35], 1):
         texto_noticias += f"Notícia {i}: {n.title} (Link: {n.link})\n"
 
     prompt = f"""
     Você é um analista esportivo de alto nível e inteligência de dados focado no Clube Atlético Mineiro.
-    Abaixo estão as manchetes coletadas. Dê prioridade e destaque explícito às matérias da Itatiaia e do O Tempo que constam na lista.
     
+    Abaixo estão as manchetes coletadas HOJE:
     {texto_noticias}
     
-    Analise profundamente esse material e escreva um relatório profissional em Markdown seguindo RIGOROSAMENTE esta estrutura:
+    Abaixo está o HISTÓRICO dos relatórios dos últimos 30 dias:
+    {historico}
+    
+    Analise profundamente as notícias de hoje, cruze as informações com as tendências identificadas no histórico de 30 dias e escreva um relatório profissional em Markdown seguindo RIGOROSAMENTE esta estrutura:
     
     # 🐔 Dossiê Analítico do Atlético Mineiro - {datetime.datetime.now().strftime("%d/%m/%Y")}
     
-    ## 📊 Resumo Quantitativo & Qualitativo
+    ## 📊 Resumo Quantitativo & Qualitativo (Notícias de Hoje)
     - **Total por Tipo de Notícia / Assunto:** (Contagem absoluta por categoria).
     - **Índice de Tom / Clima da Cobertura:** (Positivo, Neutro, Tenso/Crítico).
     - **Matriz de Foco Temático com Proporção:** (Distribuição percentual dos temas).
@@ -88,24 +110,30 @@ def analisar_com_ia(noticias):
     - **Indicador de "Ruído vs. Fato":** (Análise de furos vs. repetições).
     
     ## 🌡️ Termômetro da Torcida e Ambiente
-    [Analise o clima geral do clube e a pressão atual].
+    [Analise o clima geral do clube e a pressão atual baseada nas notícias de hoje].
     
     ## 💰 Lupa nas Finanças e Gestão da SAF
-    [Resuma atualizações econômicas e de gestão].
+    [Resuma atualizações econômicas e de gestão de hoje].
     
     ## ⚽ Visão Clínica de Campo (Foco Técnico)
-    [Análise tática, boletim do DM e escalação].
+    [Análise tática, boletim do DM e escalação das últimas 24h].
     
     ## 🏟️ Logística de Jogo e "Galo na Veia"
     [Ingressos, Arena MRV e Sócio-Torcedor].
     
-    ## ⚔️ Seção Especial de Jogo (Se houver partida)
+    ## ⚔️ Seção Especial de Jogo (Se houver partida próxima)
     - **O Termômetro da Imprensa:** (Consenso dos jornalistas locais e nacionais).
     - **A Prancheta Tática:** (Escalações e desfalques).
     - **Previsões e Tendências Esportivas:** (Palpites e visão de mercado).
     - **O Fator Adversário:** (Momentos do rival).
     
-    ## 📰 Principais Notícias (Top 5 - Dê preferência absoluta à Itatiaia e O Tempo)
+    ## 📈 Radar de Tendências (Visão Macro dos Últimos 30 Dias)
+    [Analisando o histórico dos últimos relatórios fornecidos, aponte os padrões do último mês:]
+    - **Problemas Crônicos e Táticos:** (Ex: "A defesa tem sofrido críticas contínuas nos últimos 15 dias" ou "O problema da lateral direita persiste desde o início do mês").
+    - **Evolução/Involução:** (Ex: "Houve uma melhora notável na aceitação do esquema tático nas últimas semanas" ou "O clima da torcida piorou significativamente após os últimos três empates").
+    - **Movimentação Extracampo e SAF:** (Padrões de comportamento, finanças e contratações que se desenharam ao longo do último mês).
+    
+    ## 📰 Principais Notícias de Hoje (Top 5 - Dê preferência absoluta à Itatiaia e O Tempo)
     """
 
     modelo_escolhido = None
@@ -123,12 +151,13 @@ def analisar_com_ia(noticias):
 
 def main():
     noticias = buscar_noticias()
+    historico = obter_historico_30_dias()
     
     if not noticias:
         relatorio = f"# 🐔 Dossiê do Galo ({datetime.datetime.now().strftime('%d/%m/%Y')})\nNenhuma notícia encontrada."
     else:
         try:
-            relatorio = analisar_com_ia(noticias)
+            relatorio = analisar_com_ia(noticias, historico)
         except Exception as e:
             relatorio = f"# Erro na IA\nDetalhes: {e}"
 

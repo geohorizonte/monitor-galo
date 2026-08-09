@@ -2,76 +2,71 @@ import os
 import datetime
 import urllib.parse
 import feedparser
+import google.generativeai as genai
 
 def buscar_noticias():
-    # Busca notícias das últimas 24h contendo Atlético Mineiro ou Galo
     query = '("Atlético Mineiro" OR "Galo") when:1d'
     encoded_query = urllib.parse.quote(query)
     rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=pt-BR&gl=BR&ceid=BR:pt-BR"
-    
     feed = feedparser.parse(rss_url)
     return feed.entries
 
-def gerar_relatorio(noticias):
-    hoje = datetime.datetime.now().strftime("%d/%m/%Y")
+def analisar_com_ia(noticias):
+    # Configura a chave de segurança que você guardou no GitHub Secrets
+    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
     
-    md = f"# 🐔 Relatório Diário do Atlético Mineiro\n"
-    md += f"**Data da Pesquisa:** {hoje}\n\n"
-    md += "---\n\n"
+    # Prepara a lista de notícias para a IA ler
+    texto_noticias = ""
+    for i, n in enumerate(noticias[:25], 1): # Pega até 25 notícias para análise
+        texto_noticias += f"Notícia {i}: {n.title} (Link: {n.link})\n"
+
+    # Comando de como a IA deve se comportar
+    prompt = f"""
+    Você é um analista esportivo de alto nível focado no Clube Atlético Mineiro.
+    Abaixo estão as manchetes das últimas 24 horas sobre o time:
     
-    if not noticias:
-        md += "Nenhuma notícia relevante foi encontrada nas últimas 24 horas.\n"
-        return md
+    {texto_noticias}
+    
+    Escreva um relatório profissional em Markdown seguindo EXATAMENTE esta estrutura:
+    
+    # 🐔 Relatório Analítico do Atlético Mineiro - {datetime.datetime.now().strftime("%d/%m/%Y")}
+    
+    ## 📊 Resumo Quantitativo
+    [Faça uma lista agrupando quantas notícias falaram sobre Mercado da Bola, Problemas Táticos/Lesões, Diretoria/Bastidores, etc.]
+    
+    ## ⚽ Análise Técnica
+    [Analise se há problemas recorrentes citados nas matérias, desfalques, pressão sobre comissão técnica ou jogadores específicos]
+    
+    ## 🏢 Bastidores e Diretoria
+    [Resuma o que está acontecendo fora de campo: SAF, finanças, declarações de dirigentes, polêmicas]
+    
+    ## 📰 Principais Notícias (Top 5)
+    [Faça uma lista com as 5 notícias mais importantes, com seus respectivos links, e 2 linhas de resumo para cada uma. Tente diversificar os temas.]
+    """
 
-    # Extração de veículos e análise geral
-    veiculos = set()
-    for n in noticias:
-        if ' - ' in n.title:
-            veiculos.add(n.title.split(' - ')[-1].strip())
-
-    md += "## 📊 Análise Geral do Dia\n"
-    md += f"- **Total de matérias encontradas hoje:** {len(noticias)}\n"
-    if veiculos:
-        md += f"- **Principais fontes cobrindo o Galo:** {', '.join(list(veiculos)[:7])}\n"
-    md += "- **Abrangência:** Pesquisa cobrindo portais nacionais, imprensa local de MG, blogs esportivos e canais do YouTube integrados aos buscadores.\n\n"
-    md += "---\n\n"
-
-    md += "## 📰 Notícias Principais do Dia\n\n"
-
-    # Seleciona até 15 notícias mais recentes
-    for i, n in enumerate(noticias[:15], 1):
-        titulo_completo = n.title
-        link = n.link
-        data_pub = getattr(n, 'published', 'Hoje')
-
-        if ' - ' in titulo_completo:
-            partes = titulo_completo.rsplit(' - ', 1)
-            titulo = partes[0]
-            fonte = partes[1]
-        else:
-            titulo = titulo_completo
-            fonte = "Veículo de Notícias"
-
-        md += f"### {i}. [{titulo}]({link})\n"
-        md += f"- **Fonte/Veículo:** {fonte}\n"
-        md += f"- **Publicado em:** {data_pub}\n"
-        md += f"- **Resumo:** Cobertura atualizada sobre contratações, escalação, bastidores ou partidas do Galo.\n\n"
-
-    return md
+    modelo = genai.GenerativeModel('gemini-1.5-flash')
+    resposta = modelo.generate_content(prompt)
+    
+    return resposta.text
 
 def main():
     noticias = buscar_noticias()
-    relatorio_md = gerar_relatorio(noticias)
     
-    # Atualiza o README.md na página inicial do GitHub
+    if not noticias:
+        relatorio = f"# 🐔 Relatório do Galo ({datetime.datetime.now().strftime('%d/%m/%Y')})\nNenhuma notícia encontrada hoje."
+    else:
+        try:
+            relatorio = analisar_com_ia(noticias)
+        except Exception as e:
+            relatorio = f"# Erro na IA\nNão foi possível gerar a análise inteligente. Erro: {e}"
+
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(relatorio_md)
+        f.write(relatorio)
         
-    # Salva um histórico na pasta /relatorios
     os.makedirs("relatorios", exist_ok=True)
     nome_arquivo = f"relatorios/noticias_{datetime.datetime.now().strftime('%Y-%m-%d')}.md"
     with open(nome_arquivo, "w", encoding="utf-8") as f:
-        f.write(relatorio_md)
+        f.write(relatorio)
 
 if __name__ == "__main__":
     main()

@@ -1,86 +1,78 @@
 # 🐔 Dossiê Analítico do Atlético Mineiro - 09/08/2026
 
-Este relatório analisa as notícias mais recentes sobre o Clube Atlético Mineiro, com foco e prioridade explícita para as fontes de alta relevância designadas (Itatiaia, O Tempo, Fala Galo, Frossard e Eu Acredito).
-
 ## 📊 Resumo Quantitativo & Qualitativo
 
 -   **Total por Tipo de Notícia / Assunto:**
-    *   **Jogos (Masculino) - Pós-Jogo / Análise / Reação:** 14 notícias
-    *   **Jogos (Masculino) - Pré-Jogo / Informações:** 5 notícias
-    *   **Mercado da Bola (Reforços):** 4 notícias
+    *   **Partida Principal (Pós-jogo e Análise - Remo x Atlético-MG):** 17 notícias
+    *   **Partida Principal (Pré-jogo - Remo x Atlético-MG):** 5 notícias
+    *   **Mercado da Bola (Contratação):** 4 notícias
+    *   **Mercado da Bola (Saída):** 1 notícia
     *   **Futebol Feminino:** 2 notícias
-    *   **Fora de Campo / Incidente:** 1 notícia
-    *   **Outros / Irrelevantes (Não relacionados ao Atlético-MG):** 4 notícias
+    *   **Fora de Campo (Incidentes/Curiosidades):** 1 notícia
+    *   **Não Relacionadas ao Clube Atlético Mineiro:** 5 notícias
 
--   **Índice de Tom / Clima da Cobertura:**
-    *   **Neutro:** 12 notícias (fatos, escalações, resumos de jogo sem opinião forte).
-    *   **Crítico / Tenso:** 9 notícias (análises de desempenho, declarações de descontentamento, incidentes).
-    *   **Positivo:** 4 notícias (principalmente sobre a chegada de Kevin Castaño).
+-   **Índice de Tom / Clima da Cobertura:** Predominantemente **Tenso/Crítico**. Apesar da notícia positiva da chegada de Kevin Castaño, o grande volume de análises e declarações após o empate amargo com o Remo aponta para um ambiente de cobrança e insatisfação com a perda de pontos.
 
 -   **Matriz de Foco Temático com Proporção:**
-    *   **Desempenho do Time Principal (Masculino):** 63% (19 notícias, englobando pré e pós-jogo, análises e reações ao empate com o Remo).
-    *   **Mercado de Transferências:** 13% (4 notícias sobre Kevin Castaño).
-    *   **Futebol Feminino:** 6% (2 notícias sobre as "Vingadoras").
-    *   **Assuntos Fora de Campo:** 3% (1 notícia sobre incidente com torcida).
-    *   **Irrelevantes:** 13% (4 notícias não relacionadas).
+    *   **Partida (Pós-jogo e Análise - Remo x Atlético-MG):** 56.7%
+    *   **Partida (Pré-jogo - Remo x Atlético-MG):** 16.7%
+    *   **Mercado da Bola (Contratação):** 13.3%
+    *   **Futebol Feminino:** 6.7%
+    *   **Mercado da Bola (Saída):** 3.3%
+    *   **Fora de Campo (Incidente):** 3.3%
 
 -   **Raio-X dos Veículos:**
-    *   **O TEMPO (Fonte Prioritária):** Cobertura crucial e de destaque absoluto, sendo a única fonte prioritária a fornecer uma atualização concreta com a notícia do desembarque de Kevin Castaño em BH.
-    *   **ge (Globo Esporte):** Veículo com a maior quantidade de análises aprofundadas e reações, oferecendo um olhar crítico sobre a "postura retraída" do Galo e as declarações de Domínguez, além de detalhar as atuações dos jogadores. Também cobriu a contratação de Castaño.
-    *   **LANCE!:** Ampla cobertura do empate com o Remo, com análises sobre a perda de pontos e a repercussão das palavras de Domínguez. Também informou sobre Castaño e as escalações.
-    *   **ESPN Brasil:** Cobriu o jogo contra o Remo, dando ênfase à polêmica do pênalti não marcado após o VAR.
-    *   **atletico.com.br:** Informações oficiais e diretas sobre os resultados do time masculino e feminino.
-    *   **Outros Veículos (Hoje em Dia, Estado de Minas, CNN, Metrópoles, SBT News, Terra, Impactto News, bol.uol.com.br, A TARDE):** Complementaram a cobertura com resumos de jogo, contextos adicionais (Remo no Z4) e notícias pontuais (incidente de torcida, resultados do feminino).
-    *   **Ausência de outras Fontes Prioritárias:** Não foram encontradas notícias explícitas da Itatiaia, Fala Galo, Frossard e Eu Acredito nos links fornecidos.
+    *   **Fontes Prioritárias (Destaque Explícito):**
+        *   **O TEMPO:** Uma notícia de alta relevância sobre a chegada de Kevin Castaño.
+        *   **Blog do Chico Maia:** Uma análise crítica pós-jogo, refletindo a pressão sobre o técnico.
+    *   **Outras Fontes de Destaque:**
+        *   **LANCE!:** Alta frequência de notícias (9), cobrindo análises de jogo, pré-jogo, transferências e declarações de técnico/jogador.
+        *   **ge:** Boa cobertura (5 notícias), com análises táticas, declarações do técnico e atualizações de mercado (contratação e saída).
+        *   **ESPN Brasil:** 3 notícias, com foco no relato do jogo e pré-jogo.
+        *   **atletico.com.br:** 2 notícias, com os resultados oficiais do time masculino e feminino.
+        *   **Outras:** Metrópoles, hojeemdia.com.br, CNN Brasil, SBT News, Terra, portalimpactto.com.br, BOL, atarde.com.br, Estado de Minas, Midiamax, com cobertura pontual.
 
 -   **Indicador de "Ruído vs. Fato":**
-    *   **Fatos Relevantes e Notícias Frescas:** O desembarque e a iminente contratação de Kevin Castaño (especialmente a atualização do O TEMPO), o empate do time principal com o Remo, as análises pós-jogo sobre desempenho e tática, a derrota do time feminino e o incidente com a torcida organizada.
-    *   **Repetições e Consenso:** Há uma repetição natural do resultado do jogo (empate com Remo) e da notícia da contratação de Castaño por diversos veículos, o que indica um consenso sobre os principais acontecimentos.
-    *   **Ruído:** Notícias sobre "Mônica San Galo" e "Alex Apodaca (MMA)" são irrelevantes para a análise do Atlético Mineiro. A notícia "Virada do Galo com gol de Bernard! ⚽" (Notícia 18) parece ser um highlight descontextualizado ou de uma partida anterior, não se alinhando com o resultado do jogo contra o Remo.
+    *   **Fatos Relevantes:** A chegada de Kevin Castaño, o empate com o Remo (2x2), as declarações do técnico Gabriel Milito e do jogador Bernard, a saída de Iván Román, e o resultado do futebol feminino.
+    *   **Repetições:** Houve uma alta repetição de notícias sobre o empate com o Remo e a contratação de Kevin Castaño, com diferentes veículos abordando os mesmos fatos.
+    *   **Ruído:** Notícias sobre "Mônica San Galo", "Alex Apodaca (MMA)" e "Galo da Madrugada" são irrelevantes para o foco do clube. A notícia "Virada do Galo com gol de Bernard! ⚽" (N18) parece ser um destaque de gol antigo ou de contexto diferente, pois não se alinha com os relatos do jogo recente. O incidente com torcida organizada (N30) é um fato, mas não diretamente ligado ao desempenho esportivo.
 
 ## 🌡️ Termômetro da Torcida e Ambiente
 
-O ambiente no Clube Atlético Mineiro, após a análise das notícias, é de **tensão e frustração**, apesar de um leve respiro com a chegada de um novo reforço.
-
-O empate com o Remo, uma equipe que luta contra o rebaixamento, é visto como um tropeço significativo. As análises apontam para uma "postura retraída" e "erros fatais na defesa", o que certamente gera crítica e insatisfação na torcida. As declarações do técnico Domínguez, classificando o resultado como "sabor amargo" e afirmando que o time "perdeu dois pontos", ecoam esse sentimento de oportunidade desperdiçada. A perda de chances de "encostar no pelotão de cima" aumenta a pressão sobre a equipe no Brasileirão.
-
-A chegada de Kevin Castaño, volante do River Plate, para realizar exames e assinar com o Galo (conforme noticiado com destaque pelo O TEMPO), serve como um ponto positivo e pode injetar uma dose de otimismo e expectativa por dias melhores, mostrando que a diretoria busca qualificar o elenco.
-
-No entanto, o clima geral é ponderado por fatores externos, como a derrota do time feminino e um incidente envolvendo a torcida organizada em BH, que resultou em detenções, adicionando elementos de preocupação e descontentamento secundários. A expectativa agora se volta para a estreia na Sul-Americana, vista como uma chance de "virar a chave" e aliviar a pressão.
+O ambiente no clube e na torcida pende para a insatisfação. O empate com o Remo, que vinha em má fase e figura no Z4 do Brasileirão, é visto como uma "perda de dois pontos" e "sabor amargo" pelo técnico Gabriel Milito, e um "castigo por postura retraída" segundo análises. Bernard, jogador influente, cobrou publicamente uma "reação" para "começar a conquistar" pontos. Há uma clara pressão sobre o técnico e o elenco para reverter a sequência de resultados que impede o Galo de se aproximar do topo da tabela. O "Blog do Chico Maia" reflete essa cobrança intensa sobre o treinador.
 
 ## 💰 Lupa nas Finanças e Gestão da SAF
 
-As notícias coletadas não abordam diretamente as finanças ou a gestão da SAF do Atlético Mineiro. O foco principal está nas atividades de campo e no mercado de transferências. A contratação de Kevin Castaño, embora sem detalhes financeiros, indica um investimento do clube na qualificação do elenco, o que, por inferência, envolve decisões de gestão e alocação de recursos financeiros. No entanto, não há dados explícitos sobre o caixa do clube, dívidas ou estratégias de negócios da SAF.
+Não há notícias coletadas que forneçam atualizações diretas sobre a situação financeira ou a gestão da SAF do Clube Atlético Mineiro neste período. A única informação indiretamente relacionada é a movimentação no mercado da bola (contratação de Castaño, saída de Román), que impacta a folha salarial e o balanço financeiro, mas sem detalhes orçamentários.
 
 ## ⚽ Visão Clínica de Campo (Foco Técnico)
 
--   **Resultados Recentes:** O Atlético Mineiro empatou com o Remo em 2 a 2 pelo Campeonato Brasileiro, em um jogo com "gol no início e pênalti não marcado" para o Galo. O resultado foi considerado um "sabor amargo" e uma "perda de dois pontos" pelo técnico Domínguez.
--   **Análise Tática e Desempenho:** A imprensa e o próprio técnico criticaram a "postura retraída" do Atlético, que foi "castigado" por essa abordagem. As atuações individuais indicaram que o "lado direito" da equipe teve bom desempenho, mas a "defesa cometeu erros fatais", culminando nos gols sofridos. O time "segue deixando pontos importantes pelo caminho", dificultando a aproximação do pelotão de cima na tabela.
--   **Boletim do DM e Escalação:** Não há um boletim de Departamento Médico detalhado nas notícias. Contudo, para o jogo contra o Remo, o Atlético-MG foi escalado com "novidades", conforme noticiado.
--   **Novos Reforços:** O Galo acertou a contratação de Kevin Castaño, volante do River Plate. O jogador já desembarcou em Belo Horizonte para realizar exames médicos e assinar contrato, sendo uma adição esperada para o meio-campo da equipe.
--   **Próximos Compromissos:** Após o empate, o foco do Atlético se volta para a estreia nas oitavas de final da Sul-Americana, um torneio onde o clube busca "virar a chave".
--   **Futebol Feminino:** A equipe das "Vingadoras" foi superada pelo Bahia, com o resultado de 2 a 0, complicando sua situação no Brasileirão Feminino.
+A análise tática do empate com o Remo aponta para uma "postura retraída" do Atlético-MG, que teria custado pontos importantes. A defesa, em particular, é criticada por "erros fatais", enquanto o lado direito foi um dos poucos setores elogiados. O técnico Gabriel Milito lamentou a perda de pontos, classificando o resultado como amargo. A chegada de Kevin Castaño é um reforço significativo para o meio-campo, trazendo novas opções táticas. A saída do zagueiro Iván Román para um clube chileno sugere uma reorganização do elenco na defesa. O foco agora se volta para a estreia nas oitavas de final da Sul-Americana, onde uma reação é esperada. Não há informações detalhadas sobre o boletim do DM nas notícias coletadas.
 
 ## 🏟️ Logística de Jogo e "Galo na Veia"
 
-Não foram encontradas notícias específicas sobre logística de jogos (venda de ingressos, planejamento de viagens), atualizações sobre a Arena MRV ou programas de sócio-torcedor ("Galo na Veia") nas manchetes coletadas.
+As notícias coletadas não abordam aspectos específicos de ingressos, atualizações da Arena MRV ou programas de Sócio-Torcedor para o período analisado.
 
-## ⚔️ Seção Especial de Jogo (Remo x Atlético-MG)
+## ⚔️ Seção Especial de Jogo (Remo 2 x 2 Atlético-MG)
 
--   **O Termômetro da Imprensa:** O consenso da imprensa é de que o empate em 2 a 2 com o Remo foi um resultado frustrante para o Atlético-MG. Há um tom de crítica em relação à "postura retraída" do time e aos "erros fatais" da defesa, que impediram o Galo de conquistar a vitória contra uma equipe do Z4. A lamentação de Domínguez ("sabor amargo", "perdemos dois pontos") foi amplamente repercutida.
--   **A Prancheta Tática:** O Atlético-MG entrou em campo com "novidades" na escalação, mas a estratégia tática foi questionada, com análises apontando para uma equipe excessivamente "retraída". Embora o "lado direito" tenha tido momentos positivos, a defesa demonstrou vulnerabilidades cruciais. A equipe teve que buscar a virada (após sofrer o primeiro gol), mas acabou cedendo o empate.
--   **Previsões e Tendências Esportivas:** O resultado reforça uma tendência de instabilidade e dificuldade em converter superioridade técnica (mencionada por Domínguez) em vitórias, especialmente em jogos onde o Galo é favorito. A equipe tem "deixado pontos importantes pelo caminho" no Brasileirão, o que pode impactar suas ambições na competição. A "virada de chave" para a Sul-Americana é vista como um ponto de inflexão necessário para mudar a tendência negativa.
--   **O Fator Adversário:** O Remo, mesmo estando na zona de rebaixamento (Z4), conseguiu um empate "movimentado" e "eletrizante" contra o Atlético-MG. Para o Remo, o resultado é positivo, pois os ajuda a se manter no Z4 sem piorar sua situação, e indiretamente beneficia outras equipes na luta contra o descenso, como o Santos. O Galo enfrentou um adversário motivado a pontuar em casa, o que sempre é um desafio.
+-   **O Termômetro da Imprensa:** O consenso da imprensa, tanto local quanto nacional, é de que o empate em 2 a 2 com o Remo foi um resultado frustrante para o Atlético-MG. O clima é de cobrança sobre a equipe e o técnico. O LANCE! e o ge, por exemplo, publicaram análises críticas sobre a perda de pontos importantes e a "postura retraída" do Galo, que perdeu a chance de encostar no pelotão de cima. O Blog do Chico Maia, em especial, vocaliza a alta cobrança sobre o técnico.
+-   **A Prancheta Tática:** O Atlético-MG entrou em campo com algumas "novidades" na escalação, embora os detalhes táticos específicos do jogo não tenham sido exaustivamente abordados em todas as manchetes. A análise do ge aponta para uma defesa com "erros fatais", enquanto o setor direito foi mais eficiente. O técnico Gabriel Milito vê o Atlético como "superior", mas a execução tática resultou em um empate. Não há desfalques notórios mencionados nas notícias pós-jogo, além da expectativa pela integração de Kevin Castaño.
+-   **Previsões e Tendências Esportivas:** O empate freia a ascensão do Atlético-MG no Brasileirão e aumenta a pressão para os próximos jogos, especialmente a estreia nas oitavas da Sul-Americana. A chegada de Kevin Castaño é uma tendência positiva para qualificar o meio-campo e oferecer mais consistência à equipe no futuro. A tendência é de que o técnico Milito seja cobrado por resultados imediatos e por uma mudança de postura em campo para evitar novas perdas de pontos.
+-   **O Fator Adversário:** O Remo, mesmo buscando o empate, permanece na zona de rebaixamento (Z4) do Brasileirão, o que torna o resultado ainda mais "amargo" para o Atlético-MG, pois enfrentava um time em situação desfavorável na tabela.
 
-## 📰 Principais Notícias (Top 5 - Preferência absoluta às fontes prioritárias)
+## 📰 Principais Notícias (Top 5 - Dê preferência absoluta às fontes prioritárias)
 
 1.  **Atlético: Kevin Castaño desembarca em BH para passar por exames e assinar com o Galo - O TEMPO (Notícia 8)**
-    *   *Fato mais relevante do dia vindo de uma fonte prioritária. A chegada do reforço é um passo concreto e positivo para o futuro do elenco.*
-2.  **Análise: Atlético-MG é castigado por postura retraída e perde chance de encostar no pelotão de cima - ge (Notícia 19)**
-    *   *Análise tática aprofundada e crítica sobre o desempenho do time no empate, com grande impacto na percepção do momento do clube.*
-3.  **Domínguez classifica empate do Atlético-MG como amargo: "Perdemos dois pontos" - ge (Notícia 23)**
-    *   *A repercussão direta do técnico reforça a frustração e o peso do resultado, refletindo o clima interno e externo.*
-4.  **Atuações do Atlético-MG: lado direito vai bem, e defesa comete erros fatais; dê as notas - ge (Notícia 15)**
-    *   *Detalha aspectos técnicos cruciais do jogo, apontando acertos e falhas específicas da equipe, essencial para a compreensão do desempenho.*
-5.  **Galo busca virada, mas empata com o Remo - atletico.com.br (Notícia 1)**
-    *   *A notícia do resultado em si, vinda de fonte oficial, é o ponto de partida para todas as análises e reações subsequentes.*
+    *   *Prioridade Justificada:* Notícia de fonte prioritária "O Tempo", informando sobre a chegada iminente de um reforço importante, Kevin Castaño, para exames médicos e assinatura de contrato. Um fato concreto e positivo.
+
+2.  **Remo 2 x 2 Atlético. Muita cobrança pra cima do técnico. Até parece que ele ganhou reforços para o recomeço do campeonato – Blog do Chico Maia (Notícia 33)**
+    *   *Prioridade Justificada:* Embora "Blog do Chico Maia" não seja uma das fontes institucionais, representa uma voz influente e analítica similar aos "Frossard e Eu Acredito" citados. A manchete capta o clima de cobrança e a opinião crítica sobre o desempenho do técnico após o empate.
+
+3.  **Análise: Atlético-MG é castigado por postura retraída e perde chance de encostar no pelotão de cima - ge (Notícia 19)**
+    *   *Relevância:* Uma análise aprofundada e crítica sobre o desempenho tático do time no jogo contra o Remo, identificando a "postura retraída" como o principal problema, o que reflete o tom geral da cobertura pós-jogo.
+
+4.  **Domínguez classifica empate do Atlético-MG como amargo: "Perdemos dois pontos" - ge (Notícia 23)**
+    *   *Relevância:* Traz a declaração direta do técnico Gabriel Milito (mencionado como Domínguez, que pode ser um erro de nome, mas o contexto indica ser o técnico do Galo), expressando sua frustração com o resultado e a perda de pontos, alinhando-se ao clima de insatisfação.
+
+5.  **Bernard alerta sobre pontos perdidos pelo Atlético e cobra reação: 'Começar a conquistar' - LANCE! (Notícia 31)**
+    *   *Relevância:* Destaca a voz de um jogador importante, Bernard, que não apenas reconhece a perda de pontos, mas também faz uma cobrança pública por reação, demonstrando liderança e a urgência por mudança de desempenho dentro do elenco.

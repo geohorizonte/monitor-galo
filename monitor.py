@@ -2,7 +2,7 @@ import os
 import datetime
 import urllib.parse
 import feedparser
-from google import genai
+import google.generativeai as genai
 
 def buscar_noticias():
     # Busca notícias das últimas 24h contendo Atlético Mineiro ou Galo
@@ -14,14 +14,14 @@ def buscar_noticias():
     return feed.entries
 
 def analisar_com_ia(noticias):
-    # Conecta utilizando a chave segura armazenada nos Secrets do GitHub
-    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    # Configura a chave utilizando o cofre do GitHub Secrets
+    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
     
     texto_noticias = ""
     for i, n in enumerate(noticias[:25], 1):
         texto_noticias += f"Notícia {i}: {n.title} (Link: {n.link})\n"
 
-    # Prompt estruturado com todas as novas diretrizes analíticas e de dia de jogo
+    # Prompt estruturado com o Resumo Quantitativo Qualificado e Seções Especializadas
     prompt = f"""
     Você é um analista esportivo de alto nível e inteligência de dados focado no Clube Atlético Mineiro.
     Abaixo estão as manchetes e notícias coletadas nas últimas 24 horas sobre o time:
@@ -60,12 +60,11 @@ def analisar_com_ia(noticias):
     [Faça uma lista com as 5 notícias mais importantes, contendo seus respectivos links em formato Markdown e um resumo analítico de 2 linhas para cada uma].
     """
 
-    # Lista de modelos seguros com redundância para evitar falhas
+    # Lista de modelos seguros com fallback para garantir o funcionamento
     modelos_seguros = [
-        'gemini-2.5-flash',
-        'gemini-2.0-flash',
         'gemini-1.5-flash',
-        'gemini-1.5-pro'
+        'gemini-1.5-pro',
+        'gemini-pro'
     ]
 
     resposta_texto = None
@@ -73,11 +72,9 @@ def analisar_com_ia(noticias):
 
     for nome_modelo in modelos_seguros:
         try:
-            response = client.models.generate_content(
-                model=nome_modelo,
-                contents=prompt
-            )
-            resposta_texto = response.text
+            modelo = genai.GenerativeModel(nome_modelo)
+            resposta = modelo.generate_content(prompt)
+            resposta_texto = resposta.text
             break
         except Exception as e:
             ultimo_erro = e
@@ -99,11 +96,9 @@ def main():
         except Exception as e:
             relatorio = f"# Erro na IA\nNão foi possível gerar a análise. Detalhes: {e}"
 
-    # Salva na página inicial do repositório (README)
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(relatorio)
         
-    # Salva o histórico diário na pasta relatorios
     os.makedirs("relatorios", exist_ok=True)
     nome_arquivo = f"relatorios/noticias_{datetime.datetime.now().strftime('%Y-%m-%d')}.md"
     with open(nome_arquivo, "w", encoding="utf-8") as f:

@@ -1,55 +1,48 @@
-Como seu analista esportivo de alto nível e inteligência de dados focado no Clube Atlético Mineiro, apresento o Dossiê Analítico com base nas notícias coletadas HOJE (09/08/2026), cruzando-as com as tendências identificadas no histórico dos últimos 30 dias, e dando prioridade e destaque explícito às matérias da Rádio Itatiaia e do O Tempo.
+# 🐔 Dossiê do Galo - 09/08/2026
 
-# 🐔 Dossiê Analítico do Atlético Mineiro - 09/08/2026
+## 📊 Resumo Rápido
+- **Total/Assunto:** 16 Pós-Jogo, 9 Mercado (6 Cheg., 3 Saíd.), 2 Recordes Indiv., 2 Próx. Jogo, 1 Fut. Fem.
+- **Tom:** Tenso (Frustração pós-empate domina o ambiente).
+- **Foco Temático:** 53% Pós-Jogo, 30% Mercado, 7% Recordes, 7% Próx. Jogo, 3% Fut. Fem.
+- **Raio-X:** Itatiaia lidera em volume e detalhes do pós-jogo e mercado; O Tempo confirma desembarque de Castaño.
+- **Ruído vs. Fato:** 4 notícias de ruído. As 30 relevantes focam em jogo contra o Remo, mercado e próximos desafios.
 
-## 📊 Resumo Quantitativo & Qualitativo (Notícias de Hoje)
-- **Total por Tipo de Notícia / Assunto:**
-    *   Pós-Jogo (Remo) & Análise da Partida: 18
-    *   Transferências (Chegadas e Saídas): 9
-    *   Recordes/Feitos Individuais (Extra-Jogo): 1
-    *   Logística/Próximos Jogos: 2
-    *   Futebol Feminino: 1
-    *   *Total de Notícias Relevantes ao Atlético-MG: 31*
-- **Índice de Tom / Clima da Cobertura:**
-    *   **Tense/Crítico (22.6%):** Um volume significativo de matérias reflete a frustração com o empate e a perda de pontos, expressa por jogadores e técnico (Itatiaia, LANCE!).
-    *   **Positivo (12.9%):** Notícias destacam feitos individuais e a manutenção da invencibilidade, embora muitas vezes com ressalvas (Itatiaia).
-    *   **Neutro/Informativo (64.5%):** A maioria das notícias relata fatos como transferências, escalações e resultados de forma objetiva (Itatiaia, O Tempo, ge, LANCE!).
-- **Matriz de Foco Temático com Proporção:**
-    *   Pós-Jogo (Remo) & Análise da Partida: 58.1%
-    *   Transferências (Chegadas e Saídas): 29.0%
-    *   Logística/Próximos Jogos: 6.5%
-    *   Recordes/Feitos Individuais: 3.2%
-    *   Futebol Feminino: 3.2%
-- **Raio-X dos Veículos:** A **Itatiaia** dominou a cobertura com 20 das 31 notícias relevantes, oferecendo detalhes do pós-jogo contra o Remo, declarações de atletas e técnico, além de atualizações importantes sobre transferências (Castaño, Román). **O Tempo**, com uma única matéria (Notícia 30), trouxe a confirmação crucial do desembarque de Kevin Castaño em BH, reiterando sua importância em informações de alto impacto. Outros veículos como ge, ESPN Brasil, LANCE!, atletico.com.br, Hoje em Dia e Metrópoles complementaram a cobertura com análises e confirmações.
-- **Indicador de "Ruído vs. Fato":** Foram identificadas 4 notícias de "ruído" (Notícias 1, 27, 29, 31) que não se referem diretamente ao Clube Atlético Mineiro. As 31 notícias restantes são factuais, cobrindo em profundidade o empate com o Remo, as movimentações de mercado de Kevin Castaño e Iván Román, além de declarações de membros do clube. Houve um acompanhamento sequencial das etapas da contratação de Castaño e da repercussão do jogo, indicando a importância desses eventos.
+## 🌡️ Termômetro e Ambiente
+- Clima de frustração explícita: Everson fala em "gosto de derrota" e Bernard desabafa sobre pontos perdidos.
+- Pressão aumenta para converter invencibilidade em vitórias e "mudar a chavinha" para a Sul-Americana.
 
-## 🌡️ Termômetro da Torcida e Ambiente
-O clima no Atlético-MG é de **frustração crescente e expectativa cautelosa**. As declarações incisivas do capitão Everson, que definiu o empate com o Remo como um "gosto de derrota" (Itatiaia, Notícia 11), e de Bernard, que desabafou sobre "pontos que a gente vai deixando" (Itatiaia, Notícia 10), explicitam uma insatisfação interna palpável com os tropeços recentes. O técnico "Barba" Domínguez também lamentou o "sabor amargo" do resultado (Itatiaia, Notícia 15). Apesar da manutenção da invencibilidade na temporada (Itatiaia, Notícia 16), há uma clara e urgente pressão para transformar empates em vitórias. A chegada de Kevin Castaño, amplamente noticiada pela **Itatiaia** (Notícias 19, 21) e especialmente pelo **O Tempo** (Notícia 30) com seu desembarque, traz um fôlego de otimismo e a esperança de que o reforço no meio-campo possa trazer mais consistência e virar essa "chavinha" que o elenco busca (Itatiaia, Notícia 18).
+## 💰 Lupa na SAF e Finanças
+- SAF proativa no mercado: Contratação de Kevin Castaño concretizada e desembarque em BH é investimento estratégico.
+- Gestão de ativos: Empréstimo de Iván Román ao Colo-Colo indica otimização do elenco e rodagem para jovens.
 
-## 💰 Lupa nas Finanças e Gestão da SAF
-A gestão da SAF demonstra uma postura ativa e estratégica no mercado de transferências. O principal destaque de hoje é a concretização do acordo pela contratação de Kevin Castaño, com o volante desembarcando em Belo Horizonte para exames e assinatura (Itatiaia, Notícias 19, 21; O Tempo, Notícia 30). Este movimento indica um investimento significativo para qualificar o elenco em uma posição-chave e demonstra a capacidade financeira da SAF. Em paralelo, a saída do jovem zagueiro Iván Román por empréstimo ao Colo-Colo (Itatiaia, Notícias 4, 5, 7) sugere uma política de gestão de ativos, buscando dar rodagem a promessas ou otimizar a folha salarial. Essas movimentações refletem o planejamento do clube em equilibrar investimentos imediatos para o elenco principal com a gestão de talentos de longo prazo da base.
+## ⚽ Foco Técnico e DM
+- Rodízio de Domínguez (6 mudanças contra Remo) visa gestão física do elenco para sequência de jogos.
+- Time busca consistência defensiva e em manter vantagens; zagueiro pede "mudar a chavinha".
+- Destaques ofensivos: Reinier encerra jejum; Bernard se isola na artilharia do ano, superando Hulk.
+- DM: Não há informações sobre novas lesões nas notícias de hoje.
 
-## ⚽ Visão Clínica de Campo (Foco Técnico)
-O técnico "Barba" Domínguez implementou um "rodízio" na escalação, com "seis mudanças" no time para o duelo contra o Remo (Itatiaia, Notícia 6). Essa estratégia, explicada pelo próprio treinador e defendida por Everson como "importante rodar" (Itatiaia, Notícia 13), visa gerenciar a carga física do elenco e evitar lesões. Taticamente, o time mostrou poder de reação ao buscar o empate, mas a dificuldade em manter vantagens e a inconsistência defensiva nos resultados ainda são pontos de atenção, com um zagueiro (Notícia 18) lamentando o empate e afirmando a necessidade de "mudar a chavinha". No ataque, Reinier encerrou um jejum de gols (Itatiaia, Notícia 8) e Bernard se isolou na artilharia do ano, superando Hulk após seis meses (Itatiaia, Notícia 9), evidenciando a capacidade individual de decisão e a boa fase do setor ofensivo. A chegada de Kevin Castaño (Itatiaia, O Tempo) é esperada para adicionar solidez, dinamismo e qualidade na saída de bola e contenção do meio-campo, potencialmente ajustando a estrutura tática da equipe para os próximos desafios. Não há um boletim de DM explícito nas notícias, mas o rodízio sugere uma gestão preventiva de lesões.
+## 🏟️ Arena MRV e Ingressos
+- Não há novidades relevantes sobre Arena ou ingressos nas manchetes de hoje.
 
-## 🏟️ Logística de Jogo e "Galo na Veia"
-A programação do Atlético foi ajustada para o próximo confronto pela Sul-Americana contra o RB Bragantino (Itatiaia, Notícia 20), indicando a prioridade e a atenção logística que o clube dispensa às competições continentais de mata-mata. O técnico Domínguez projeta uma "partida inteligente" para este duelo (Itatiaia, Notícia 17), o que pode envolver uma preparação tática e física específica. Informações sobre ingressos, novidades da Arena MRV ou programas de Sócio-Torcedor não foram o foco das notícias analisadas hoje, sugerindo que a atenção da mídia e do clube no momento está mais direcionada aos resultados em campo e às movimentações do elenco. A cobertura sobre "onde assistir" (ESPN Brasil, Notícia 32) foca apenas na transmissão do jogo.
-
-## ⚔️ Seção Especial de Jogo (Após Remo 2x2 Atlético e Projeção Sul-Americana)
-- **O Termômetro da Imprensa:** O empate em 2 a 2 com o Remo no Brasileirão dominou as análises, com um consenso geral de que o resultado foi "um sabor amargo" (Domínguez, Itatiaia, Notícia 15) e teve "gosto de derrota" (Everson, Itatiaia, Notícia 11). Apesar da série invicta do Atlético ter sido ampliada e considerada "um combustível para o mata-mata" por comentaristas como Alê Oliveira (Itatiaia, Notícia 12), a imprensa, incluindo LANCE! (Notícia 33), destaca que o Galo "segue deixando pontos importantes pelo caminho", gerando um clima de insatisfação apesar dos números positivos da invencibilidade.
-- **A Prancheta Tática:** Para o jogo contra o Remo, o técnico "Barba" Domínguez promoveu "seis mudanças no time" (Itatiaia, Notícia 6) em uma estratégia de rodízio e gestão de elenco. Reinier, que havia sido "cortado", retornou à titularidade e marcou (Itatiaia, Notícia 8). Um zagueiro, de volta ao time principal, lamentou o empate, reiterando a rotação na linha defensiva e a necessidade de "mudar a chavinha" (Itatiaia, Notícia 18). A equipe deve ajustar o foco e a intensidade para a Sul-Americana, buscando uma "partida inteligente" (Itatiaia, Notícia 17). Não foram reportados desfalques significativos por lesão nas notícias analisadas.
-- **Previsões e Tendências Esportivas:** A tendência é que o Atlético concentre esforços na virada de chave para a estreia nas oitavas da Sul-Americana, buscando uma "partida inteligente" contra o RB Bragantino (Domínguez, Itatiaia, Notícia 17). A chegada de Kevin Castaño (Itatiaia, O Tempo, Notícias 19, 21, 30) é um fator que pode impactar positivamente o desempenho, trazendo mais consistência e pegada ao meio-campo. A equipe precisa converter a invencibilidade em vitórias para ganhar moral e avançar nas fases eliminatórias das competições.
-- **O Fator Adversário:** O Remo, mesmo sendo um adversário teoricamente mais fraco, conseguiu arrancar um empate em casa, expondo as dificuldades do Atlético em manter a vantagem e a concentração. Para a Sul-Americana, o próximo desafio é o RB Bragantino, um adversário brasileiro que é conhecido por sua intensidade e modelo de jogo agressivo. A projeção do técnico Domínguez por uma "partida inteligente" contra eles indica que o adversário é respeitado e considerado um desafio que exigirá máxima atenção e estratégia para não repetir os tropeços recentes.
+## ⚔️ Especial de Jogo (Após Remo 2x2 Atlético e Projeção Sul-Americana)
+- **Imprensa:** Consenso de "sabor amargo" e pontos importantes perdidos no empate com o Remo.
+- **Prancheta:** Domínguez fez rodízio; time deve buscar uma "partida inteligente" para o duelo pela Sula.
+- **Tendências:** Urgente "virada de chave" para a Sul-Americana; Castaño deve dar mais consistência ao meio-campo.
+- **Adversário:** RB Bragantino, conhecido pela intensidade, é o próximo desafio na Sul-Americana.
 
 ## 📈 Radar de Tendências (Visão Macro dos Últimos 30 Dias)
-Analisando o histórico de relatórios e as notícias de hoje, os seguintes padrões se solidificam:
-- **Problemas Crônicos e Táticos:** A **frustração com a perda de pontos importantes** em jogos teoricamente controláveis e a **inconsistência em converter invencibilidade em vitórias** continuam sendo os problemas mais crônicos e persistentes, conforme as notícias de hoje reiteram explicitamente as lamentações de jogadores e comissão técnica. As críticas à defesa e a dificuldade em manter a "chavinha" virada para a vitória, que já haviam sido apontadas no histórico ("erros fatais"), permanecem implícitas nas falas de insatisfação após o empate com o Remo. O **rodízio intenso** na escalação, embora estratégico e necessário, ainda não se traduziu em resultados consistentemente vitoriosos que acalmem o ambiente e consolidem uma identidade tática em todos os cenários de jogo.
-- **Evolução/Involução:** Houve uma **involução no clima da torcida e do ambiente interno**, que, de uma "cautelosa frustração" (relatório histórico), progrediu para uma frustração mais explícita e com declarações contundentes como "gosto de derrota" por parte do capitão. A pressão por resultados aumentou significativamente. Em termos de campo, há **evolução em desempenhos individuais notáveis**, como a consolidação de Bernard como artilheiro principal do ano, superando Hulk, e a quebra de jejum de Reinier, indicando que o setor ofensivo tem encontrado soluções individuais. Contudo, a equipe como um todo ainda busca a performance coletiva ideal para transformar o volume de jogo em vitórias consistentes.
-- **Movimentação Extracampo e SAF:** A **gestão ativa e estratégica da SAF no mercado de transferências** se consolidou de forma marcante. A tendência de buscar reforços pontuais e de alto impacto se concretizou com a chegada de Kevin Castaño, um investimento substancial para o meio-campo que reflete um planejamento de reforçar posições-chave. A política de **gestão de elenco e desenvolvimento de jovens talentos** também se confirmou com o empréstimo de Iván Román, indicando um planejamento que abrange tanto o presente quanto o futuro do clube, otimizando o plantel e a folha salarial.
+- **Problemas Crônicos e Táticos:** Perda de pontos em jogos controláveis e dificuldade em converter invencibilidade em vitórias é persistente. Críticas à defesa e a necessidade de "virar a chavinha" permanecem. O rodízio intenso ainda não se traduziu em resultados consistentemente vitoriosos.
+- **Evolução/Involução:** O clima interno e da torcida piorou, de frustração cautelosa para explícita ("gosto de derrota"). Desempenhos individuais ofensivos (Bernard, Reinier) evoluem, mas o coletivo ainda busca a consistência para vitórias.
+- **Movimentação Extracampo e SAF:** A gestão ativa e estratégica da SAF no mercado se consolidou, buscando reforços pontuais de alto impacto (Castaño). A política de gestão de elenco e talentos jovens (empréstimo Román) também foi confirmada.
 
-## 📰 Principais Notícias de Hoje (Top 5 - Dê preferência absoluta à Itatiaia e O Tempo)
-1.  **Atlético anuncia acordo pela contratação de Castaño; saiba detalhes - Itatiaia** (Notícia 21): A confirmação oficial do acordo para trazer o volante Kevin Castaño é a notícia de maior impacto, pois representa um reforço estratégico e um investimento significativo para o elenco, gerando grande expectativa para os próximos jogos.
-2.  **Atlético: Kevin Castaño desembarca em BH para passar por exames e assinar com o Galo - O TEMPO** (Notícia 30): Complementando a notícia anterior, o desembarque físico do jogador em Belo Horizonte valida a concretização da transferência e gera expectativa imediata, sendo um fato de alta relevância e concretude para a torcida e o clube.
-3.  **Capitão do Atlético, Everson define empate com o Remo: 'Gosto de derrota' - Itatiaia** (Notícia 11): Esta declaração forte do goleiro e capitão expõe o sentimento interno de frustração e a pressão por desempenho, refletindo o clima no vestiário após o tropeço e a insatisfação com a perda de pontos.
-4.  **Bernard se isola na artilharia do Atlético no ano e desbanca Hulk após seis meses - Itatiaia** (Notícia 9): Um feito individual notável que reorganiza a hierarquia ofensiva do time, destacando a excelente fase de Bernard e seu papel crescente como principal referência goleadora do Atlético no ano.
-5.  **‘Barba’ Domínguez lamenta empate do Atlético com o Remo: ‘Sabor amargo’ - Itatiaia** (Notícia 15): A visão do técnico sobre o recente desempenho da equipe é crucial para entender a estratégia e o ambiente no comando, confirmando o sentimento geral de insatisfação com o resultado abaixo do esperado e a busca por ajustes.
+## 📰 Top 5 Notícias
+1.  **[Atlético anuncia acordo pela contratação de Castaño; saiba detalhes - Itatiaia](https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-anuncia-acordo-pela-contratacao-de-castano-saiba-detalhes/)**
+    *   Confirmado o acordo oficial para trazer o volante Kevin Castaño, reforço estratégico para o meio-campo.
+2.  **[Atlético: Kevin Castaño desembarca em BH para passar por exames e assinar com o Galo - O TEMPO](https://news.google.com/rss/articles/CBMizwFBVV95cUxQVXhPS0pmNlFYOUh1WWk5NEZDNnBHNDBOdlZCOFFSZU43dTZKZzhwTGdtOGZiN2pPRS12SWhaMXkwQVlsQXRNX3ZIQURPeWRYTV8tWEZnNzFGS1d3TjUxOE52QllYUFkzWTcwZ3k0SlEwbWtsRUZJSFU4OC1tUWlGUHNDcG9lWnBzOWpTVXBWSkJIdC1VOU9MLUE1aHFLRDBvUzZzY2lxWU5vZmljbHdWREpfTDkwREZlT0VpQUg0QmNOUVlEalNoN1BCaGF1SmPSAdQBQVVfeXFMUFB1cGVwcjV5LVp0VXQtRk9EakxXaldIbE5qdFA4ejBxSldLX29tWEx4WndSMWJicXBGUnl1d3lPaHcwVUh4dVczalJHX05CeUFlaFFkYXl4dFQ0LWRlOU1mQV9lS3lQRUtuTmEwbkQxY1MzT3hab2I5YU9TakZGWlFKdHN3RUpnVTFLZTZkeVdrYTJNbmxKcHVZY2EyRXdoeWdxakRxdWZ0ZjQ0N245VVdiS0FaR2tOZkp1ODZjdFA3ZGZzTjZDb0g5aEFaenVjRkYyMGE?oc=5)**
+    *   Volante Kevin Castaño chegou a Belo Horizonte para exames e assinatura, concretizando a transferência.
+3.  **[Capitão do Atlético, Everson define empate com o Remo: 'Gosto de derrota' - Itatiaia](https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/capitao-do-atletico-everson-define-empate-com-o-remo-gosto-de-derrota/)**
+    *   Everson expressou a grande frustração interna com o empate, definindo o resultado como uma derrota.
+4.  **[Bernard se isola na artilharia do Atlético no ano e desbanca Hulk após seis meses - Itatiaia](https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/bernard-se-isola-na-artilharia-do-atletico-no-ano-e-desbanca-hulk-apos-seis-meses/)**
+    *   Bernard se tornou o artilheiro isolado do Atlético em 2026, superando Hulk e evidenciando sua boa fase.
+5.  **[‘Barba’ Domínguez lamenta empate do Atlético com o Remo: ‘Sabor amargo’ - Itatiaia](https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/barba-dominguez-lamenta-empate-do-atletico-com-o-remo-sabor-amargo/)**
+    *   Técnico Domínguez demonstrou insatisfação com o resultado, sentindo o "sabor amargo" do empate.

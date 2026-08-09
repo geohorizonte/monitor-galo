@@ -1,55 +1,52 @@
 # 🐔 Dossiê Analítico do Atlético Mineiro - 09/08/2026
 
 ## 📊 Resumo Quantitativo & Qualitativo
-
--   **Total por Tipo de Notícia / Assunto:**
-    -   Futebol Masculino (Jogo Remo x Atlético-MG - Pré/Pós-Jogo): 20 notícias
-    -   Futebol Feminino (Vingadoras - Jogo Atlético x Bahia): 3 notícias
-    -   Mercado da Bola / Movimentação de Elenco: 2 notícias
--   **Índice de Tom / Clima da Cobertura:** **Tenso/Crítico**. O empate do time masculino contra o Remo, classificado como "amargo" pelo técnico e gerando cobranças de Bernard, dominou o noticiário. A derrota do time feminino também contribuiu para um clima de resultados abaixo do esperado.
--   **Matriz de Foco Temático com Proporção:**
-    -   Futebol Masculino (Remo x Atlético-MG): ~80%
-    -   Futebol Feminino (Vingadoras): ~12%
-    -   Mercado da Bola: ~8%
--   **Raio-X dos Veículos:** A cobertura foi predominantemente puxada por grandes portais esportivos nacionais (LANCE!, ge.globo.com, ESPN Brasil, Terra, VEJA, SBT News, R7 Esportes, BOL, Midiamax, A TARDE) e pelo site oficial do clube (atletico.com.br). Não houve destaque para influenciadores ou portais estritamente locais de MG fora dos grandes conglomerados.
--   **Indicador de "Ruído vs. Fato":** **Moderado a Alto Ruído**. Houve uma quantidade significativa de "ruído" com múltiplas notícias de "onde assistir" e "escalações prováveis" antes da partida do time masculino. Após o jogo, vários veículos reportaram o mesmo resultado de empate com similaridades. Os "fatos" novos foram o resultado da partida do Galo, as declarações pós-jogo, a saída de Iván Román por empréstimo e o resultado da equipe feminina.
+- **Total por Tipo de Notícia / Assunto:**
+    *   **Jogo do Masculino (Remo x Atlético-MG):** 25 notícias (83.3%)
+        *   Pré-jogo (previsões, escalações, onde assistir): 13
+        *   Pós-jogo (resultado, gols, análise, reações): 12
+    *   **Futebol Feminino (Vingadoras):** 3 notícias (10%)
+    *   **Mercado da Bola (Masculino):** 2 notícias (6.7%)
+- **Índice de Tom / Clima da Cobertura:** Tenso/Crítico.
+    *   O empate do time masculino contra o Remo é amplamente visto como "amargo" e uma "perda de pontos", gerando frustração.
+    *   A derrota do time feminino também contribui para um clima de cobrança e necessidade de reação.
+- **Matriz de Foco Temático com Proporção:**
+    *   **Desempenho do time principal (Remo x Atlético-MG):** 83.3%
+    *   **Futebol Feminino:** 10%
+    *   **Mercado de Transferências:** 6.7%
+- **Raio-X dos Veículos:**
+    *   **atletico.com.br (Prioritário):** 4 notícias. Essenciais para confirmar resultados e reações oficiais (Notícia 1, 9, 15, 18).
+    *   **ESPN Brasil:** 2 notícias (Notícia 2, 11). Forneceu detalhes cruciais sobre o jogo, incluindo o pênalti não marcado.
+    *   **LANCE!:** 8 notícias (Notícia 3, 12, 16, 17, 19, 20, 25, 28). Cobriu pré-jogo, lances-chave, reações do técnico e jogador, e mercado.
+    *   **GE:** 3 notícias (Notícia 6, 13, 23). Destacou gols, a frustração do técnico e a notícia de transferência.
+    *   Outros veículos (Terra, VEJA, No Ataque, SBT News, portalimpactto.com.br, R7 Esportes, bol.uol.com.br, Midiamax, band.com.br, Rede 98, A TARDE) complementaram a cobertura com prévias, resultados e análises.
+- **Indicador de "Ruído vs. Fato":** Médio. Houve uma alta repetição de informações de pré-jogo (onde assistir, prováveis escalações) entre diversos veículos. No pós-jogo, o resultado (2x2) e o gol de Bernard foram amplamente reportados. Os "fatos" mais distintivos foram a análise do pênalti não marcado (ESPN), as declarações diretas do técnico Domínguez e do jogador Bernard (GE, LANCE!), e a confirmação da saída de Iván Román (GE, LANCE!).
 
 ## 🌡️ Termômetro da Torcida e Ambiente
-
-O ambiente no clube, especialmente em relação ao time masculino, tende à frustração após o empate em 2 a 2 com o Remo, uma equipe do Z4 do Brasileirão. A virada conquistada e depois cedida gera um sentimento de "dois pontos perdidos", como expressou o técnico Gabriel Milito (Notícia 13). As declarações de Bernard (Notícia 17) cobrando reação e a necessidade de "começar a conquistar" refletem uma pressão interna e externa para resultados mais consistentes. A torcida provavelmente manifestará insatisfação com a perda de pontos contra um adversário teoricamente mais fraco, intensificando a cobrança sobre a comissão técnica e o elenco. A derrota da equipe feminina para o Bahia (Notícias 15, 21) adiciona um tom geral de apreensão.
+O ambiente no Clube Atlético Mineiro parece estar sob uma leve pressão após o empate em 2 a 2 com o Remo pelo Brasileirão. O resultado é categorizado como "amargo" pelo técnico Gabriel Milito (Notícia 13, 28) e pelo jogador Bernard (Notícia 17), que considera o empate como "dois pontos perdidos". Há um claro sentimento de frustração por não ter garantido a vitória contra um adversário que se encontra na zona de rebaixamento (Notícia 24). Bernard, inclusive, cobra uma reação do time, alertando para a necessidade de "começar a conquistar" os pontos. A derrota do time feminino para o Bahia (Notícia 15, 22) adiciona à atmosfera de desafios e a necessidade de resultados positivos em todas as frentes. A torcida provavelmente ecoa essa frustração, esperando uma performance mais dominante e a busca incessante por vitórias.
 
 ## 💰 Lupa nas Finanças e Gestão da SAF
-
-Nenhuma atualização significativa nas últimas 24 horas sobre aspectos financeiros do clube, balanços, negociações da SAF, acordos judiciais ou declarações de dirigentes sobre o aspecto econômico.
+As notícias coletadas não trazem informações detalhadas sobre a saúde financeira ou a gestão da SAF do Atlético Mineiro. O único ponto relevante para esta seção é a movimentação no elenco, com a iminente saída do zagueiro Iván Román por empréstimo para um clube chileno (Notícia 23, 25). Esta é uma operação de gestão de elenco que pode ter implicações financeiras (liberação de folha salarial) e estratégicas (oportunidade para o jogador ganhar experiência). Contudo, a ausência de dados mais amplos impede uma análise aprofundada da situação econômica do clube.
 
 ## ⚽ Visão Clínica de Campo (Foco Técnico)
+O jogo contra o Remo, que terminou em 2 a 2, mostrou um Atlético-MG que buscou a virada com gol de Bernard, mas cedeu o empate (Notícia 6, 9). O técnico Gabriel Milito expressou que o time foi superior em campo e lamentou o resultado, descrevendo-o como "sabor amargo" e como a perda de "dois pontos" (Notícia 13, 28). Um ponto de controvérsia foi um pênalti a favor do Galo que não foi marcado mesmo após a intervenção do VAR (Notícia 2).
 
-A análise tática do empate com o Remo (2-2) indica uma equipe com capacidade de reação, visto que buscou a virada com gol de Bernard (Notícia 6), mas que demonstrou fragilidade em manter o resultado ou controlar a partida. O técnico Gabriel Milito mencionou "novidades" na escalação (Notícia 3), sugerindo experimentações ou ajustes que podem não ter rendido o controle de jogo desejado. A perda de pontos para um time na zona de rebaixamento aponta para a necessidade de maior solidez defensiva e consistência tática.
-
-No boletim do Departamento Médico, não há notícias específicas sobre novas lesões ou o estado de jogadores em recuperação nas últimas 24 horas.
-
-Em termos de movimentação de elenco, o zagueiro Iván Román está encaminhando sua saída por empréstimo para um clube chileno (Notícias 23, 24). Essa movimentação sugere uma gestão do elenco, liberando um jogador para ganhar experiência, mas não há indicação de substituições iminentes.
+-   **Análise Tática:** O Galo buscou o ataque, conseguindo uma virada temporária, o que indica capacidade ofensiva. No entanto, a incapacidade de segurar a vantagem sugere falhas defensivas ou na gestão do placar. As "novidades" na escalação (Notícia 3) indicam que a comissão técnica está experimentando ou buscando alternativas para o time titular.
+-   **Boletim do DM:** Não há notícias específicas sobre o departamento médico. A menção de "novidades" na escalação pode ser tanto por escolha técnica quanto por necessidade devido a pequenas lesões ou retorno de atletas.
+-   **Escalação:** As notícias de pré-jogo (Notícia 3, 4, 5, 8, 11, 27, 30) indicaram prováveis escalações com "novidades". Embora a escalação exata do jogo não esteja totalmente detalhada em uma única fonte, a análise pós-jogo foca no desempenho coletivo e na frustração do técnico, implicando que a performance, apesar dos esforços, não foi suficiente para os três pontos.
 
 ## 🏟️ Logística de Jogo e "Galo na Veia"
+Não há informações relevantes nas notícias fornecidas sobre ingressos, movimentações na Arena MRV ou programas de Sócio-Torcedor. A cobertura foi estritamente focada nos resultados e análises das partidas.
 
-Nenhuma atualização significativa nas últimas 24 horas sobre venda de ingressos para futuras partidas, novidades relacionadas à Arena MRV ou atualizações do programa de sócio-torcedor Galo na Veia.
+## ⚔️ Seção Especial de Jogo (Remo x Atlético-MG)
+-   **O Termômetro da Imprensa:** O confronto foi amplamente descrito como "eletrizante" e "movimentado", com "quatro gols" (Notícia 10, 14, 20). A narrativa geral é de um Atlético-MG que buscou a virada, mas não conseguiu manter o resultado contra um Remo resiliente. O empate é percebido como um tropeço para o Galo, especialmente pela posição do Remo na tabela (Z4). A controvérsia do pênalti não marcado também gerou discussões.
+-   **A Prancheta Tática:** O Atlético-MG foi escalado com "novidades" (Notícia 3), o que pode ter sido uma tentativa de surpreender o adversário ou gerenciar o elenco. O Galo marcou com Bernard (Notícia 6), demonstrando poder de reação. O Remo, no entanto, conseguiu empatar com Taliari (Notícia 12), mostrando que, apesar de ser um time do Z4, soube aproveitar suas chances. A decisão do VAR de não conceder um pênalti ao Atlético-MG foi um momento crucial que influenciou o resultado (Notícia 2).
+-   **Previsões e Tendências Esportivas:** O empate é um resultado que dificulta a ascensão do Atlético-MG na tabela do Brasileirão, sendo considerado um tropeço "amargo" e uma "perda de dois pontos" por Domínguez (Notícia 13) e Bernard (Notícia 17). A tendência é de que o time sinta a pressão para buscar vitórias nos próximos jogos, a fim de não se distanciar dos líderes e da zona de classificação para competições continentais.
+-   **O Fator Adversário:** O Remo, que se encontra na zona de rebaixamento (Z4) (Notícia 24), conseguiu um resultado importante em casa contra um adversário mais forte. Para o Remo, o empate é um ponto conquistado que, embora não o tire da zona de rebaixamento, pode dar ânimo e confiança para a sequência do campeonato. Para o Galo, enfrentar um time do Z4 e não vencer adiciona um peso negativo ao resultado.
 
-## ⚔️ Seção Especial de Jogo
-
--   **O Termômetro da Imprensa:** O consenso da imprensa é que o Atlético-MG perdeu uma grande oportunidade de somar três pontos importantes. A narrativa principal é a de um "empate amargo" (Notícia 13) e um "jogo movimentado" (Notícia 20) onde o Galo "buscou a virada, mas não conseguiu segurar o resultado" (Notícia 9). O favoritismo do Galo era claro, e o resultado final é visto como decepcionante.
--   **A Prancheta Tática:** As notícias pré-jogo apontavam para "novidades" na escalação (Notícia 3). No jogo, o time conseguiu virar o placar com gol de Bernard, mas permitiu o empate do Remo, indicando problemas na manutenção da vantagem. Não foram reportados desfalques confirmados nas últimas 24 horas que justificassem o resultado. O encaixe estratégico após as "novidades" precisa ser reavaliado por Milito, visando maior consistência.
--   **Previsões e Tendências Esportivas:** As previsões pré-jogo, embora não detalhadas nas manchetes, certamente apontavam o Atlético-MG como franco favorito devido à sua posição na tabela e ao fato do Remo estar no Z4. O empate em 2 a 2 é, portanto, um resultado abaixo da expectativa e que impacta negativamente a projeção de pontos do Galo no Brasileirão.
--   **O Fator Adversário:** O Remo, que ocupa a zona de rebaixamento (Z4) do Brasileirão (Notícia 11), demonstrou resiliência ao buscar o empate em casa. O resultado é valioso para eles na luta contra o rebaixamento, mantendo-os vivos, embora ainda no Z4. A notícia 11 ainda destaca que "Santos agradece" o empate, indicando a importância do jogo na briga contra o descenso.
-
-## 📰 Principais Notícias e Links (Top 5)
-
-1.  [Galo busca virada, mas empata com o Remo](https://news.google.com/rss/articles/CBMickFVX3lxTFAybGFwWjB6Ykl5N0d4QmowQ2dBcEhZMGlTRFBjenp0Ny14TGhvQzhla1A0UU9rZl9TTEJUZXZUYW5SVGk4a040VFZKZmpuTVV3UGRXT2hzQzJ0YjNSS1pyRGY2MW5iSmVaVmhhWWRYUk13dw?oc=5) - atletico.com.br
-    *   Relata o resultado final da partida, um empate em 2 a 2 contra o Remo, destacando que o Galo chegou a virar o jogo antes de ceder o empate.
-2.  [Domínguez classifica empate do Atlético-MG como amargo: "Perdemos dois pontos"](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNV005eW9XYVczN09xS1pITUQza3NBQ0NKTmhBOGlIVnhvRFJZTDR1VTI4LXYxNGl6TV8yNDZBQXBiVE52STRBcnBsTGt1YXczMlNDMFBCYXlJbThqSFlWSm85ejdrV1huakxPNFdEWnp2MzJxQVVxam0yczNwaUNlSFlCRWZubXFmZldWaUEtV0ZZRDl6RWlBaFBsY0l3eWRnTmdRcG9OdVBQX1R5ci1MZk5iR2Y4WUVTUFlaTVB1aGhjZVBQZXN5eVpocWdXVl9TV2FZTEhOQW01NmZOaDAxOG5nMzlNYXJzbmczdUNTVdIB7wFBVVfeXFMV005eW9XYVczN09xS1pITUQza3NBQ0NKTmhBOGlIVnhvRFJZTDR1VTI4LXYxNGl6TV8yNDZBQXBiVE52STRBcnBsTGt1YXczMlNDMFBCYXlJbThqSFlWSm85ejdrV1huakxPNFdEWnp2MzJxQVVxam0yczNwaUNlSFlCRWZubXFmZldWaUEtV0ZZRDl6RWlBaFBsY0l3eWRnTmdRcG9OdVBQX1R5ci1MZk5iR2Y4WUVTUFlaTVB1aGhjZVBQZXN5eVpocWdXVl9TV2FZTEhOQW01NmZOaDAxOG5nMzlNYXJzbmczdUNTVQ?oc=5) - ge.globo.com
-    *   Apresenta a visão do técnico Gabriel Milito sobre o empate, que considerou o resultado como "amargo" e uma perda de pontos para a equipe.
-3.  [Bernard alerta sobre pontos perdidos pelo Atlético e cobra reação: 'Começar a conquistar'](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWm9QSThnMmZYelhCOWJjZDhUTWI3ajJ6QVRESVRSdVFmMmNRWDRSX3M2Q21lNEtXbUluQkVTSTVQZDNSN2lrQ2l4eUs0ZnI2SXRpWUc3eTFhQUhIcnZmRkRLQ25WeHg1SkNvM2FOQ242U1Vtb3VDZm1rMWFERURPd2JhQm1CUVNjOWVJblh6dl81aXpzZTRUNjFfZmF5Vm5hOWJoVVNGWUdKS08zaGM1OUNpaDZMei1hSmR2cjlJbG5Ud3FoS0k5Y3BIU3pzQQ?oc=5) - LANCE!
-    *   O jogador Bernard expressa a insatisfação com o resultado e exige uma reação do time, ressaltando a importância de começar a somar vitórias.
-4.  [Clube chileno anuncia Iván Román, zagueiro do Atlético-MG](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFdHNExtZWNjNzBScm1lbkdMdWstVFJZZ2N1RWMxWTdUVkNaV21DZncxdVE0LXNSOVpzVDhrczlOTDRHUFlUbklnNmE1YzZ6X1l2VVNEQ0p0TGc0NktJbmNFMlZmcllzSmNLV0tfZnFiYkRQRUJ1OXpmN2xPM0lrNlpiNGZKVktPa1ZpUE5TS21Lbk1Xa01CSl9DNC1wNFpqTnQ1cGNDNVg0ZFRja0pnVkZOdFlja1BnbS1pVzJwaGpoWUdOcTRMZEFIN3hEdXJOT1lMRDdWWk9yWGJ2akw1dkx3b0fSAeQBQVVfeXFMUFRXRzRMbWVjYzcwUnJtZW5HTHVrLVRSWWdjdUVjMVk3UVZDWldtQ2Z3MXVRNC1zUjlac1Q4a3M5Tkw0R1BZVG5JZzZhNWM2el9ZdlVTRENKdExnNDZLSW5jRTJWZnJZc0pjS1dLX2ZxYmJEUEVCdTl6ZjdsTzNJazZaYjRmSlZLT2tWaVBOU0ttS25NV2tNQkpfQzQtcDRaak50NXBjQzVYNGRUY2tKZ1ZGTnRZY2tQZ20taVcycGhqaFlHTnE0TGRBSDd4RHVybk9ZTEQ3VlpPclhidmpMNXZMd29H?oc=5) - ge.globo.com
-    *   Informa sobre a saída do zagueiro Iván Román do Atlético-MG, que será emprestado a um clube chileno, indicando movimentação no elenco.
-5.  [Bahia atropela o Galo e encaminha vaga no Brasileirão Feminino](https://news.google.com/rss/articles/CBMirgFBVV95cUxQd3lqY3R3UFpSZ2pZd19TR18xaGh1WU04b2Z1dEx6c2tDaXUzNjdtUV9pay1NZWFRUURteGRyaFlHcXFvbnBKU1pjN1I1cHdnYld3enV1SERlQ0dZUThheFd0cTZxbFVKUzM4d3pmSm1yeThzRHZBTHFGbVhWMHFyLTZ3ZzFKd2NWci1UNEI2eHZiNHBWT2VEaktlUWEwNi1SUTkyb3N4TlI4eWkzQ3fSAbYBQVVfeXFMT2JYU0dNMk9JNUJ2NmYwZjZtNE9xM2xwYnk2VmMtM1B2ZHYtckNDakNHQThOMVRlN2M2d2JDVkthU1pxRHF1aWNKOUpHamlTWkdXRDlLTU9QTENlMmZSWm8tQTRQSnNwWTV0MlFGYm84eDlFLTB2bk9fdFJ0TFdjd3B5Nnlub0xpV05xaDFlenc3S0wwTXdzYmN6SE5VZHQ0QkhSOVVYbnhkVHBfMllTUVpSODF3SkE?oc=5) - A TARDE
-    *   Destaca a derrota da equipe feminina do Atlético-MG para o Bahia, com o adversário se aproximando da vaga no Brasileirão Feminino.
+## 📰 Principais Notícias (Top 5 - Priorizando fontes e relevância)
+1.  **Galo busca virada, mas empata com o Remo** - atletico.com.br (Notícia 9): Confirmação oficial do resultado e do enredo do jogo pela fonte prioritária.
+2.  **Remo e Atlético-MG empatam em jogo com gol no início e pênalti não marcado após chamado do VAR** - ESPN Brasil (Notícia 2): Destaca detalhes cruciais do jogo, incluindo a polêmica do VAR que impactou o resultado.
+3.  **Domínguez classifica empate do Atlético-MG como amargo: "Perdemos dois pontos"** - GE (Notícia 13): Expressa a percepção e a frustração do comando técnico com o resultado, sublinhando o impacto na campanha.
+4.  **Bernard alerta sobre pontos perdidos pelo Atlético e cobra reação: 'Começar a conquistar'** - LANCE! (Notícia 17): Revela a cobrança interna e a visão de um dos jogadores mais importantes sobre a necessidade de mudança.
+5.  **Clube chileno anuncia Iván Román, zagueiro do Atlético-MG** - GE (Notícia 23): Uma das poucas notícias sobre movimentações no elenco, indicando uma mudança para o futuro do jogador e do clube.

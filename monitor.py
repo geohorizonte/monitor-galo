@@ -42,8 +42,8 @@ def analisar_com_ia(noticias):
     [Faça uma lista com as 5 notícias mais importantes, com seus respectivos links, e 2 linhas de resumo para cada uma. Tente diversificar os temas.]
     """
 
-    # Atualizado para a versão mais recente e estável do modelo
-    modelo = genai.GenerativeModel('gemini-1.5-flash-latest')
+    # Atualizado para a versão clássica e super estável (gemini-pro)
+    modelo = genai.GenerativeModel('gemini-pro')
     resposta = modelo.generate_content(prompt)
     
     return resposta.text

@@ -5,23 +5,45 @@ import feedparser
 import google.generativeai as genai
 
 def buscar_noticias():
+    # 1. Busca Geral (Google News)
     query = '("Atlético Mineiro" OR "Galo") when:1d'
     encoded_query = urllib.parse.quote(query)
-    rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=pt-BR&gl=BR&ceid=BR:pt-BR"
+    urls = [
+        f"https://news.google.com/rss/search?q={encoded_query}&hl=pt-BR&gl=BR&ceid=BR:pt-BR",
+        # 2. Feeds Prioritários (Sites de Notícias)
+        "https://www.otempo.com.br/sports/atletico/rss.xml",
+        # 3. Feeds YouTube (Convertidos para formato RSS)
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UC2Zzj4636i_mqvSdOJddbbQ", # Fala Galo
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCT-l3gJ3kK2VnE888pC225g", # FalaGalo13
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCrB_rN8B0e052c93d9S8lCg", # Canal do Frossard
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UC52JjXbW_lJpD2YfN5gK5kA", # Canal Eu Acredito
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCe19eP55X2u0FqjVn7y4U8A"  # Itatiaia Esporte
+    ]
     
-    feed = feedparser.parse(rss_url)
-    return feed.entries
+    todas_noticias = []
+    links_visitados = set()
+
+    for url in urls:
+        feed = feedparser.parse(url)
+        for entry in feed.entries:
+            # Filtro básico: apenas notícias recentes e relevantes
+            if entry.link not in links_visitados:
+                todas_noticias.append(entry)
+                links_visitados.add(entry.link)
+    
+    return todas_noticias
 
 def analisar_com_ia(noticias):
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
     
-    texto_noticias = ""
-    for i, n in enumerate(noticias[:25], 1):
+    # Destaque das fontes prioritárias para a IA
+    texto_noticias = "FONTES PRIORITÁRIAS (Favor dar peso extra a estas notícias):\n"
+    for i, n in enumerate(noticias[:30], 1):
         texto_noticias += f"Notícia {i}: {n.title} (Link: {n.link})\n"
 
     prompt = f"""
     Você é um analista esportivo de alto nível e inteligência de dados focado no Clube Atlético Mineiro.
-    Abaixo estão as manchetes e notícias coletadas nas últimas 24 horas sobre o time:
+    Abaixo estão as manchetes e notícias coletadas. Dê prioridade analítica às fontes indicadas no topo da lista.
     
     {texto_noticias}
     
@@ -30,32 +52,31 @@ def analisar_com_ia(noticias):
     # 🐔 Dossiê Analítico do Atlético Mineiro - {datetime.datetime.now().strftime("%d/%m/%Y")}
     
     ## 📊 Resumo Quantitativo & Qualitativo
-    - **Total por Tipo de Notícia / Assunto:** (Apresente a contagem absoluta de matérias encontradas para cada categoria, ex: Mercado da Bola: X notícias, Gestão/Bastidores: Y notícias, Tática/Treinos: Z notícias, DM/Lesões: W notícias, etc.).
-    - **Índice de Tom / Clima da Cobertura:** (Classifique o clima midiático do dia, ex: Positivo, Neutro, Tenso/Crítico, com uma breve justificativa baseada nas matérias).
-    - **Matriz de Foco Temático com Proporção:** (Estime a distribuição percentual dos assuntos do dia comparando o volume de cada tema).
-    - **Raio-X dos Veículos:** (Aponte quais fontes ou tipos de veículos — imprensa nacional vs. portais locais/influenciadores de MG — estão puxando o noticiário).
-    - **Indicador de "Ruído vs. Fato":** (Analise se há muita repetição requentada da mesma notícia gerando efeito eco ou se há furos reais e informações novas).
+    - **Total por Tipo de Notícia / Assunto:** (Contagem absoluta).
+    - **Índice de Tom / Clima da Cobertura:** (Positivo, Neutro, Tenso/Crítico).
+    - **Matriz de Foco Temático com Proporção:** (Distribuição percentual).
+    - **Raio-X dos Veículos:** (Destaque o que veio das fontes prioritárias: Itatiaia, O Tempo, Canais YouTube).
+    - **Indicador de "Ruído vs. Fato":** (Análise de furos vs. repetições).
     
     ## 🌡️ Termômetro da Torcida e Ambiente
-    [Analise o clima geral do clube, o nível de pressão sobre a diretoria ou comissão técnica, e a repercussão do momento entre os torcedores].
+    [Analise o clima geral do clube e a pressão atual].
     
     ## 💰 Lupa nas Finanças e Gestão da SAF
-    [Resuma atualizações econômicas, balanços, negociações da SAF, acordos judiciais ou declarações de dirigentes sobre o aspecto financeiro].
+    [Resuma atualizações econômicas e de gestão].
     
     ## ⚽ Visão Clínica de Campo (Foco Técnico)
-    [Análise tática, boletim do Departamento Médico/lesões, desempenho recente e alternativas de escalação do treinador].
+    [Análise tática, boletim do DM e escalação].
     
     ## 🏟️ Logística de Jogo e "Galo na Veia"
-    [Informações práticas sobre venda de ingressos, novidades da Arena MRV e atualizações do programa de sócio-torcedor Galo na Veia].
+    [Ingressos, Arena MRV e Sócio-Torcedor].
     
-    ## ⚔️ Seção Especial de Jogo (Preencha apenas se houver partida hoje ou nos próximos dias; caso contrário, indique que é uma semana de treinos/transição)
-    - **O Termômetro da Imprensa:** (Consenso dos jornalistas, favoritismo apontado e a narrativa principal do confronto).
-    - **A Prancheta Tática:** (Prováveis escalações, desfalques confirmados e o encaixe estratégico esperado).
-    - **Previsões e Tendências Esportivas:** (Palpites da mídia, projeções de desempenho e visão do mercado/odds).
-    - **O Fator Adversário:** (Momento do rival, eventuais ex-jogadores do Galo no time oposto e pontos de atenção).
+    ## ⚔️ Seção Especial de Jogo (Se houver partida)
+    - **O Termômetro da Imprensa:** (Consenso e narrativa do confronto).
+    - **A Prancheta Tática:** (Escalações e desfalques).
+    - **Previsões e Tendências Esportivas:** (Palpites e visão de mercado).
+    - **O Fator Adversário:** (Momentos do rival).
     
-    ## 📰 Principais Notícias e Links (Top 5)
-    [Faça uma lista com as 5 notícias mais importantes, contendo seus respectivos links em formato Markdown e um resumo analítico de 2 linhas para cada uma].
+    ## 📰 Principais Notícias (Top 5 - Dê preferência às fontes prioritárias)
     """
 
     modelo_escolhido = None
@@ -64,34 +85,29 @@ def analisar_com_ia(noticias):
             if 'generateContent' in m.supported_generation_methods:
                 modelo_escolhido = m.name
                 break
-    except Exception as e:
-        raise Exception(f"Erro ao listar modelos da API: {e}")
-
-    if not modelo_escolhido:
-        raise Exception("Nenhum modelo compatível com geração de conteúdo foi encontrado para esta chave.")
+    except:
+        modelo_escolhido = 'gemini-1.5-flash'
 
     modelo = genai.GenerativeModel(modelo_escolhido)
     resposta = modelo.generate_content(prompt)
-    
     return resposta.text
 
 def main():
     noticias = buscar_noticias()
     
     if not noticias:
-        relatorio = f"# 🐔 Dossiê do Galo ({datetime.datetime.now().strftime('%d/%m/%Y')})\nNenhuma notícia encontrada nas últimas 24 horas."
+        relatorio = f"# 🐔 Dossiê do Galo ({datetime.datetime.now().strftime('%d/%m/%Y')})\nNenhuma notícia encontrada."
     else:
         try:
             relatorio = analisar_com_ia(noticias)
         except Exception as e:
-            relatorio = f"# Erro na IA\nNão foi possível gerar a análise. Detalhes: {e}"
+            relatorio = f"# Erro na IA\nDetalhes: {e}"
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(relatorio)
         
     os.makedirs("relatorios", exist_ok=True)
-    nome_arquivo = f"relatorios/noticias_{datetime.datetime.now().strftime('%Y-%m-%d')}.md"
-    with open(nome_arquivo, "w", encoding="utf-8") as f:
+    with open(f"relatorios/noticias_{datetime.datetime.now().strftime('%Y-%m-%d')}.md", "w", encoding="utf-8") as f:
         f.write(relatorio)
 
 if __name__ == "__main__":

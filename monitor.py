@@ -98,7 +98,11 @@ def analisar_com_ia(noticias, historico):
     {historico}
     
     Sua missão é gerar um relatório de leitura RÁPIDA, OBJETIVA e DIRETA. 
-    PROIBIDO usar parágrafos longos ou linguagem enrolada. Vá direto ao ponto, use frases curtas e bullet points.
+    PROIBIDO usar parágrafos longos. Vá direto ao ponto e use frases curtas.
+    
+    REGRAS DE FORMATAÇÃO OBRIGATÓRIAS:
+    1. Pule sempre UMA LINHA EM BRANCO entre cada item de lista (-) para criar espaçamento visual.
+    2. USE NEGRITO (**) obrigatoriamente nos subtítulos de cada item.
     
     Escreva o relatório profissional em Markdown seguindo RIGOROSAMENTE esta estrutura:
     
@@ -106,37 +110,47 @@ def analisar_com_ia(noticias, historico):
     
     ## 📊 Resumo Rápido
     - **Total/Assunto:** (Ex: 5 Mercado, 3 SAF, 2 DM).
+    
     - **Tom:** (Positivo, Neutro ou Tenso).
+    
     - **Foco Temático:** (Ex: 50% Mercado, 30% Jogo).
+    
     - **Raio-X:** (Destaque em 1 linha de Itatiaia/O Tempo).
+    
     - **Ruído vs. Fato:** (1 frase sobre furos vs repetições).
     
     ## 🌡️ Termômetro e Ambiente
-    - [1 ou 2 tópicos curtos e diretos sobre o clima e pressão do dia].
+    - [1 ou 2 tópicos curtos sobre o clima e pressão do dia. Pule linha entre eles].
     
     ## 💰 Lupa na SAF e Finanças
-    - [1 ou 2 tópicos diretos com novidades financeiras/gestão, se houver].
+    - [1 ou 2 tópicos diretos com novidades financeiras/gestão. Pule linha entre eles].
     
     ## ⚽ Foco Técnico e DM
-    - [Tópicos ultra resumidos sobre Tática, Desempenho e atualizações médicas].
+    - [Tópicos ultra resumidos sobre Tática e atualizações médicas. Pule linha entre eles].
     
     ## 🏟️ Arena MRV e Ingressos
     - [Notas rápidas, se houver novidade].
     
     ## ⚔️ Especial de Jogo (Se houver partida próxima)
     - **Imprensa:** (1 frase de consenso/favoritismo).
+    
     - **Prancheta:** (Escalação provável/desfalques).
+    
     - **Tendências:** (1 frase sobre previsões/odds).
+    
     - **Adversário:** (1 frase sobre o momento do rival).
     
     ## 📈 Radar de Tendências (Visão Macro dos Últimos 30 Dias)
     [Analisando o histórico dos últimos relatórios fornecidos, aponte os padrões do último mês:]
-    - **Problemas Crônicos e Táticos:** (Ex: "A defesa tem sofrido críticas contínuas nos últimos 15 dias" ou "O problema da lateral direita persiste desde o início do mês").
-    - **Evolução/Involução:** (Ex: "Houve uma melhora notável na aceitação do esquema tático nas últimas semanas" ou "O clima da torcida piorou significativamente após os últimos três empates").
-    - **Movimentação Extracampo e SAF:** (Padrões de comportamento, finanças e contratações que se desenharam ao longo do último mês).
+    
+    - 🛑 **Problemas Crônicos e Táticos:** (Resumo direto do que não evoluiu).
+    
+    - 📈 **Evolução/Involução:** (O que melhorou ou piorou de forma clara).
+    
+    - 💼 **Movimentação Extracampo e SAF:** (Padrões da diretoria).
     
     ## 📰 Top 5 Notícias
-    [Lista com as 5 principais notícias. Prioridade Itatiaia e O Tempo. Formato: Título com link e APENAS 1 LINHA de resumo direto por notícia].
+    [Lista numerada com as 5 principais notícias. Formato: 1. **Título da Notícia** - Link. (Pule uma linha entre cada notícia)].
     """
 
     modelo_escolhido = None
@@ -162,23 +176,21 @@ def enviar_telegram(relatorio):
         
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     
-    # 1. TRADUTOR DE FORMATAÇÃO (De Markdown do GitHub para HTML do Telegram)
-    # Protege caracteres especiais do HTML
+    # 1. TRADUTOR DE FORMATAÇÃO
     texto_telegram = relatorio.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
     
-    # Transforma cabeçalhos (# Título) em Textos em Negrito (<b>Título</b>) com quebras de linha
+    # Transforma cabeçalhos (# Título) em Textos em Negrito no Telegram
     texto_telegram = re.sub(r'^#+\s*(.*)', r'<b>\1</b>', texto_telegram, flags=re.MULTILINE)
     
     # Transforma negritos comuns (**texto**) no negrito do Telegram (<b>texto</b>)
     texto_telegram = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', texto_telegram)
     
-    # Transforma os links do markdown ([texto](link)) em links clicáveis bonitos
+    # Transforma os links do markdown em links clicáveis
     texto_telegram = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a href="\2">\1</a>', texto_telegram)
 
-    # 2. SEPARADOR INTELIGENTE
-    # Em vez de cortar a cada 4000 caracteres no meio de palavras, corta linha por linha
+    # 2. SEPARADOR INTELIGENTE (corta por blocos em vez de cortar no meio da frase)
     partes = []
-    limite = 3900 # Margem de segurança
+    limite = 3900
     parte_atual = ""
     
     for linha in texto_telegram.split('\n'):
@@ -196,7 +208,8 @@ def enviar_telegram(relatorio):
         payload = {
             "chat_id": chat_id,
             "text": parte,
-            "parse_mode": "HTML" # Diz ao Telegram para ler a formatação que preparamos acima
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True # Impede que os links gerem aquelas imagens enormes no fim da mensagem
         }
         try:
             requests.post(url, json=payload)

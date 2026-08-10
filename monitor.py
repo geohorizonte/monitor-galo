@@ -4,6 +4,7 @@ import urllib.parse
 import feedparser
 import requests
 import glob
+import re
 from bs4 import BeautifulSoup
 import google.generativeai as genai
 
@@ -160,13 +161,42 @@ def enviar_telegram(relatorio):
         return
         
     url = f"https://api.telegram.org/bot{token}/sendMessage"
-    partes = [relatorio[i:i+4000] for i in range(0, len(relatorio), 4000)]
     
+    # 1. TRADUTOR DE FORMATAÇÃO (De Markdown do GitHub para HTML do Telegram)
+    # Protege caracteres especiais do HTML
+    texto_telegram = relatorio.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+    
+    # Transforma cabeçalhos (# Título) em Textos em Negrito (<b>Título</b>) com quebras de linha
+    texto_telegram = re.sub(r'^#+\s*(.*)', r'<b>\1</b>', texto_telegram, flags=re.MULTILINE)
+    
+    # Transforma negritos comuns (**texto**) no negrito do Telegram (<b>texto</b>)
+    texto_telegram = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', texto_telegram)
+    
+    # Transforma os links do markdown ([texto](link)) em links clicáveis bonitos
+    texto_telegram = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a href="\2">\1</a>', texto_telegram)
+
+    # 2. SEPARADOR INTELIGENTE
+    # Em vez de cortar a cada 4000 caracteres no meio de palavras, corta linha por linha
+    partes = []
+    limite = 3900 # Margem de segurança
+    parte_atual = ""
+    
+    for linha in texto_telegram.split('\n'):
+        if len(parte_atual) + len(linha) > limite:
+            partes.append(parte_atual)
+            parte_atual = linha + "\n"
+        else:
+            parte_atual += linha + "\n"
+    
+    if parte_atual:
+        partes.append(parte_atual)
+    
+    # 3. ENVIO
     for parte in partes:
         payload = {
             "chat_id": chat_id,
             "text": parte,
-            "parse_mode": "Markdown"
+            "parse_mode": "HTML" # Diz ao Telegram para ler a formatação que preparamos acima
         }
         try:
             requests.post(url, json=payload)

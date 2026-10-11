@@ -1,65 +1,75 @@
-# 🐔 Dossiê do Galo - 10/10/2026
+# 🐔 Dossiê do Galo - 11/10/2026
 
 ## 📊 Resumo Rápido
-- **Pós-Jogo (Athletico-PR):** 6 notícias.
-- **DM/Desfalques (Próx. Santos):** 7 notícias.
-- **Atletas/Destaques:** 5 notícias.
-- **Técnico/Estratégia:** 3 notícias.
-- **Próximo Jogo (Santos):** 3 notícias.
-- **Arena/Ingressos:** 2 notícias.
-- **SAF/Finanças (Opinião):** 1 notícia.
-- **Adversário (Santos):** 1 notícia.
+- **Total/Assunto:** 9 Pós-Jogo (Athletico-PR), 7 DM/Desfalques, 8 Próx. Jogo (Santos) / Escalação, 7 Cobertura Jogo (Santos) / Transmissão, 5 Atletas/Destaques, 2 Opinião/Análise, 2 Arena/Ingressos.
 
 - **Tom:** Misto.
-- **Foco Temático:** 25% DM/Desfalques, 21% Jogo/Reações, 18% Atletas/Destaques, 11% Técnico/Estratégia, 11% Próximo Jogo (Santos), 7% Arena/Ingressos, 4% SAF/Finanças, 4% Adversário.
-- **Raio-X:** Itatiaia e O Tempo focam na análise do empate com o Athletico-PR, a "redenção" de Lyanco, e as preocupações com DM e suspensões para o jogo contra o Santos.
-- **Ruído vs. Fato:** Notícias sobre futebol internacional genérico, futebol feminino ou equipes com o nome "Galo" foram filtradas.
+
+- **Foco Temático:** 35% Próx. Jogo (Santos) & DM/Desfalques, 25% Pós-Jogo (Athletico-PR), 20% Cobertura Jogo (Santos), 15% Atletas/Destaques, 5% Opinião/Análise.
+
+- **Raio-X:** Itatiaia e O Tempo focam na confirmação da lesão de Fred, o "mistão" para o Santos e a análise do empate com Athletico-PR, destacando Lyanco.
+
+- **Ruído vs. Fato:** Notícias sobre futebol internacional genérico ou ex-jogadores sem relevância imediata foram filtradas.
 
 ## 🌡️ Termômetro e Ambiente
-- Alívio e comemoração pela resiliência no empate com o Athletico-PR, com destaque para a "redenção" de Lyanco.
-- Preocupação imediata com as dores de Fred e Cuello, e os desfalques por suspensão para o próximo jogo contra o Santos.
+- Alívio pelo ponto conquistado na Arena da Baixada, com celebração da resiliência.
+
+- Grande preocupação com a lesão confirmada de Fred e os desfalques para o jogo contra o Santos.
+
+- Expectativa mista pelo desempenho do "mistão" que enfrentará o Santos hoje.
 
 ## 💰 Lupa na SAF e Finanças
-- Vinícius Andrade, comentarista, sugere que o Atlético tem condições de montar time forte sem se comprometer financeiramente.
+- Vinícius Andrade opina que o Atlético pode ter um time forte sem comprometer as finanças.
 
 ## ⚽ Foco Técnico e DM
-- **Fred:** Deixou o campo com dores na coxa, aguarda diagnóstico; Lodi tranquilizou sobre a situação.
-- **Cuello:** Sentiu dores em campo, mas minimizou o ocorrido, afirmando que "faz parte".
-- **Desfalques Santos:** Atlético terá dois desfalques por suspensão (um atacante e um volante). Fred e Cuello são dúvidas.
-- **Lyanco em Destaque:** Marcou gol decisivo, reagiu às críticas e foi eleito o melhor em campo por comentaristas.
-- **Domínguez (Barba):** Exaltou a postura da equipe, revelou recado no vestiário e avalia poupar jogadores contra o Santos.
-- **Retornos:** Atlético ganha trio de jogadores (não especificado) que voltam ao time.
+- **Lesão de Fred:** Lesão confirmada, será um desfalque importante. Lodi minimizou inicialmente.
+
+- **Ausência de Bernard:** Clube explicou, mas detalhes não foram divulgados nas manchetes.
+
+- **Tomás Cuello:** Sentiu dores em campo, mas minimizou a situação.
+
+- **Reinier:** Revelou um recado motivacional de "Barba" no vestiário pós-empate.
+
+- **Lyanco:** Marcou o gol decisivo, celebrou a "redenção" e foi elogiado por comentaristas.
+
+- **Vitão:** Reage à superação de Lyanco e comenta jogos pela Seleção Sub-20.
+
+- **Eduardo Domínguez ("Barba"):** Cogita poupar e escalará um "mistão" com baixas importantes para enfrentar o Santos.
+
+- **Elenco:** Atlético perde artilheiro (Fred), pode ter baixa de "peça-chave" (Bernard) e ganha trio, mas perde outro atacante.
 
 ## 🏟️ Arena MRV e Ingressos
-- Atlético divulgou parciais de ingressos vendidos para o duelo contra o Santos.
+- Novas parciais de ingressos foram divulgadas para o jogo contra o Santos.
 
-## ⚔️ Especial de Jogo (vs. Santos pelo Brasileirão)
-- **Imprensa:** O foco é na gestão do elenco e nas estratégias de Domínguez diante dos desfalques para o próximo compromisso.
-- **Prancheta:** Atlético terá Fred e Cuello como dúvidas, além de dois suspensos. Domínguez cogita poupar.
-- **Tendências:** O Galo buscará manter o retrospecto positivo como mandante contra o Santos, equilibrando Brasileirão e Sul-Americana.
-- **Adversário:** O Santos chega com Neymar em dúvida (atuou em sintético) e enfrentará um Atlético com ausências importantes.
+## ⚔️ Especial de Jogo (vs. Santos pelo Brasileirão - HOJE)
+- **Imprensa:** Foco na escalação alternativa do Atlético e na ausência de Neymar no Santos.
+
+- **Prancheta:** Atlético terá Fred lesionado e Bernard ausente, optando por um time "alternativo" ou "mistão".
+
+- **Tendências:** O Galo buscará uma vitória em casa para manter o embalo, apesar dos desfalques e com foco na Sul-Americana.
+
+- **Adversário:** O Santos joga sem Neymar, buscando a vitória para ultrapassar o Galo na tabela.
 
 ## 📈 Radar de Tendências (Visão Macro dos Últimos 30 Dias)
 - 🛑 **Problemas Crônicos e Táticos:**
-    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico. A cada dia, novos nomes surgem ou status é atualizado (Fred, Cuello, suspensões hoje), impactando a profundidade do elenco e exigindo adaptações táticas constantes.
-    - **Inconsistência Tática e Mental:** A equipe demonstra oscilações de desempenho, dependendo de superações individuais (Lyanco) ou atuações heroicas, apesar da resiliência ser um ponto forte.
-    - **Governança e Credibilidade da SAF:** As questões Vorcaro/PixBet e a perda do patrocinador H2bet persistiram no último mês, gerando desafios financeiros e institucionais que precisam de transparência e respostas robustas.
+    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico. A lesão de Fred e a ausência de Bernard hoje são mais exemplos de uma constante necessidade de adaptações táticas e fragilização da profundidade do elenco.
+    - **Inconsistência Tática e Mental:** A equipe ainda oscila em desempenho. Depende frequentemente de superações individuais (Lyanco) ou da capacidade de "Barba" de motivar o elenco em momentos de adversidade.
+    - **Governança e Credibilidade da SAF:** As questões Vorcaro/PixBet, dívidas FIFA e a perda do patrocinador H2bet persistem como desafios estruturais, exigindo transparência e respostas contínuas.
 
 - 📈 **Evolução/Involução:**
-    - **Evolução:** A **liderança de Eduardo Domínguez ("Barba")** é consistentemente elogiada. O **engajamento da torcida e a Arena MRV** (como fortaleza e polo de marketing/experiências) estão consolidados. O **desenvolvimento da base** (Delfim, Vitão) e a **"volta por cima" de jogadores** (Reinier, Scarpa, Bernard, e agora Lyanco) são notáveis. A **resiliência** do time em campo é um ponto forte.
-    - **Involução:** A **recorrência de lesões e desfalques** de jogadores-chave continua sendo a principal involução, afetando a profundidade e consistência do elenco para a sequência decisiva da temporada. A **perda do patrocinador máster H2bet** (04/10) representou uma involução financeira e de marketing significativa.
+    - **Evolução:** A **liderança de Eduardo Domínguez ("Barba")** é consistentemente elogiada e o **engajamento da torcida e Arena MRV** é uma força. A **resiliência** do time em campo e a **"volta por cima" de jogadores** (Reinier, Scarpa, Lyanco hoje) são notáveis.
+    - **Involução:** A **recorrência de lesões e desfalques** de jogadores-chave é a principal involução, impactando a consistência do elenco. As **questões de governança e financeiras da SAF** representam uma involução na estabilidade institucional e na transparência.
 
 - 💼 **Movimentação Extracampo e SAF:**
-    - A SAF mantém uma postura **extremamente proativa e estratégica** na gestão da marca, Arena MRV e planejamento de longo prazo (parcerias tecnológicas, gestão de ativos).
-    - No entanto, enfrenta desafios em **governança e conformidade** (dívidas FIFA/CAS, Vorcaro/PixBet) e agora a **redefinição da estratégia de patrocínios** após a saída da H2bet, exigindo respostas institucionais contínuas.
+    - A SAF mantém uma postura **proativa e estratégica** na gestão da marca, Arena MRV e planejamento de longo prazo. No entanto, enfrenta **desafios crescentes em governança e conformidade** (dívidas, patrocínios e as revelações sobre propriedade), necessitando de respostas institucionais robustas para mitigar riscos e preservar a imagem.
 
 ## 📰 Top 5 Notícias
-1.  **Atlético perde artilheiro e pode ter baixa de 'peça-chave' para duelo com Santos** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-perde-artilheiro-e-pode-ter-baixa-de-peca-chave-para-duelo-com-santos/)
+1.  **Atlético confirma lesão de Fred e explica ausência de Bernard; saiba detalhes** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-confirma-lesao-de-fred-e-explica-ausencia-de-bernard-saiba-detalhes/)
 
-2.  **Atlético ganha trio, perde atacante e aguarda diagnóstico de Fred; veja opções de Barba** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-ganha-trio-perde-atacante-e-aguarda-diagnostico-de-fred-veja-opcoes-de-barba/)
+2.  **Atlético perde artilheiro e pode ter baixa de 'peça-chave' para duelo com Santos** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-perde-artilheiro-e-pode-ter-baixa-de-peca-chave-para-duelo-com-santos/)
 
-3.  **Athletico-PR x Atlético: veja quem foi eleito o melhor em campo no jogo do Brasileirão** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/athletico-pr-x-atletico-veja-quem-foi-eleito-o-melhor-em-campo-no-jogo-do-brasileirao/)
+3.  **Escalação do Atlético: Barba opta por 'mistão' para encarar o Santos** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/escalacao-do-atletico-barba-opta-por-mistao-para-encarar-o-santos/)
 
-4.  **Marques exalta resiliência do Atlético em empate ‘para comemorar’: ‘Não joga a toalha’** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/marques-exalta-resiliencia-do-atletico-em-empate-para-comemorar-nao-joga-a-toalha/)
+4.  **Lyanco vai às redes após gol decisivo pelo Atlético: ‘Intenso demais’** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/lyanco-vai-as-redes-apos-gol-decisivo-pelo-atletico-intenso-demais/)
 
-5.  **GALO: LYANCO É HERÓI OU VILÃO? DEBATE FERVE COM ÍDOLOS CITADOS** - O TEMPO (https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjJXY2FLX3JzSlA0UmhQMGFtNzJSX0ZBc1JJYkp0anFnN3NzVnhnYzdkSDNpQWtvX19lTWxWSVRRdFNjdU9LSEMxM3JhS0UtRGZKX09NQ2kzdFdrZ1ctU0NHdVJSTF9GSThlX3o3Z0hSd1B2bFo5dTVCUEZZSXFTV0RlYW1QLW1qZ05qTW1WdUNIOHRBaFpodXZHUTNkU3VvMlhOR1MyNUY1eEJickhOVmhn0gG3AUFVX3lxTE1VcHhWRkEzcXpBa2YyWVpNeUMzbi1yQzJXWlJjUzZkTzVrdVNlVjJuX3RXSzBjQzVTZzZUYzkyU1FGYTlrUHdkLTRvUXpVU3JuMVFteHpZNVBpNUJrVjJvM0hVcGszQy0yUWxRLTA3ZndfSVloUEQzd3hUV1EyamViaWxnX1VWTVkwTTFydFF2YklIZ3NqeWRXR1BSWEZHbmdMSEo1SjR3SnlxLXBjbk0tNnpsanhMTQ?oc=5)
+5.  **Lodi celebra empate do Atlético com ex-time e tranquiliza sobre Fred: 'Nada preocupante'** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/lodi-celebra-empate-do-atletico-com-ex-time-e-tranquiliza-sobre-fred-nada-preocupante/)

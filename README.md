@@ -1,75 +1,78 @@
-# 🐔 Dossiê do Galo - 11/10/2026
+# 🐔 Dossiê do Galo - 12/10/2026
 
 ## 📊 Resumo Rápido
-- **Total/Assunto:** 9 Pós-Jogo (Athletico-PR), 7 DM/Desfalques, 8 Próx. Jogo (Santos) / Escalação, 7 Cobertura Jogo (Santos) / Transmissão, 5 Atletas/Destaques, 2 Opinião/Análise, 2 Arena/Ingressos.
+- **Total/Assunto:** 23 Pós-Jogo (Santos)/Reações, 3 DM/Desfalques, 5 Próx. Jogo (Sula/Brasileirão)/Ingressos, 3 Atletas/Destaques, 4 Opinião/Análise.
 
-- **Tom:** Misto.
+- **Tom:** Positivo/Eufórico.
 
-- **Foco Temático:** 35% Próx. Jogo (Santos) & DM/Desfalques, 25% Pós-Jogo (Athletico-PR), 20% Cobertura Jogo (Santos), 15% Atletas/Destaques, 5% Opinião/Análise.
+- **Foco Temático:** 60% Pós-Jogo (Santos), 15% DM/Desfalques, 15% Próx. Jogo/Ingressos, 10% Atletas/Análise.
 
-- **Raio-X:** Itatiaia e O Tempo focam na confirmação da lesão de Fred, o "mistão" para o Santos e a análise do empate com Athletico-PR, destacando Lyanco.
+- **Raio-X:** Itatiaia e O Tempo focam na virada espetacular contra o Santos, a polêmica com Gabigol e a confirmação da lesão de Fred.
 
-- **Ruído vs. Fato:** Notícias sobre futebol internacional genérico ou ex-jogadores sem relevância imediata foram filtradas.
+- **Ruído vs. Fato:** Notícias genéricas de futebol internacional ou cultural sem relevância direta foram filtradas.
 
 ## 🌡️ Termômetro e Ambiente
-- Alívio pelo ponto conquistado na Arena da Baixada, com celebração da resiliência.
+- Euforia e celebração intensa pela virada épica contra o Santos, com grande repercussão da provocação a Gabigol.
 
-- Grande preocupação com a lesão confirmada de Fred e os desfalques para o jogo contra o Santos.
-
-- Expectativa mista pelo desempenho do "mistão" que enfrentará o Santos hoje.
+- Preocupação com a lesão confirmada de Fred e a ausência de Bernard, que impactam os próximos jogos decisivos.
 
 ## 💰 Lupa na SAF e Finanças
-- Vinícius Andrade opina que o Atlético pode ter um time forte sem comprometer as finanças.
+- Rubens Menin reagiu à virada, exaltando a valentia do time.
+
+- A Caixa (banco) celebrou a vitória e elogiou o "Atlético de Barba".
 
 ## ⚽ Foco Técnico e DM
-- **Lesão de Fred:** Lesão confirmada, será um desfalque importante. Lodi minimizou inicialmente.
+- **Fred:** Lesão confirmada, será desfalque.
 
-- **Ausência de Bernard:** Clube explicou, mas detalhes não foram divulgados nas manchetes.
+- **Bernard:** Ausência explicada, mas detalhes não divulgados nas manchetes.
 
-- **Tomás Cuello:** Sentiu dores em campo, mas minimizou a situação.
+- **Elenco:** Barba optou por um "mistão" que demonstrou resiliência e capacidade de reação.
 
-- **Reinier:** Revelou um recado motivacional de "Barba" no vestiário pós-empate.
+- **Lyanco:** Comentarista o definiu como "para-raio", mas ele "peitou Gabigol" e participou da virada.
 
-- **Lyanco:** Marcou o gol decisivo, celebrou a "redenção" e foi elogiado por comentaristas.
+- **Borbas:** Autor de golaço, foi destacado por Barba e celebrado pelo elenco.
 
-- **Vitão:** Reage à superação de Lyanco e comenta jogos pela Seleção Sub-20.
+- **Everson e Delfim:** Profissional do Atlético exaltado pelo trabalho com os goleiros.
 
-- **Eduardo Domínguez ("Barba"):** Cogita poupar e escalará um "mistão" com baixas importantes para enfrentar o Santos.
-
-- **Elenco:** Atlético perde artilheiro (Fred), pode ter baixa de "peça-chave" (Bernard) e ganha trio, mas perde outro atacante.
+- **Barba:** Exalta resiliência do time e o gol de Borbas. Admite mudanças pensando na Sul-Americana.
 
 ## 🏟️ Arena MRV e Ingressos
-- Novas parciais de ingressos foram divulgadas para o jogo contra o Santos.
+- Divulgada parcial de ingressos para o jogo contra o City Torque.
 
-## ⚔️ Especial de Jogo (vs. Santos pelo Brasileirão - HOJE)
-- **Imprensa:** Foco na escalação alternativa do Atlético e na ausência de Neymar no Santos.
+- Preços e informações para ingressos contra o Coritiba no Brasileirão.
 
-- **Prancheta:** Atlético terá Fred lesionado e Bernard ausente, optando por um time "alternativo" ou "mistão".
+## ⚔️ Especial de Jogo (vs. Santos pelo Brasileirão - Pós-Jogo)
+- **Imprensa:** Consenso de virada espetacular, força mental e grande capacidade de reação do Atlético.
 
-- **Tendências:** O Galo buscará uma vitória em casa para manter o embalo, apesar dos desfalques e com foco na Sul-Americana.
+- **Prancheta:** O Atlético, mesmo com um "mistão", virou o jogo contra o Santos. Borbas marcou um golaço decisivo.
 
-- **Adversário:** O Santos joga sem Neymar, buscando a vitória para ultrapassar o Galo na tabela.
+- **Tendências:** O Galo vira a chave e foca na busca pela terceira final continental consecutiva, impulsionado pela vitória e pela rivalidade.
+
+- **Adversário:** O Santos foi derrotado. Gabigol virou o jogador mais vencido pelo Atlético, com provocações e respostas em alta.
 
 ## 📈 Radar de Tendências (Visão Macro dos Últimos 30 Dias)
 - 🛑 **Problemas Crônicos e Táticos:**
-    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico. A lesão de Fred e a ausência de Bernard hoje são mais exemplos de uma constante necessidade de adaptações táticas e fragilização da profundidade do elenco.
-    - **Inconsistência Tática e Mental:** A equipe ainda oscila em desempenho. Depende frequentemente de superações individuais (Lyanco) ou da capacidade de "Barba" de motivar o elenco em momentos de adversidade.
-    - **Governança e Credibilidade da SAF:** As questões Vorcaro/PixBet, dívidas FIFA e a perda do patrocinador H2bet persistem como desafios estruturais, exigindo transparência e respostas contínuas.
+
+    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico. A lesão de Fred e a ausência de Bernard hoje são exemplos recorrentes de uma fragilidade constante.
+
+    - **Governança e Credibilidade da SAF:** As questões Vorcaro/PixBet (11-14/09), dívidas FIFA/CAS (01/10) e a perda do patrocinador H2bet (04/10) persistiram como desafios estruturais.
 
 - 📈 **Evolução/Involução:**
-    - **Evolução:** A **liderança de Eduardo Domínguez ("Barba")** é consistentemente elogiada e o **engajamento da torcida e Arena MRV** é uma força. A **resiliência** do time em campo e a **"volta por cima" de jogadores** (Reinier, Scarpa, Lyanco hoje) são notáveis.
-    - **Involução:** A **recorrência de lesões e desfalques** de jogadores-chave é a principal involução, impactando a consistência do elenco. As **questões de governança e financeiras da SAF** representam uma involução na estabilidade institucional e na transparência.
+
+    - **Evolução:** A **liderança de Eduardo Domínguez ("Barba")** é consistentemente elogiada por jogadores e imprensa. O **engajamento da torcida e Arena MRV** é uma fortaleza. A **capacidade de superação e resiliência** do time (viradas, "mistão" vitorioso) e a **"volta por cima" de jogadores** (Lyanco, Borbas hoje, Reinier, Scarpa) são notáveis.
+
+    - **Involução:** A **recorrência de lesões e desfalques** de jogadores-chave é a principal involução, impactando a consistência e profundidade do elenco. A **transparência e governança da SAF** tiveram involuções com as revelações e perda de patrocínio.
 
 - 💼 **Movimentação Extracampo e SAF:**
-    - A SAF mantém uma postura **proativa e estratégica** na gestão da marca, Arena MRV e planejamento de longo prazo. No entanto, enfrenta **desafios crescentes em governança e conformidade** (dívidas, patrocínios e as revelações sobre propriedade), necessitando de respostas institucionais robustas para mitigar riscos e preservar a imagem.
+    A SAF mantém postura **proativa e estratégica** na gestão da marca, Arena MRV e planejamento. No entanto, enfrenta **desafios persistentes em governança e conformidade** que exigem respostas institucionais contínuas.
 
 ## 📰 Top 5 Notícias
-1.  **Atlético confirma lesão de Fred e explica ausência de Bernard; saiba detalhes** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-confirma-lesao-de-fred-e-explica-ausencia-de-bernard-saiba-detalhes/)
+1.  **Atlético derruba rival histórico e se torna o time que mais venceu Gabigol na carreira** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-derruba-rival-historico-e-se-torna-o-time-que-mais-venceu-gabigol-na-carreira/)
 
-2.  **Atlético perde artilheiro e pode ter baixa de 'peça-chave' para duelo com Santos** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-perde-artilheiro-e-pode-ter-baixa-de-peca-chave-para-duelo-com-santos/)
+2.  **Barba exalta resiliência do Atlético e destaca Borbas, autor de golaço contra o Santos** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/barba-exalta-resiliencia-do-atletico-e-destaca-borbas-autor-de-golaco-contra-o-santos/)
 
-3.  **Escalação do Atlético: Barba opta por 'mistão' para encarar o Santos** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/escalacao-do-atletico-barba-opta-por-mistao-para-encarar-o-santos/)
+3.  **Rubens Menin reage à virada do Atlético contra o Santos: 'Time muito valente'** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/rubens-menin-reage-a-virada-do-atletico-contra-o-santos-time-muito-valente/)
 
-4.  **Lyanco vai às redes após gol decisivo pelo Atlético: ‘Intenso demais’** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/lyanco-vai-as-redes-apos-gol-decisivo-pelo-atletico-intenso-demais/)
+4.  **Atlético confirma lesão de Fred e explica ausência de Bernard; saiba detalhes** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-confirma-lesao-de-fred-e-explica-ausencia-de-bernard-saiba-detalhes/)
 
-5.  **Lodi celebra empate do Atlético com ex-time e tranquiliza sobre Fred: 'Nada preocupante'** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/lodi-celebra-empate-do-atletico-com-ex-time-e-tranquiliza-sobre-fred-nada-preocupante/)
+5.  **Gabigol responde provocação do Galo: ‘Só pode chutar o primeiro campeão nesse estádio’** - A Tribuna (https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM1JEa3JiRHUtM0x3VldfLWtlOFJBeTFiazFDSklwNVpLamxiNUxGR21QWXM0Uk80aWFTU2N4V3ZqZl9wX0ltcmc4Nlh2cGJWLVgtemxBUVl0a2djVU1uczNIYzRaSDFvNUVhQUF4M3k1U1U3dUNHcVpXU0N0Zm9LUlZTdGM4d2FsemN5eWhGaUJzNWxWWkd3dEJqOVBqYmpmaF lvRkpZdTZ5OXhpU2hLelJNRVdKUnVtXzZYTC1pRFlydnBEZk9hakZKMi1iUFRyeVVfVEpn?oc=5)

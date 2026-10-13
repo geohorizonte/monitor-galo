@@ -1,78 +1,78 @@
-# 🐔 Dossiê do Galo - 12/10/2026
+# 🐔 Dossiê do Galo - 13/10/2026
 
 ## 📊 Resumo Rápido
-- **Total/Assunto:** 23 Pós-Jogo (Santos)/Reações, 3 DM/Desfalques, 5 Próx. Jogo (Sula/Brasileirão)/Ingressos, 3 Atletas/Destaques, 4 Opinião/Análise.
+- **Total/Assunto:** 8 Pós-Jogo (Santos)/Reações, 7 Próx. Jogo (Sula), 9 Arena/Ingressos/Serviço, 2 SAF/Gestão, 2 Atletas/Destaques, 1 DM/Desfalques, 2 Base.
 
 - **Tom:** Positivo/Eufórico.
 
-- **Foco Temático:** 60% Pós-Jogo (Santos), 15% DM/Desfalques, 15% Próx. Jogo/Ingressos, 10% Atletas/Análise.
+- **Foco Temático:** 29% Arena/Ingressos, 26% Pós-Jogo (Santos), 23% Próx. Jogo (Sula).
 
-- **Raio-X:** Itatiaia e O Tempo focam na virada espetacular contra o Santos, a polêmica com Gabigol e a confirmação da lesão de Fred.
+- **Raio-X:** Itatiaia e O Tempo focam na euforia da virada contra o Santos, a lesão de Fred e a preparação intensa para a semifinal da Sula.
 
-- **Ruído vs. Fato:** Notícias genéricas de futebol internacional ou cultural sem relevância direta foram filtradas.
+- **Ruído vs. Fato:** Notícias sobre futebol internacional genérico, ex-jogadores ou outras modalidades foram filtradas.
 
 ## 🌡️ Termômetro e Ambiente
-- Euforia e celebração intensa pela virada épica contra o Santos, com grande repercussão da provocação a Gabigol.
+- Euforia e alívio pela virada "valente" contra o Santos e o recorde de vitórias contra Gabigol.
 
-- Preocupação com a lesão confirmada de Fred e a ausência de Bernard, que impactam os próximos jogos decisivos.
+- Foco total e mobilização para a semifinal da Sul-Americana, com grande expectativa de público.
 
 ## 💰 Lupa na SAF e Finanças
-- Rubens Menin reagiu à virada, exaltando a valentia do time.
-
-- A Caixa (banco) celebrou a vitória e elogiou o "Atlético de Barba".
+- Rubens Menin e a Caixa celebraram a vitória, exaltando a valentia do time e a liderança de "Barba".
 
 ## ⚽ Foco Técnico e DM
-- **Fred:** Lesão confirmada, será desfalque.
+- **Lesão de Fred:** Lesão confirmada, será desfalque.
 
-- **Bernard:** Ausência explicada, mas detalhes não divulgados nas manchetes.
+- **Ausência de Bernard:** Ausência explicada, mas detalhes não divulgados.
 
-- **Elenco:** Barba optou por um "mistão" que demonstrou resiliência e capacidade de reação.
+- **Barba:** Admite mudanças pensando na Sula; exalta resiliência e Borbas.
 
-- **Lyanco:** Comentarista o definiu como "para-raio", mas ele "peitou Gabigol" e participou da virada.
+- **Borbas:** Autor de golaço, elogiado pelo técnico e jornal uruguaio.
 
-- **Borbas:** Autor de golaço, foi destacado por Barba e celebrado pelo elenco.
+- **Alexsander:** Celebra o momento e a "mesma linha" de Barba.
 
-- **Everson e Delfim:** Profissional do Atlético exaltado pelo trabalho com os goleiros.
-
-- **Barba:** Exalta resiliência do time e o gol de Borbas. Admite mudanças pensando na Sul-Americana.
+- **Defesa:** Terá "teste de fogo" contra o artilheiro da Sula.
 
 ## 🏟️ Arena MRV e Ingressos
-- Divulgada parcial de ingressos para o jogo contra o City Torque.
+- Altas parciais de ingressos vendidos para o jogo contra o City Torque.
 
-- Preços e informações para ingressos contra o Coritiba no Brasileirão.
+- Operação especial de trânsito e serviço de mobilidade para o jogo da Sula.
 
-## ⚔️ Especial de Jogo (vs. Santos pelo Brasileirão - Pós-Jogo)
-- **Imprensa:** Consenso de virada espetacular, força mental e grande capacidade de reação do Atlético.
+- Regulamento da Sula exige mudanças na Arena antes da semifinal.
 
-- **Prancheta:** O Atlético, mesmo com um "mistão", virou o jogo contra o Santos. Borbas marcou um golaço decisivo.
+- Divulgado como comprar ingressos para o duelo contra o Coritiba pelo Brasileirão.
 
-- **Tendências:** O Galo vira a chave e foca na busca pela terceira final continental consecutiva, impulsionado pela vitória e pela rivalidade.
+- Cantor flamenguista se rende à torcida do Atlético na Arena, descrevendo-a como "loucura".
 
-- **Adversário:** O Santos foi derrotado. Gabigol virou o jogador mais vencido pelo Atlético, com provocações e respostas em alta.
+## ⚔️ Especial de Jogo (vs. City Torque pela Sul-Americana - Semifinal)
+- **Imprensa:** Consenso de que o Atlético "vira a chave" e tem ambiente favorável para a semifinal.
+
+- **Prancheta:** Barba admite que fez mudanças contra o Santos "de olho" na Sula; Fred lesionado, Bernard ausente.
+
+- **Tendências:** Galo busca a terceira final continental consecutiva, impulsionado pela resiliência e apoio da torcida.
+
+- **Adversário:** O Atlético tem histórico de equilíbrio contra uruguaios; defesa terá teste contra o artilheiro da Sula.
 
 ## 📈 Radar de Tendências (Visão Macro dos Últimos 30 Dias)
 - 🛑 **Problemas Crônicos e Táticos:**
-
-    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico. A lesão de Fred e a ausência de Bernard hoje são exemplos recorrentes de uma fragilidade constante.
-
-    - **Governança e Credibilidade da SAF:** As questões Vorcaro/PixBet (11-14/09), dívidas FIFA/CAS (01/10) e a perda do patrocinador H2bet (04/10) persistiram como desafios estruturais.
+    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico e persistente. A lesão de Fred e a ausência de Bernard são exemplos recentes de uma constante fragilização do elenco e necessidade de adaptações táticas.
+    - **Inconsistência Tática e Mental:** Apesar das vitórias e resiliência, a equipe ainda demonstra oscilações de desempenho. A dependência de "viradas" e atuações individuais heroicas sugere que a consistência coletiva plena ainda é um desafio.
+    - **Governança e Credibilidade da SAF:** As questões Vorcaro/PixBet, dívidas FIFA/CAS e a perda do patrocinador H2bet persistiram como desafios estruturais, afetando a transparência e a estabilidade institucional no último mês.
 
 - 📈 **Evolução/Involução:**
-
-    - **Evolução:** A **liderança de Eduardo Domínguez ("Barba")** é consistentemente elogiada por jogadores e imprensa. O **engajamento da torcida e Arena MRV** é uma fortaleza. A **capacidade de superação e resiliência** do time (viradas, "mistão" vitorioso) e a **"volta por cima" de jogadores** (Lyanco, Borbas hoje, Reinier, Scarpa) são notáveis.
-
-    - **Involução:** A **recorrência de lesões e desfalques** de jogadores-chave é a principal involução, impactando a consistência e profundidade do elenco. A **transparência e governança da SAF** tiveram involuções com as revelações e perda de patrocínio.
+    - **Evolução:** A **liderança e gestão de elenco de Eduardo Domínguez ("Barba")** é consistentemente elogiada. O **engajamento da torcida e a Arena MRV** continuam como grandes fortalezas. A **capacidade de superação e resiliência do time** (viradas, "mistão" vitorioso) é um ponto alto. A **"volta por cima" e o destaque de jogadores** (Borbas, Lyanco, Reinier, Scarpa) são notáveis. O **desenvolvimento da base** segue positivo.
+    - **Involução:** A **recorrência de lesões e desfalques de jogadores-chave** é a principal involução, impactando a profundidade e consistência do elenco para a sequência decisiva da temporada. As **questões de governança e financeiras da SAF** representaram involuções na estabilidade institucional e na transparência.
 
 - 💼 **Movimentação Extracampo e SAF:**
-    A SAF mantém postura **proativa e estratégica** na gestão da marca, Arena MRV e planejamento. No entanto, enfrenta **desafios persistentes em governança e conformidade** que exigem respostas institucionais contínuas.
+    - A SAF mantém uma postura **extremamente proativa e estratégica** na gestão da marca, Arena MRV e planejamento de longo prazo. O foco é em **gerenciamento de ativos, monetização e protagonismo**.
+    - No entanto, a SAF enfrentou e continua a gerenciar desafios em **governança e conformidade** e a **redefinição da estratégia de patrocínios**, exigindo respostas institucionais contínuas. Rubens Menin celebra a performance do time em campo.
 
 ## 📰 Top 5 Notícias
-1.  **Atlético derruba rival histórico e se torna o time que mais venceu Gabigol na carreira** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-derruba-rival-historico-e-se-torna-o-time-que-mais-venceu-gabigol-na-carreira/)
+1.  **Atlético derruba rival histórico e se torna o time que mais venceu Gabigol na carreira** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-derruba-rival-historico-e-se-torna-o-time-que-mais-venceu-gabigol-na-carreira/)
 
-2.  **Barba exalta resiliência do Atlético e destaca Borbas, autor de golaço contra o Santos** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/barba-exalta-resiliencia-do-atletico-e-destaca-borbas-autor-de-golaco-contra-o-santos/)
+2.  **Atlético confirma lesão de Fred e explica ausência de Bernard; saiba detalhes** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-confirma-lesao-de-fred-e-explica-ausencia-de-bernard-saiba-detalhes/)
 
-3.  **Rubens Menin reage à virada do Atlético contra o Santos: 'Time muito valente'** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/rubens-menin-reage-a-virada-do-atletico-contra-o-santos-time-muito-valente/)
+3.  **Barba exalta resiliência do Atlético e destaca Borbas, autor de golaço contra o Santos** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/barba-exalta-resiliencia-do-atletico-e-destaca-borbas-autor-de-golaco-contra-o-santos/)
 
-4.  **Atlético confirma lesão de Fred e explica ausência de Bernard; saiba detalhes** - Itatiaia (https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-confirma-lesao-de-fred-e-explica-ausencia-de-bernard-saiba-detalhes/)
+4.  **Atlético vira chave e foca na busca pela terceira final continental consecutiva** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-vira-chave-e-foca-na-busca-pela-terceira-final-continental-consecutiva/)
 
-5.  **Gabigol responde provocação do Galo: ‘Só pode chutar o primeiro campeão nesse estádio’** - A Tribuna (https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM1JEa3JiRHUtM0x3VldfLWtlOFJBeTFiazFDSklwNVpLamxiNUxGR21QWXM0Uk80aWFTU2N4V3ZqZl9wX0ltcmc4Nlh2cGJWLVgtemxBUVl0a2djVU1uczNIYzRaSDFvNUVhQUF4M3k1U1U3dUNHcVpXU0N0Zm9LUlZTdGM4d2FsemN5eWhGaUJzNWxWWkd3dEJqOVBqYmpmaF lvRkpZdTZ5OXhpU2hLelJNRVdKUnVtXzZYTC1pRFlydnBEZk9hakZKMi1iUFRyeVVfVEpn?oc=5)
+5.  **Rubens Menin reage à virada do Atlético contra o Santos: 'Time muito valente'** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/rubens-menin-reage-a-virada-do-atletico-contra-o-santos-time-muito-valente/)

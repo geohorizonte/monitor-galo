@@ -1,65 +1,89 @@
-# 🐔 Dossiê do Galo - 15/10/2026
+# 🐔 Dossiê do Galo - 16/10/2026
 
 ## 📊 Resumo Rápido
-- **Total/Assunto:** 19 Pós-Jogo Sula, 7 Atletas, 2 Base, 2 Jurídico, 2 Opinião, 1 Próximo Jogo.
+- **Total/Assunto:** 5 Pós-Jogo Sula, 6 Atletas, 2 Técnico, 6 Próximo Jogo BR, 2 Arena/Torcida/Ingressos, 1 Jurídico, 3 Opinião/Mercado, 2 Base.
 
-- **Tom:** Positivo/Eufórico.
+- **Tom:** Positivo.
 
-- **Foco Temático:** 56% Sul-Americana, 21% Atletas, 6% Base, 6% Jurídico, 6% Opinião, 3% Técnico (Próximo Jogo).
+- **Foco Temático:** 19% Pós-Jogo Sula, 22% Próximo Jogo BR, 19% Atletas, 7% Técnico, 7% Arena/Torcida/Ingressos, 4% Jurídico, 11% Opinião/Mercado, 7% Base, 4% Performance Geral.
 
-- **Raio-X:** Itatiaia e O Tempo destacam a goleada na Sul-Americana, a boa fase de atletas e as projeções do técnico Domínguez.
+- **Raio-X:** Itatiaia e O Tempo destacam a goleada na Sula, a boa fase de Reinier e a preparação do time de Barba para o Brasileirão.
 
-- **Ruído vs. Fato:** Notícias genéricas sobre futebol internacional foram filtradas; focou-se nos eventos e análises do Atlético-MG.
+- **Ruído vs. Fato:** Notícias genéricas, políticas, de outros clubes ou crimes foram filtradas para focar no Atlético-MG.
 
 ## 🌡️ Termômetro e Ambiente
-- Euforia e celebração intensa após a goleada na Sul-Americana, encaminhando a vaga na final.
+- Euforia e confiança após a goleada na Sul-Americana, encaminhando vaga na final.
 
-- Clima de confiança na equipe, na torcida e na liderança de Eduardo Domínguez ("Barba").
+- Foco na gestão do elenco e estratégia para o próximo jogo do Brasileirão contra o Coritiba.
 
 ## 💰 Lupa na SAF e Finanças
-- Caixa e Rubens Menin comemoram a vitória e exaltam a equipe/torcida do Atlético na Sula.
+- Clube inicia conversas para renovação de contrato com Gabriel Delfim.
+
+- Goleiro do Galo (Delfim) entra na mira de Grupo City e Red Bull, valorizando ativo.
 
 ## ⚽ Foco Técnico e DM
-- Eduardo Domínguez ("Barba") celebra a goleada, mas prega inteligência e confirma mudanças para o jogo contra o Coritiba.
+- Barba confirma mudanças para o duelo com o Coritiba e projeta sequência de jogos.
 
-- Barba descarta vantagem técnica do gramado sintético na vitória na Sula, afirmando que "não decide partida".
+- Barba descarta vantagem técnica do sintético na Sula, priorizando performance do time.
 
-- Domínguez é o técnico com mais vitórias na Arena MRV.
+- Reinier é o "novo 9" artilheiro e revela papo com Diego Costa.
 
-- Reinier é o "novo 9" do Atlético e artilheiro da temporada, revelando papo com Diego Costa.
+- Bernard expressa amor crescente pelo Atlético.
 
-- Clube inicia conversas para renovação de contrato com o goleiro Gabriel Delfim.
+- Ruan Tressoldi tem martelo batido pelo STJD após incidente com Gabigol.
 
-- Barba decidirá entre Everson ou Delfim para a titularidade do gol até dezembro.
+- Dupla 'reforça' o Atlético para o Brasileiro.
 
 ## 🏟️ Arena MRV e Ingressos
-- Arena MRV é considerada um trunfo do Galo em torneios internacionais.
+- Romário se encanta com a Arena MRV e elogia a torcida atleticana.
 
-- Rubens Menin e Galvão Bueno destacam o papel da torcida na Arena MRV, que "faz a diferença".
+- Goleada na Sula coloca Barba no topo de ranking de vitórias na Arena MRV.
+
+- Parcial de ingressos para o jogo contra o Coritiba na Arena MRV divulgada.
 
 ## ⚔️ Especial de Jogo (vs. Coritiba pelo Brasileirão)
-- **Imprensa:** O foco agora se volta para o Brasileirão, com a imprensa destacando a necessidade de gerir o elenco.
+- **Imprensa:** O foco se volta para a gestão do elenco de Barba e a manutenção do embalo no Brasileirão.
 
-- **Prancheta:** Barba confirmou mudanças no time para o duelo com o Coritiba, projetando a sequência de jogos.
+- **Prancheta:** Barba deve promover mudanças; o time terá retornos e opções para o duelo com o Coritiba.
 
-- **Tendências:** O Galo busca manter o embalo e a confiança para o Brasileiro, mesmo com alterações na equipe.
+- **Tendências:** O Galo busca cumprir meta no Brasileirão e superar "fantasma" recente, com bom mental.
 
-- **Adversário:** Coritiba será o próximo adversário no Campeonato Brasileiro.
+- **Adversário:** O Coritiba não vence há cinco jogos, mas reencontra Pedro Rocha e já fez "façanhas" em Minas.
 
 ## 📈 Radar de Tendências (Visão Macro dos Últimos 30 Dias)
-- 🛑 **Problemas Crônicos e Táticos:** A **gestão de lesões e desfalques** permanece o problema mais crítico. A **inconsistência tática e mental**, apesar da resiliência, ainda é uma preocupação, com a cautela do técnico após goleadas. As **questões de governança e credibilidade da SAF**, embora sem novos grandes eventos hoje, persistiram no último mês.
 
-- 📈 **Evolução/Involução:** A **liderança e gestão de elenco de Eduardo Domínguez ("Barba")** é uma evolução constante. O **engajamento da torcida e a Arena MRV** como "fortaleza" são grandes fortalezas. A **capacidade de superação e resiliência** do time e a **"volta por cima" de jogadores** como Reinier e Delfim são notáveis. O **desenvolvimento da base** segue positivo. A **recorrência de lesões e desfalques** continua sendo a principal involução, impactando a profundidade e consistência do elenco.
+- 🛑 **Problemas Crônicos e Táticos:**
+    - A **gestão de lesões e desfalques** continua sendo o problema mais crítico e persistente, exigindo adaptações constantes do técnico.
+    
+    - A **inconsistência tática e mental** da equipe ainda se manifesta em oscilações de desempenho, apesar dos momentos de superação e goleadas.
+    
+    - As **questões de governança e credibilidade da SAF** (Vorcaro/PixBet, dívidas FIFA/CAS, perda de patrocinador) persistem como desafios estruturais, embora sem grandes novidades hoje.
 
-- 💼 **Movimentação Extracampo e SAF:** A SAF mantém uma postura **extremamente proativa e estratégica** na gestão da marca, Arena MRV e planejamento de longo prazo. No entanto, ainda enfrenta desafios em **governança e conformidade**, gerenciando situações como a decisão do STJD sobre Ruan Tressoldi.
+- 📈 **Evolução/Involução:**
+    - A **liderança e gestão de elenco de Eduardo Domínguez ("Barba")** é uma evolução constante, culminando no topo do ranking da Arena MRV.
+    
+    - O **engajamento da torcida e a Arena MRV** como "fortaleza" e plataforma de experiência são grandes fortalezas, com elogios de personalidades.
+    
+    - A **capacidade de superação e resiliência** do time é evidente após a goleada na Sula e boa resposta do elenco.
+    
+    - A **"volta por cima" de jogadores** como Reinier e o reconhecimento de Delfim no mercado são notáveis evoluções individuais.
+    
+    - O **desenvolvimento da base** segue positivo, com a profissionalização de Ian Ângelo.
+    
+    - A **recorrência de lesões e desfalques** continua sendo a principal involução, impactando a profundidade do elenco.
+
+- 💼 **Movimentação Extracampo e SAF:**
+    - A SAF mantém uma postura **extremamente proativa e estratégica** na gestão da marca, da Arena MRV e no planejamento de longo prazo, incluindo gestão de talentos (renovação Delfim, contratação Ian Ângelo).
+    
+    - Continua a gerenciar desafios em **governança e conformidade**, como a decisão do STJD sobre Ruan Tressoldi.
 
 ## 📰 Top 5 Notícias
-1.  **Barba celebra goleada do Atlético na Sula, mas pondera: 'Temos que ser inteligentes'** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/barba-celebra-goleada-do-atletico-na-sula-mas-pondera-temos-que-ser-inteligentes/)
+1.  **Reinier revela 'pedido' de Barba antes de jogo entre Atlético e City Torque pela Sula** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/reinier-revela-pedido-de-barba-antes-de-jogo-entre-atletico-e-city-torque-pela-sula/
 
-2.  **Caixa comemora vitória do Atlético na Sula e exalta equipe: 'Não via há muito tempo'** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/caixa-comemora-vitoria-do-atletico-na-sula-e-exalta-equipe-nao-via-ha-muito-tempo/)
+2.  **Atlético: Barba confirma mudanças para duelo com Coritiba e projeta sequência** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-barba-confirma-mudancas-para-duelo-com-coritiba-e-projeta-sequencia/
 
-3.  **Domínguez cita fatores para grande fase do Atlético: ‘Não é pelo gramado’** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/dominguez-cita-fatores-para-grande-fase-do-atletico-nao-e-pelo-gramado/)
+3.  **Filho de Hulk, Ian Ângelo assina primeiro contrato profissional com Atlético** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/filho-de-hulk-ian-angelo-assina-primeiro-contrato-profissional-com-atletico/
 
-4.  **Everson ou Delfim? Barba responde quem será titular do Atlético até dezembro** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/everson-ou-delfim-barba-responde-quem-sera-titular-do-atletico-ate-dezembro/)
+4.  **Goleada do Atlético na Sul-Americana coloca Barba no topo de ranking na Arena MRV** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/goleada-do-atletico-na-sul-americana-coloca-barba-no-topo-de-ranking-na-arena-mrv/
 
-5.  **Atlético inicia conversas para renovação de contrato com Gabriel Delfim** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-inicia-conversas-para-renovacao-de-contrato-com-gabriel-delfim/)
+5.  **Atlético inicia conversas para renovação de contrato com Gabriel Delfim** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-inicia-conversas-para-renovacao-de-contrato-com-gabriel-delfim/

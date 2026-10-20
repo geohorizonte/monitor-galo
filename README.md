@@ -1,81 +1,77 @@
-# 🐔 Dossiê do Galo - 19/10/2026
+# 🐔 Dossiê do Galo - 20/10/2026
 
 ## 📊 Resumo Rápido
-- **Total/Assunto:** 5 Pós-Jogo BR, 5 Atletas, 5 Base, 4 Marketing/Torcida, 3 Técnico, 2 SAF/Finanças, 1 DM, 1 Sula, 1 Calendário, 3 Opinião.
+- **Total/Assunto:** 15 Sula (Pré-Jogo), 6 Base (Pós-Clássico), 6 Atletas, 4 DM, 3 Ingressos, 3 Técnico, 3 Opinião, 1 Marketing.
 
-- **Tom:** Misto.
+- **Tom:** Focado/Misto.
 
-- **Foco Temático:** 15% Pós-Jogo BR, 15% Atletas, 15% Base, 12% Marketing/Torcida.
+- **Foco Temático:** 40% Sul-Americana, 15% Base, 15% Atletas, 10% DM, 10% Ingressos/Marketing.
 
-- **Raio-X:** Itatiaia e O Tempo destacam a vitória no Brasileirão, a gestão do técnico Barba e a polêmica briga na final da base, além da notícia sobre dívidas e Manto da Massa.
+- **Raio-X:** Itatiaia e O Tempo focam na decisão da Sul-Americana com Delfim titular e desfalque no ataque, além da repercussão da briga no Mineiro Sub-20.
 
-- **Ruído vs. Fato:** Notícias de futebol internacional genérico e não relacionadas ao Atlético-MG foram filtradas.
+- **Ruído vs. Fato:** Notícias genéricas de futebol internacional e feminino foram filtradas, concentrando-se nos eventos diretos do Galo.
 
 ## 🌡️ Termômetro e Ambiente
-- Euforia e confiança após a vitória no Brasileirão, recolocando o time no G-5.
+- Expectativa para a decisão da Sul-Americana com otimismo pela classificação, apesar do desfalque no ataque.
 
-- Celebração da força do elenco e recuperação de jogadores.
-
-- Preocupação com dívidas e a situação de Fred e Everson no DM.
-
-- Repercussão negativa da briga generalizada na final do Mineiro Sub-20.
+- Preocupação com a repercussão negativa da briga no clássico da base.
 
 ## 💰 Lupa na SAF e Finanças
-- Caixa celebra a vitória do Atlético sobre o Coritiba e projeta sequência da temporada.
-
-- Atlético-MG é advertido por dívidas e corre risco de transfer ban.
+- Não houve notícias diretas de SAF ou finanças hoje.
 
 ## ⚽ Foco Técnico e DM
-- Barba explicou o rodízio e valorizou o elenco após a vitória sobre o Coritiba.
+- **DM:** Atacante se machuca e vira desfalque para a Sula. Everson viaja para o Uruguai, mas não estará no banco.
 
-- Técnico revelou pedido de desculpas a um jogador: "Senti que errei com ele".
+- **Escalação (Sula):** Gabriel Delfim será titular no gol contra o City Torque. Atlético divulga relacionados com novidades.
 
-- Quatro jogadores dão a volta por cima sob a gestão de Domínguez.
+- **Técnico Barba:** Elogiado pela recuperação de Alexsander e Igor Gomes, mas criticado por "não inteligência" na briga da base.
 
-- Barba atualiza situação de Fred e Everson no DM: "Precisamos muito deles".
-
-- O time do Atlético tem uma condição física excepcional, segundo João Vítor Xavier.
+- **Análise Tática:** Comentaristas Marques e Nathália Fiuza destacam que o Atlético tem padrão de jogo e os jogadores sabem o que fazer.
 
 ## 🏟️ Arena MRV e Ingressos
-- Parcial atualizada de ingressos vendidos para Atlético x Coritiba.
+- Atlético inicia venda de ingressos para o clássico contra o Cruzeiro pelo Brasileirão.
 
-- Jogadores do time principal do Atlético assistiram à decisão do Mineiro Sub-20 na Arena MRV.
+- Jogadores do time principal assistem à decisão do Mineiro Sub-20 na Arena MRV.
 
-## ⚔️ Especial de Jogo (vs. Coritiba pelo Brasileirão - Pós-Jogo)
-- **Imprensa:** Consenso de que o Atlético venceu o Coritiba com um "mistão", mostrando profundidade do elenco e alcançando o G-5.
+- Manto da Massa: torcida pode votar em modelo preferido.
 
-- **Prancheta:** Vitória por 1 a 0 com gol de Igor Gomes. Barba utilizou rodízio e valorizou os reservas, de olho no G-5.
+## ⚔️ Especial de Jogo (vs. City Torque pela Sul-Americana)
+- **Imprensa:** Consenso de que o Atlético se prepara para um duelo decisivo pela Sul-Americana, com Delfim no gol e desfalque no ataque.
 
-- **Tendências:** O Galo cumpre meta prioritária no Brasileirão, supera "fantasma" recente e mostra força do elenco. A condição física do time é excepcional.
+- **Prancheta:** Gabriel Delfim será titular no gol; um atacante está lesionado e é desfalque. Everson viaja, mas não joga.
 
-- **Adversário:** O Coritiba foi derrotado na Arena MRV.
+- **Tendências:** O Galo tem tudo para avançar, precisando de um placar raro para ser eliminado. Busca igualar retrospecto no Centenário.
+
+- **Adversário:** O City Torque, apesar de ex-jogador alertar ser "um dos melhores", sofre para ter popularidade no Uruguai.
 
 ## 📈 Radar de Tendências (Visão Macro dos Últimos 30 Dias)
-
 - 🛑 **Problemas Crônicos e Táticos:**
-    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico e persistente. A constante necessidade de rodízio e a atualização sobre Fred/Everson reforçam essa persistência, impactando a profundidade do elenco.
+    - **Gestão de Lesões e Desfalques:** Continua sendo o problema mais crítico e persistente. Quase todos os relatórios mencionam lesões, ausências de jogadores-chave, forçando constantes adaptações táticas e rodízio. O novo desfalque no ataque e a situação de Everson hoje reforçam a recorrência.
 
-    - **Inconsistência Tática e Mental:** Apesar da boa fase atual e da resiliência, o histórico recente ainda mostra oscilações de desempenho (ex: empate com Chapecoense), embora hoje o "mistão" tenha dado uma boa resposta.
+    - **Governança e Credibilidade da SAF:** As questões financeiras e de governança persistem como um desafio estrutural. Dívidas na FIFA/CAS, risco de transfer ban, perda do patrocinador H2bet, e discussões sobre a propriedade (Vorcaro/PixBet) mostram uma fragilidade contínua na transparência e estabilidade institucional.
 
-    - **Governança e Credibilidade da SAF:** As questões Vorcaro/PixBet, dívidas FIFA/CAS, e a perda do patrocinador H2bet persistiram. A notícia de hoje sobre **risco de transfer ban por dívidas** é uma grave escalada e confirma a persistência deste problema.
+    - **Inconsistência Tática e Mental:** Apesar da resiliência e capacidade de virada, o time ainda apresenta oscilações de desempenho. A briga na base (com o técnico criticando a "não inteligência") também pode ser um sintoma de descontrole emocional.
 
 - 📈 **Evolução/Involução:**
-    - **Evolução:** A **liderança e gestão de elenco de Eduardo Domínguez ("Barba")** é uma evolução constante (rodízio, valorização do grupo, pedido de desculpas, recuperação de jogadores). O **engajamento da torcida e a Arena MRV** como "fortaleza" e polo de marketing são grandes fortalezas (1 ano, invicta, Manto da Massa). A **capacidade de superação e resiliência** do time é evidente com a vitória de hoje e a resposta do elenco. A **"volta por cima" de jogadores** como Reinier, Alexsander e Igor Gomes é notável. O **desenvolvimento da base** segue positivo, mas foi ofuscado pela violência na final.
-
-    - **Involução:** A **recorrência de lesões e desfalques de jogadores-chave** continua sendo a principal involução, impactando a profundidade e consistência do elenco. As **questões de governança e financeiras da SAF** tiveram uma grave involução com a notícia de hoje sobre o **risco de transfer ban e advertência por dívidas**, adicionando incerteza e comprometendo futuras movimentações.
+    - **Evolução:**
+        - **Liderança e Gestão de Elenco de Eduardo Domínguez ("Barba"):** Uma evolução constante e notável, elogiado pela gestão de grupo, rodízio, recuperação de atletas e manutenção de um padrão tático.
+        - **Engajamento da Torcida e Arena MRV:** A Arena MRV é uma fortaleza consolidada, polo de marketing (Manto da Massa, eventos), e a torcida demonstra engajamento altíssimo.
+        - **Desenvolvimento da Base:** Consistente e promissor. Renovações, destaques em seleções de base, vitórias em campeonatos e a ascensão de jovens como Delfim são recorrentes.
+        - **Recuperação e "Volta por Cima" de Jogadores:** Muitos atletas, como Reinier, Scarpa, Lyanco, Igor Gomes, Alexsander e Delfim, tiveram e continuam tendo momentos de destaque e superação.
+    - **Involução:**
+        - **Recorrência de Lesões e Desfalques de Jogadores-Chave:** É a principal e mais preocupante involução, impactando diretamente a profundidade e consistência do elenco para as fases decisivas.
 
 - 💼 **Movimentação Extracampo e SAF:**
-    - A SAF mantém uma postura **extremamente proativa e estratégica** na gestão da marca, Arena MRV e planejamento de longo prazo (Manto da Massa, renovações, parcerias como Huawei).
-
-    - No entanto, enfrenta desafios crescentes em **governança e conformidade**, com a notícia de hoje sobre **dívidas e risco de transfer ban** sendo a mais impactante, exigindo respostas institucionais robustas. A celebração da Caixa é um ponto positivo no relacionamento com parceiros.
+    - A SAF mantém uma postura extremamente proativa e estratégica na gestão da marca, da Arena MRV e no planejamento de longo prazo. O foco é em gerenciamento de ativos, monetização e protagonismo.
+    - No entanto, enfrenta desafios crescentes e persistentes em governança e conformidade. As dívidas na FIFA/CAS e o risco de transfer ban, somados à perda do patrocinador máster e às questões Vorcaro/PixBet, exigem respostas institucionais robustas e transparentes.
 
 ## 📰 Top 5 Notícias
-1.  **Atlético-MG é advertido por dívidas e corre risco de transfer ban** - Revista PLACAR (Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlRkVWdIdVNrWElQOUpFSXVhMGRvOEdhZ21yYnloelUyeWp3VTJZcjR6WUh1eWJnLVZBbVBDbTZTbEh0Z3NZSVZTQm50OGFlcnhqMmgxb3pWX3dKQ0tjSF9sRllxaVZtOHdxR0d1Z29zZGFyMlhMTGFPeW1WQ0RuS0RYMzVUOVZaSU00ckszb0VvRVZGaUZRWmljMlg3UmJXZUE?oc=5)
+1.  **Atlético: Gabriel Delfim viverá primeira experiência internacional como titular** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-gabriel-delfim-vivera-primeira-experiencia-internacional-como-titular/)
 
-2.  **Atlético x Coritiba: veja quem foi eleito o melhor em campo no jogo do Brasileirão** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-x-coritiba-veja-quem-foi-eleito-o-melhor-em-campo-no-jogo-do-brasileirao/)
+2.  **Atacante do Atlético se machuca e vira desfalque para decisão contra o Torque na Sula** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atacante-do-atletico-se-machuca-e-vira-desfalque-para-decisao-contra-o-torque-na-sula/)
 
-3.  **Com vitória sobre Coritiba, Atlético supera pontuações obtidas em 2024 e 2025 no Brasileiro** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/com-vitoria-sobre-coritiba-atletico-supera-pontuacoes-obtidas-em-2024-e-25-no-brasileiro/)
+3.  **Técnico diz que Atlético ‘não foi inteligente’ após briga com Cruzeiro no Sub-20** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/tecnico-diz-que-atletico-nao-foi-inteligente-apos-briga-com-cruzeiro-no-sub-20/)
 
-4.  **Barba explica rodízio no Atlético e valoriza elenco após a vitória sobre o Coritiba** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/barba-explica-rodizio-no-atletico-e-valoriza-elenco-apos-a-vitoria-sobre-o-coritiba/)
+4.  **Manto da Massa: Atlético divulga 'prévias' e torcida pode votar em modelo preferido** - Itatiaia (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/manto-da-massa-atletico-divulga-previas-e-torcida-pode-votar-em-modelo-preferido/)
 
-5.  **Atlético-MG x Cruzeiro: final do Mineiro sub-20 tem briga generalizada e oito expulsões; assista** - ge (Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd3N2d0QxbGIwc2wzUzFiZFBrdlV5cDFiVEVFZGt6WXRicHY2ODJSU3FDbW5OTmUzaTlLOUpYN2xPMkVxSk15dUV0X2pITXpqSGlsdlQzWW1veDR0Z1RZUUZ0bTRaSEtCcHpjU01ldm9nbXpDNnpEaHlwNTIta3V6Z0lIc2l2bndDLUo2M0I5WkZHZDI5QzNXN1RqWm9lTUZCdzk3SGsyUGczWmpVS3c4WFNJMl9zY2xiWmtKaTdOWExic3ByYkt4Q1pmcUJKdW5QS0FUREM2MnNEQXgtU2dBbGgzaXRhNEXSAfYBQVVfeXFMUEdmZk5qbmJlbmJSUmFyYlFyMmZJRXVtWmlrT3F6UTBUU2RadDA5QW82ZWx1Z0N0Y2E1TmlmV2hQZXlsTFlndjFxQ2VpUEpjRGo4YlItMVdySHp1UXRZeE5mMEdtd1BHVGE4NWg4ak9jYTk0NjFUVUpZQkxBOFVmTWNuc24tc3hNVUcxcnBzT2RRQV9SZUhzdmRCSW85Wkhfc1NHM0syUXlka2IxRUV2TkpkSF84c0E0NGtNYlpUdGdTd1RRd2UtNXR1ZC01RXY1YWdpSGppZUJrOWRKUXptTHl2RElVa0RscF9aTEdaSlRTTEt3SklB?oc=5)
+5.  **Para ser eliminado, Atlético precisaria sofrer placar que aconteceu apenas uma vez em 2026** - LANCE! (Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb1dxS0Y3TnI3LXJSM1JfMjRVS2VUdXg1Zk9HVF9BYy1BWUJ2SFJrOWJVejdSSWM2UUFMakwycFJBaHVOZ1h6dHNFVGJSOEFFZlpqZU11Ml9SamtqWnJUY0dXUVZ3bGdiOXRoa2pxUWppdnota1hmMVhOSHlHVmxJQmV4U3Q2WEp5elUzM2s0X21BSWlTOGhDYXNHY0JTeGc3MTlWcFFPU0ZlMEtBRmlMblRoaURjRDhyNmFqVk10VkFIcHA4aHJvaDlWM21aV2MzZWc?oc=5)

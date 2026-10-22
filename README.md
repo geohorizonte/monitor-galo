@@ -1,80 +1,76 @@
-# 🐔 Dossiê do Galo - 21/10/2026
+# 🐔 Dossiê do Galo - 22/10/2026
 
 ## 📊 Resumo Rápido
-- **Total/Assunto:** 21 Sul-Americana, 5 Base, 3 DM/Reforços, 4 Opinião, 3 Institucional/Marketing, 2 Ingressos, 1 Atleta, 1 Técnico.
+- **Total/Assunto:** 21 Sul-Americana (Final), 4 Atletas, 3 Base, 3 Institucional/SAF, 2 Arena/Mkt, 2 Opinião, 1 Ingressos, 1 Histórico.
 
-- **Tom:** Focado/Misto.
+- **Tom:** Eufórico/Otimista.
 
-- **Foco Temático:** 60% Sul-Americana, 15% Base, 10% DM/Reforços, 10% Opinião, 5% Outros.
+- **Foco Temático:** 60% Sul-Americana, 15% Atletas/Base, 10% Institucional/SAF, 15% Outros.
 
-- **Raio-X:** Itatiaia e O Tempo focam na decisão da Sul-Americana, com novidades na escalação e desfalques, além da repercussão do Sub-20.
+- **Raio-X:** Itatiaia/O Tempo focam na classificação do Atlético para a final da Sul-Americana, destacando a euforia e a projeção para o confronto com o Boca Juniors.
 
-- **Ruído vs. Fato:** Notícias genéricas de futebol internacional e de transmissão foram filtradas para maior objetividade.
+- **Ruído vs. Fato:** Notícias genéricas de futebol internacional foram filtradas para manter o foco no Galo.
 
 ## 🌡️ Termômetro e Ambiente
-- Grande expectativa e otimismo para a decisão da Sul-Americana no Uruguai.
+- Euforia generalizada pela classificação para a terceira final continental consecutiva.
 
-- Preocupação com o desfalque de um atacante e a situação de Everson no DM para o jogo decisivo.
-
-- Repercussão negativa da fala do técnico do Sub-20 sobre "falta de inteligência" após a briga no clássico.
+- Clima de confiança na equipe e mobilização da torcida para a decisão.
 
 ## 💰 Lupa na SAF e Finanças
-- TJMG e Instituto Galo levam jovens acolhidos para jogos, em ação social com a Arena MRV.
+- CEO e Rubens Menin celebram a classificação e reforçam o desejo de ter a torcida na final.
 
-- Mercado em Montevidéu tem ‘cantinho’ especial para o Atlético, explorando o ambiente da cidade-sede.
+- A final continental é vista como validação da gestão e do projeto do clube.
 
 ## ⚽ Foco Técnico e DM
-- **DM:** Um atacante se machuca e vira desfalque para a Sula. Everson viaja para o Uruguai, mas não estará no banco.
+- Delfim celebra experiência internacional e há conversas por renovação.
 
-- **Escalação Sula:** Barba deve acionar sua "cavalaria". Lista de relacionados foi divulgada com novidades.
+- Bernard analisa jogo anterior e foca em não repetir erros na final.
 
-- **Base:** Técnico diz que time Sub-20 "não foi inteligente" após briga. Atlético precisa de resultado para avançar à final do Brasileiro Sub-17.
+- Dois atletas da base são convocados para o Mundial Sub-17.
 
-- **Atletas:** Alexsander mira nova final continental. Borbas é motivo de orgulho em bairro de Montevidéu.
+- Craque Neto pede jogador do Atlético na Seleção Brasileira.
 
 ## 🏟️ Arena MRV e Ingressos
-- Atlético inicia venda de ingressos para o clássico contra o Cruzeiro pelo Brasileirão.
+- Vencedor do Manto da Massa anunciado e vendas abertas.
 
-- Venda de ingressos para a torcida do Galo na Arena do Grêmio pela Copa do Brasil.
+- Detalhes da venda de ingressos para o duelo contra o Grêmio pela Copa do Brasil.
 
-## ⚔️ Especial de Jogo (vs. City Torque pela Sul-Americana)
-- **Imprensa:** Consenso de jogo decisivo que vale a ida à finalíssima, com o Atlético buscando a classificação.
+- Arena MRV é celebrada como local onde "a Massa transforma sonhos em decisões".
 
-- **Prancheta:** Atacante lesionado é desfalque. Everson viaja, mas não atua. Barba deve escalar força máxima com "cavalaria".
+## ⚔️ Especial de Jogo (Final da Sul-Americana vs. Boca Juniors)
+- **Imprensa:** Consenso de que o Atlético se classificou para a final, com expectativas para o confronto contra o Boca Juniors.
 
-- **Tendências:** Galo tem "pé e meio" na final, buscando sua 10ª final continental. Pode igualar retrospecto no Centenário. Ronaldinho Gaúcho manda recado de apoio.
+- **Prancheta:** Bernard aponta a necessidade de corrigir erros; time é visto como mais preparado em relação a outras finais.
 
-- **Adversário:** Ex-zagueiro alerta sobre a qualidade do Torque, mas o clube sofre para ter popularidade no Uruguai e sonha com virada.
+- **Tendências:** O Galo busca o título para fazer história, enfrentando um Boca Juniors que a mídia argentina vê como superior.
+
+- **Adversário:** Boca Juniors, um gigante sul-americano; atacante argentino do Galo conhece bem o rival; TV argentina detona Atlético.
 
 ## 📈 Radar de Tendências (Visão Macro dos Últimos 30 Dias)
 - 🛑 **Problemas Crônicos e Táticos:**
-    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico e persistente. Quase todos os relatórios mencionam lesões, ausências de jogadores-chave, forçando constantes adaptações táticas e rodízio. O novo desfalque no ataque e a situação de Everson hoje reforçam a recorrência.
+    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico e persistente. Quase todos os relatórios mencionam lesões, ausências de jogadores-chave e a necessidade constante de adaptações táticas e rodízio. Isso impacta diretamente a profundidade e consistência do elenco.
 
-    - **Inconsistência Tática e Mental:** Apesar da resiliência e capacidade de virada, o time ainda apresenta oscilações de desempenho. A briga na base (com o técnico criticando a "não inteligência") pode ser um sintoma de descontrole emocional.
+    - **Inconsistência Tática e Mental:** Apesar da resiliência e capacidade de virada, o time ainda demonstra oscilações de desempenho, dependendo de superações individuais e, por vezes, de um "sufoco" em jogos.
 
-    - **Governança e Credibilidade da SAF:** As questões financeiras (dívidas na FIFA/CAS, risco de transfer ban, perda do patrocinador H2bet) e de governança (Vorcaro/PixBet) persistem como desafios estruturais, exigindo atenção contínua.
+    - **Governança e Credibilidade da SAF:** Questões financeiras (dívidas FIFA/CAS, risco de transfer ban) e de governança (Vorcaro/PixBet), além da perda do patrocinador H2bet, permanecem desafios estruturais e afetam a transparência e estabilidade.
 
 - 📈 **Evolução/Involução:**
-    - **Evolução:**
-        - **Liderança e Gestão de Elenco de Eduardo Domínguez ("Barba"):** Uma evolução constante e notável, elogiado pela gestão de grupo, rodízio, recuperação de atletas e manutenção de um padrão tático.
-        - **Engajamento da Torcida e Arena MRV:** A Arena MRV é uma fortaleza consolidada, polo de marketing (Manto da Massa, eventos), e a torcida demonstra engajamento altíssimo.
-        - **Desenvolvimento da Base:** Consistente e promissor. Renovações, destaques em seleções de base, vitórias em campeonatos e a ascensão de jovens como Delfim são recorrentes.
-        - **Recuperação e "Volta por Cima" de Jogadores:** Muitos atletas, como Reinier, Scarpa, Lyanco, Igor Gomes, Alexsander e Delfim, tiveram e continuam tendo momentos de destaque e superação.
-    - **Involução:**
-        - **Recorrência de Lesões e Desfalques de Jogadores-Chave:** É a principal e mais preocupante involução, impactando diretamente a profundidade e consistência do elenco para as fases decisivas.
+    - **Evolução:** A **liderança e gestão de elenco de Eduardo Domínguez ("Barba")** é consistente e notável. O **engajamento da torcida e Arena MRV** é uma fortaleza consolidada e polo de marketing. O **desenvolvimento da base** é consistente e promissor. A **capacidade de superação e resiliência** do time é evidente. A **"volta por cima" de jogadores** é notável.
+
+    - **Involução:** A **recorrência de lesões e desfalques de jogadores-chave** é a principal e mais preocupante involução. A **transparência e estabilidade institucional da SAF** tiveram involuções com questões de dívidas e governança.
 
 - 💼 **Movimentação Extracampo e SAF:**
-    - A SAF mantém uma postura extremamente proativa e estratégica na gestão da marca, da Arena MRV e no planejamento de longo prazo. O foco é em gerenciamento de ativos, monetização e protagonismo.
+    - A SAF mantém uma postura **extremamente proativa e estratégica** na gestão da marca, da Arena MRV e no planejamento de longo prazo. O foco é em gerenciamento de ativos, monetização e busca por protagonismo.
 
-    - No entanto, enfrenta desafios crescentes e persistentes em governança e conformidade. As dívidas na FIFA/CAS e o risco de transfer ban, somados à perda do patrocinador máster e às questões Vorcaro/PixBet, exigem respostas institucionais robustas e transparentes.
+    - No entanto, enfrenta desafios **crescentes e persistentes em governança e conformidade**. Dívidas, risco de transfer ban, perda do patrocinador máster e questões de propriedade exigem respostas institucionais robustas e transparentes.
 
 ## 📰 Top 5 Notícias
-1.  **Atacante do Atlético se machuca e vira desfalque para decisão contra o Torque na Sula** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atacante-do-atletico-se-machuca-e-vira-desfalque-para-decisao-contra-o-torque-na-sula/
+1.  **Atlético: Delfim comenta chance na Seleção e reage à conversas por renovação com Atlético** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/delfim-comenta-chance-na-selecao-e-reage-a-conversas-por-renovacao-com-atletico/
 
-2.  **Everson viaja com o Atlético para decisão na 'Sula', mas não estará no banco; entenda** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/everson-viaja-com-o-atletico-para-decisao-na-sula-mas-nao-estara-no-banco-entenda/
+2.  **CEO do Atlético vê final da Sul-Americana como validação e exalta torcida: ‘Maior pilar’** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/ceo-do-atletico-ve-final-da-sul-americana-como-validacao-e-exalta-torcida-maior-pilar/
 
-3.  **Técnico diz que Atlético ‘não foi inteligente’ após briga com Cruzeiro no Sub-20** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/tecnico-diz-que-atletico-nao-foi-inteligente-apos-briga-com-cruzeiro-no-sub-20/
+3.  **Rubens Menin celebra terceira final continental seguida do Atlético e convoca torcida** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/rubens-menin-celebra-terceira-final-continental-seguida-do-atletico-e-convoca-torcida/
 
-4.  **Com novidades, Atlético divulga relacionados para duelo com City Torque** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/com-novidades-atletico-divulga-relacionados-para-duelo-com-city-torque/
+4.  **Atlético chega à 3ª final continental consecutiva com fato curioso; entenda** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-chega-a-3a-final-continental-consecutiva-com-fato-curioso-entenda/
 
-5.  **Em noite fria, Atlético chega ao Uruguai para duelo que vale ida à finalíssima da Sula** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/em-noite-fria-atletico-chega-ao-uruguai-para-duelo-que-vale-ida-a-finalissima-da-sula/
+5.  **TV argentina detona o Atlético e vê Boca Juniors superior em final: 'Versão fraca'** - https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/tv-argentina-detona-o-atletico-e-ve-boca-juniors-superior-em-final-versao-fraca/

@@ -1,74 +1,75 @@
-# 🐔 Dossiê do Galo - 23/10/2026
+# 🐔 Dossiê do Galo - 24/10/2026
 
 ## 📊 Resumo Rápido
-- **Total/Assunto:** 12 Sula (Final), 4 SAF/Mkt/Finanças, 3 DM/Atletas, 3 Histórico/Comp, 2 Base, 1 CB, 1 BR, 1 Mercado, 1 Atleta (extra).
+- **Total/Assunto:** 12 DM/Atletas, 7 Pré-Jogo BR, 5 Sula, 2 SAF/Infraestrutura/Mkt, 1 Base, 1 Mercado, 1 Gafe.
 
-- **Tom:** Eufórico/Otimista.
+- **Tom:** Misto/Otimista.
 
-- **Foco Temático:** 40% Sul-Americana, 15% SAF/Mkt/Finanças, 10% DM/Atletas, 10% Histórico/Comp.
+- **Foco Temático:** 35% DM/Atletas, 20% Pré-Jogo BR, 15% Sul-Americana, 10% Opinião, 5% SAF/Infra, 5% Base, 5% Mercado.
 
-- **Raio-X:** Itatiaia e O Tempo focam na euforia pela final da Sul-Americana, volta de Éverson e movimentações da SAF.
+- **Raio-X:** Itatiaia e O Tempo focam na volta de Everson e Scarpa, a preparação para o Flamengo e a expectativa pela final da Sula.
 
-- **Ruído vs. Fato:** Notícias políticas, culturais e de outros esportes não relacionadas ao futebol principal do Atlético foram filtradas.
+- **Ruído vs. Fato:** Notícias genéricas de futebol internacional e de outros esportes foram filtradas para manter o foco no Galo.
 
 ## 🌡️ Termômetro e Ambiente
-- Euforia e alta expectativa pela final da Sul-Americana contra o Boca Juniors na Colômbia.
+- Otimismo e alívio com os retornos de Everson e Scarpa, essenciais para a reta final da temporada.
 
-- Alívio com a volta de Éverson do DM, reforçando a equipe para as decisões.
+- Expectativa alta para o duelo contra o Flamengo e mobilização para a final da Sul-Americana.
+
+- Desmentido de "crise" no elenco tenta acalmar os ânimos, mas indica ruído interno pré-existente.
 
 ## 💰 Lupa na SAF e Finanças
-- Rubens Menin visita a Cidade do Galo, evidenciando envolvimento nas obras do CT.
+- Rubens Menin visita a Cidade do Galo, mostrando envolvimento nas obras do CT.
 
-- Clube anuncia o GaloBank, banco digital voltado para a torcida, visando monetização.
-
-- Há projeção de faturar "bolada" com o título da Sul-Americana.
+- Atlético e Banco Inter anunciam o GaloBank, banco digital exclusivo para torcedores, visando monetização.
 
 ## ⚽ Foco Técnico e DM
-- Éverson é liberado do departamento médico e se aproxima do retorno aos gramados.
+- **DM:** Everson é liberado e pode disputar decisões; Scarpa avança em recuperação e volta a treinar em campo.
 
-- Joia da base, Riquelme, celebra convocação para a Copa do Mundo Sub-17.
+- **Goleiro:** Everson faz forte recado de motivação. Comentarista Edu Panzi alerta para não apressar seu retorno. Torcida e Felipe Melo debatem a escolha entre Everson e Delfim.
 
-- Crias da base vencem Amazonas e avançam às quartas da Copa do Brasil Sub-20.
+- **Elenco:** Ruan desmente crise no elenco e relação com Lyanco. Castaño revela desejo de permanecer no clube.
+
+- **Base:** O Atlético Sub-20 vence o Amazonas e avança na Copa do Brasil.
 
 ## 🏟️ Arena MRV e Ingressos
-- Conmebol abre credenciamento para a final da Sul-Americana.
+- Nenhuma novidade direta hoje.
 
-- Colombianos revelam preço de ingresso e setor exclusivo para a torcida na final da Sula.
+## ⚔️ Especial de Jogo (vs. Flamengo pelo Brasileirão)
+- **Imprensa:** O consenso é de preparação intensa e alerta para a força do Flamengo, mesmo após eliminação.
 
-- Galo divulga venda de ingressos para a semifinal da Copa do Brasil contra o Grêmio.
+- **Prancheta:** Treinos na Cidade do Galo; Everson e Scarpa em reta final de recuperação. Bernard é voz de liderança.
 
-## ⚔️ Especial de Jogo (Final da Sul-Americana vs. Boca Juniors)
-- **Imprensa:** Há um consenso de euforia e confiança na capacidade do Atlético, com a imprensa argentina destacando perigos do Galo.
+- **Tendências:** Galo busca manter sequência de vitórias no Brasileirão. O Flamengo é visto como "ferido" mas perigoso.
 
-- **Prancheta:** Éverson retorna ao DM, aumentando as opções para Barba na final. O elenco celebrou a vaga com festa nos bastidores.
-
-- **Tendências:** O Galo é apontado como favorito por ex-jogadores e busca mais um título continental.
-
-- **Adversário:** O Boca Juniors é um gigante continental, com o prefeito colombiano fazendo promessas aos clubes.
+- **Adversário:** Bernard alerta que o Flamengo, após eliminação, exigirá "atenção" redobrada.
 
 ## 📈 Radar de Tendências (Visão Macro dos Últimos 30 Dias)
+
 - 🛑 **Problemas Crônicos e Táticos:**
-    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico e persistente, exigindo constantes adaptações e rodízio do elenco.
+    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico e persistente, exigindo adaptações táticas e afetando a profundidade do elenco. A liberação de Everson e avanço de Scarpa hoje são alívios, mas a recorrência é inegável.
 
-    - **Governança e Credibilidade da SAF:** Questões financeiras (dívidas FIFA/CAS, risco de transfer ban) e de governança (Vorcaro/PixBet, perda de patrocinador máster) persistem como desafios estruturais.
+    - **Governança e Credibilidade da SAF:** Questões financeiras (dívidas FIFA/CAS, risco de transfer ban, perda do patrocinador máster H2bet) e de governança (Vorcaro/PixBet) persistem como desafios estruturais e de transparência.
 
-    - **Inconsistência Tática e Mental:** O time ainda demonstra oscilações de desempenho, apesar da resiliência e capacidade de virada em momentos chave.
+    - **Inconsistência Tática e Mental:** Apesar da resiliência e capacidade de virada, o time ainda demonstra oscilações de desempenho, por vezes dependendo de superações individuais.
 
 - 📈 **Evolução/Involução:**
-    - **Evolução:** A **liderança e gestão de elenco de Eduardo Domínguez ("Barba")** é consistente e notável. O **engajamento da torcida e Arena MRV** é uma fortaleza consolidada. O **desenvolvimento da base** é consistente e promissor, com jovens talentos se destacando. A **capacidade de superação e resiliência** do time é evidente nas fases decisivas. A **"volta por cima" de jogadores** tem sido uma constante positiva.
-    - **Involução:** A **recorrência de lesões e desfalques de jogadores-chave** é a principal e mais preocupante involução. A **transparência e estabilidade institucional da SAF** teve involuções com questões de dívidas, governança e perda de patrocinador.
+    - **Evolução:** A **liderança e gestão de elenco de Eduardo Domínguez ("Barba")** é consistente e notável. O **engajamento da torcida e Arena MRV** é uma fortaleza consolidada. O **desenvolvimento da base** é consistente e promissor, com jovens talentos se destacando. A **capacidade de superação e resiliência** do time é evidente em momentos decisivos. A **"volta por cima" de jogadores** (Reinier, Scarpa, Lyanco, Everson) é uma tendência positiva.
+
+    - **Involução:** A **recorrência de lesões e desfalques de jogadores-chave** continua sendo a principal involução, impactando diretamente a profundidade e consistência do elenco para as fases decisivas.
 
 - 💼 **Movimentação Extracampo e SAF:**
-    - A SAF mantém uma postura **extremamente proativa e estratégica** na gestão da marca, Arena MRV e planejamento de longo prazo (GaloBank, obras no CT, parcerias). O foco é em gerenciamento de ativos, monetização e protagonismo.
-    - No entanto, enfrenta desafios **crescentes e persistentes em governança e conformidade**. Dívidas, risco de transfer ban, perda do patrocinador máster e questões de propriedade exigem respostas institucionais robustas e transparentes.
+    - A SAF mantém uma postura **extremamente proativa e estratégica** na gestão da marca, Arena MRV e planejamento de longo prazo (Lupa na SAF hoje, GaloBank, obras no CT, parcerias). O foco é em gerenciamento de ativos, monetização e protagonismo.
+
+    - No entanto, enfrenta desafios **crescentes e persistentes em governança e conformidade** (dívidas, risco de transfer ban, perda do patrocinador máster), que exigem respostas institucionais robustas e transparentes.
 
 ## 📰 Top 5 Notícias
-1.  **Atlético chega a 20 temporadas consecutivas em finais - Clube Atlético Mineiro** (Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1d4aXZzSVV6eTdVcDUxZDRvcERobjhtcy1oNEkxbUNrX1ptcHA2WlAxR1F1SWdzRmNpX3V0a1ZuYzIyVzVla2loN19mZ1pKYVFzMTBfOXp6cTd5MWU4clAxX0hqc3lOLXEzak1IV1J2a1BETzRfT2JQN19RMlJvZGNvOHg?oc=5)
+1.  **Everson é liberado pelo DM do Atlético e pode disputar sequência de decisões - Itatiaia** (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/everson-e-liberado-pelo-dm-do-atletico-e-pode-disputar-sequencia-de-decisoes/)
 
-2.  **De volta! Éverson é liberado do departamento médico do Atlético - LANCE!** (Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXc2U3ZJRzJiWFFjMXIxNWVkNHBGYkh4NHQ0Q3hKSjJEZTRUbzFhb0NaUDU4V0pSZEJrRkRGamxxN05WTTI2WFNsSklGT3JDa3U3SUZxTExnRFVMcUVXcVJIR0M1UXRsdwAxUE1ZZjlKZUNpTXZ4bXFlX2ptaUx3RGNmb19nbWhNZzh0VUkzdU9sR1dhaDZ0RUw4NGU1YVljN04zblZuNy1vX0FITXc?oc=5)
+2.  **Scarpa vai a campo, entra em reta final de recuperação e pode reforçar Atlético - Itatiaia** (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/scarpa-vai-a-campo-entra-em-reta-final-de-recuperacao-e-pode-reforcar-atletico/)
 
-3.  **Atlético: Menin visita Cidade do Galo e mostra bastidores das obras no CT - Rádio Itatiaia** (Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLXFtOGIweFBmWEhRdVdCUXpJS0lpSDJLWVA3WmJLTHdiOUFlelBQSmFnRElMYlBQbDhPT2VWbXB4M3IydFp5ZjdNVzZZZ2lIeTVtVElTY2czVVl0dVdRQjA0RXZhRGZFQ1J2WUVCWmZ4dFNDbHJiUTJYdDUzb1gwenNRSDhPMjh1THFrV2FzdWpabDhUdUZHWXRPOWdLc1lwTGhQdHFVRFFaanZYWWxyLTVUMFVIVXk3YmpJZ0UzdlZoZzJ6WU51U0VUU2xpeEhrbDZLLXJDdUFWeUttZERkajdNMTJDT0VYcE9rNDlHU2RwZw?oc=5)
+3.  **Bernard alerta para força do Flamengo e destaca evolução do Galo antes de sequência decisiva - O TEMPO** (Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGE3akJzaGtXRktDR1hLdWRlZFlSbHJKT09melJ6eTlnb0tEcHl5S2FLVlU1S1ZsT3k0ZklPaVBPRU5NVHVwdzFPaWhyVWdqQUp3eWw3aWUwaWVZV1IzejRSRkpoLU1uTHFBYVpaM1JDVFFIV0FoWHRnT1hzUlFpckJlN0pHY3JOTjNnZG1hX0hTalladkZCVUJ4UVh0T1Y2UkFUTmI2TDhiVHFPdFlIMzhOQXE5WTZtWUhFOUxCNA?oc=5)
 
-4.  **GALO fará final histórica da Sul-Americana contra o Boca Júniors em jogo único na Colômbia - O TEMPO** (Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWDhpbU1yUEFmZjBManhMMVlSUG9ZQlVLV01PT3h4TlBxMzlrU01oa2w0UktzMzVDS0xHdHVJRDgtSlpFTmlHR0F3Sl9fYXNGY2JaQzBPUm5FdHFzN0VXUi1WMzhRVFlaMTZleHNaNTlOb0hXSDE3UV9QVEVXbUVhYzhpbFU3WFZyQlJqMmhWS0tRUl93Sll4a1VZZnp0ZG52SzFwOGNqT2hENWo2UmZmMXpuVWRWZ2NGWUpoWGlWZXNEWU1OV0ZiVnB5ZUsxcTNOSEd4N2ZrYTVvaUXSAeABQVVfeXFMTXVYZHpBV2kxRU1KTjAtWXNKUVFsYTZjVVBsaDJQS0pHT3RjTVd1QUtlMFE2ZXFyX25STGRwZXRRY3hkbkdDS0lDbE0tdVlHN2VEUmpfRTBROFBsTmcwTFR6TW1BbDZsbjBRYUc2d08wa2stQ21aYmRrbFI3WGdKSk9lem9VUzJuNEkxQ0NnY3E4QnZZUzVGcktoSG43aWpyQWdBaHlPU01XUmE4SkpkejRMcGlhZnlVSWdWLXpidDhvMkhmcmxmcWY1bXVOT3BrcnlqUGxEOUlGOTNQV2ZLMHY?oc=5)
+4.  **Atlético-MG e Banco Inter anunciam conta exclusiva para torcedores - Poder360** (Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGh4dDFIdE5XeHowMEFnNTAzWGVjVXBpRkZwZlNCYjBlTXNOY0wxc2h3SDFKTW1sM2xRY2V1Si1Ydi0zeC00UmpJVVZUOHg5Q0NoV25BbUxvTlRUSG1Yb2IyY2JTUnBXOEd2RXd3SkhlOXEwSlRvODdiODUxRVIyaWY1SFlYcTFZaGwtY19LTU1JZVpiTzRNNE9IS21ZVDdLQUtqRHJaR3VpUDBvbGNEaA?oc=5)
 
-5.  **Atlético anuncia o GaloBank, banco digital voltado para a torcida alvinegra - LANCE!** (Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPajBXbmtTR3hpNkdVdlJKVlZxZ3ZXSnMwVWFJR2JWZ2Q4YW1jeDlPZ21QZ1haTGUzTWttZ1BITlVSZFFQeWljQ2tKMk5KYTU4VGhyQ3pOU3dnaDJxbmxpeVBpWlYwVkNZeTJPTldKdjRFUFVrUkJUUlM3QTNQYkV0MWx4WTZJZ0xIVHJtZWcwQnRxYnpPakN3c25XLWhIWTJDczZnV3ptWXl6YkYyYWZiQ29DSExHd3lGNEVnRTl3?oc=5)
+5.  **Jornal da Argentina destaca 'batalha' entre Atlético e Boca Juniors: 'Escândalo' - Itatiaia** (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/jornal-da-argentina-destaca-batalha-entre-atletico-e-boca-juniors-escandalo/)

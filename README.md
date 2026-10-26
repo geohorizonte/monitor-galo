@@ -1,74 +1,76 @@
-# 🐔 Dossiê do Galo - 25/10/2026
+# 🐔 Dossiê do Galo - 26/10/2026
 
 ## 📊 Resumo Rápido
-- **Total/Assunto:** 6 DM/Atletas, 10 Pré-Jogo BR, 5 Opinião, 4 Mercado/Elenco, 3 Sula, 1 SAF/Infraestrutura, 1 Base, 1 Atletas (Extracampo), 1 Gafe.
+- **Total/Assunto:** 11 Pré-Jogo BR, 8 Base, 7 Opinião, 2 DM/Atletas, 4 Marketing/Institucional, 1 Mercado/Elenco, 1 Atletas (extracampo), 1 Gafe.
 
 - **Tom:** Misto.
 
-- **Foco Temático:** 25% Pré-Jogo BR, 20% DM/Atletas, 20% Opinião, 15% Mercado/Elenco, 10% Sula, 5% SAF/Infraestrutura.
+- **Foco Temático:** 30% Pré-Jogo BR, 25% Base, 20% Opinião, 10% Mkt/Institucional, 5% DM/Atletas, 10% Outros.
 
-- **Raio-X:** Itatiaia foca nos retornos de Everson e Scarpa, a expectativa para o jogo contra o Flamengo e as opiniões sobre a final da Sula.
+- **Raio-X:** Itatiaia e O Tempo focam na preparação para o Flamengo, a conquista do Mineiro Sub-20 e os debates sobre DM e Sula.
 
-- **Ruído vs. Fato:** Notícias genéricas de futebol internacional e de outros esportes foram filtradas.
+- **Ruído vs. Fato:** Notícia genérica de futebol internacional foi filtrada.
 
 ## 🌡️ Termômetro e Ambiente
-- Otimismo e alívio com os retornos de Everson e Scarpa, cruciais para a reta final.
+- Euforia com a conquista do Mineiro Sub-20, encerrando um jejum de uma década.
 
-- Expectativa alta para o duelo contra o Flamengo, considerado um confronto de "gigantes" em semana decisiva.
+- Expectativa alta para o confronto com o Flamengo pelo Brasileirão, com foco em quebrar o jejum fora de casa.
 
-- Persiste o debate sobre a prudência do retorno de Everson, com a "crise" no elenco desmentida.
+- Debates sobre a prudência do retorno de Everson e a reta final de recuperação de Scarpa.
 
 ## 💰 Lupa na SAF e Finanças
-- Rubens Menin visita a Cidade do Galo, inspecionando as obras no CT.
+- Galo Na Veia é reconhecido pelo Prêmio Reclame AQUI 2026, fortalecendo a imagem institucional.
 
 ## ⚽ Foco Técnico e DM
-- **DM:** Everson é liberado pelo DM e pode disputar decisões. Scarpa avança na recuperação e volta a campo.
+- **DM/Recuperação:** Scarpa entra em reta final de recuperação e treina em campo.
 
-- **Goleiros:** Everson faz forte recado de motivação. Edu Panzi e Felipe Melo debatem a prudência da volta de Everson e a escolha entre ele e Gabriel Delfim.
+- **Desfalques:** Atlético não terá um atacante para o jogo contra o Flamengo.
 
-- **Elenco:** Ruan desmente crise interna e esclarece relação com Lyanco. Castaño revela desejo de permanecer no clube.
+- **Goleiros:** Felipe Melo opina sobre Everson e Gabriel Delfim para a final da Sula; Edu Panzi alerta para não apressar Everson.
 
-- **Pendurados:** Sete jogadores estão pendurados para o clássico, ligando o alerta.
+- **Técnico (Barba):** Mudará o time para o duelo com o Flamengo pelo Brasileiro.
 
-- **Base:** Treinador do Sub-20 comenta sobre a final do Mineiro, classificando-a como "difícil de prever".
+- **Elenco:** Castaño abre o jogo e revela desejo de permanecer no clube.
+
+- **Base:** Atlético encerra jejum e conquista Mineiro Sub-20 pela primeira vez na década.
 
 ## 🏟️ Arena MRV e Ingressos
-- Nenhuma novidade direta hoje sobre a Arena ou ingressos específicos.
+- Nenhuma novidade direta hoje sobre a Arena ou venda de ingressos.
 
 ## ⚔️ Especial de Jogo (vs. Flamengo pelo Brasileirão)
-- **Imprensa:** O consenso é de uma "semana de gigantes" com um Flamengo "ferido" após eliminação, exigindo "atenção".
+- **Imprensa:** Consenso de jogo estratégico contra um Flamengo "ferido" e que exigirá "atenção".
 
-- **Prancheta:** Atlético treina na Cidade do Galo. Everson e Scarpa em reta final de recuperação e podem reforçar. Reinier reencontra o Maracanã.
+- **Prancheta:** Barba mudará o time. Scarpa pode reforçar, mas atacante é desfalque. Relacionados divulgados, com novidade na camisa (Manto da Massa).
 
-- **Tendências:** Galo busca superar o jejum de vitórias fora de casa em uma "sequência pesadíssima". Felipe Melo projeta um Atlético "finalista".
+- **Tendências:** Galo busca quebrar jejum de vitórias fora de casa em uma "sequência pesadíssima". O Palmeiras "conta com o Galo".
 
-- **Adversário:** Flamengo usa uniforme especial. Bernard alerta que o Flamengo, mesmo "ferido", exigirá "atenção" redobrada.
+- **Adversário:** Flamengo, "ferido" após eliminação, exigirá atenção redobrada. Atlético busca "dar o troco".
 
 ## 📈 Radar de Tendências (Visão Macro dos Últimos 30 Dias)
 - 🛑 **Problemas Crônicos e Táticos:**
-    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico e persistente. As lesões de jogadores-chave e a necessidade de rodízio são constantes, impactando a profundidade do elenco.
+    - **Gestão de Lesões e Desfalques:** Permanece o problema mais crítico e impactante, exigindo constantes adaptações táticas.
 
-    - **Governança e Credibilidade da SAF:** Questões financeiras (dívidas FIFA/CAS, risco de transfer ban, perda de patrocinador máster) e de governança persistem como desafios estruturais.
+    - **Governança e Credibilidade da SAF:** Questões de dívidas (FIFA/CAS, transfer ban) e perda de patrocinador máster (H2bet) persistem como desafios estruturais.
 
-    - **Inconsistência Tática e Mental:** O time ainda demonstra oscilações de desempenho, dependendo de superações individuais ou momentos de "valentia".
+    - **Inconsistência Tática e Mental:** A equipe ainda demonstra oscilações de desempenho e jejuns fora de casa, apesar da resiliência.
 
 - 📈 **Evolução/Involução:**
-    - **Evolução:** A **liderança e gestão de elenco de Eduardo Domínguez ("Barba")** é consistente e notável. O **engajamento da torcida e Arena MRV** é uma fortaleza consolidada. O **desenvolvimento da base** é consistente e promissor. A **capacidade de superação e resiliência** do time é evidente em momentos decisivos. A **"volta por cima" de jogadores** (Reinier, Scarpa, Lyanco, Everson) é uma tendência positiva.
+    - **Evolução:** A **liderança e gestão de elenco de Eduardo Domínguez ("Barba")** é consistente. O **engajamento da torcida e Arena MRV** é uma fortaleza. O **desenvolvimento da base** é consistente e promissor (Mineiro Sub-20 hoje).
 
-    - **Involução:** A **recorrência de lesões e desfalques de jogadores-chave** continua sendo a principal involução, impactando a profundidade e consistência do elenco. A **transparência e estabilidade institucional da SAF** teve involuções com questões de dívidas e governança.
+    - **Involução:** A **recorrência de lesões e desfalques de jogadores-chave** continua sendo a principal involução. A **transparência e estabilidade institucional da SAF** ainda apresenta desafios com dívidas e governança.
 
 - 💼 **Movimentação Extracampo e SAF:**
-    - A SAF mantém uma postura **extremamente proativa e estratégica** na gestão da marca, Arena MRV e planejamento de longo prazo. O foco é em gerenciamento de ativos, monetização e protagonismo.
+    - A SAF mantém postura **proativa e estratégica** (Marketing, institucionais). Foco em gerenciamento de ativos, monetização e protagonismo.
 
-    - No entanto, enfrenta desafios **crescentes e persistentes em governança e conformidade**, que exigem respostas institucionais robustas e transparentes.
+    - Desafios persistentes em **governança e conformidade** exigem respostas institucionais robustas.
 
 ## 📰 Top 5 Notícias
-1.  **Everson é liberado pelo DM do Atlético e pode disputar sequência de decisões - Itatiaia** (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/everson-e-liberado-pelo-dm-do-atletico-e-pode-disputar-sequencia-de-decisoes/)
+1.  **Atlético encerra jejum e conquista Mineiro Sub-20 pela primeira vez na década** - [Itatiaia](https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-encerra-jejum-e-conquista-mineiro-sub-20-pela-primeira-vez-na-decada/)
 
-2.  **Scarpa vai a campo, entra em reta final de recuperação e pode reforçar Atlético - Itatiaia** (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/scarpa-vai-a-campo-entra-em-reta-final-de-recuperacao-e-pode-reforcar-atletico/)
+2.  **Scarpa vai a campo, entra em reta final de recuperação e pode reforçar Atlético** - [Itatiaia](https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/scarpa-vai-a-campo-entra-em-reta-final-de-recuperacao-e-pode-reforcar-atletico/)
 
-3.  **Atlético vive expectativa por Everson para reta decisiva da temporada - Itatiaia** (Link: https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-vive-expectativa-por-everson-para-reta-decisiva-da-temporada/)
+3.  **Atlético não terá atacante para jogo contra o Flamengo; saiba o motivo** - [Itatiaia](https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-nao-tera-atacante-para-jogo-contra-o-flamengo-saiba-o-motivo/)
 
-4.  **Edu Panzi | Não é prudente apressar volta de Everson ao Atlético - Itatiaia** (Link: https://www.itatiaia.com.br/comentaristas/edu-panzi/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/edu-panzi-nao-e-prudente-apressar-volta-de-everson-ao-atletico/)
+4.  **Bernard responde se Atlético encontrará Flamengo 'ferido' após eliminação: 'Atenção'** - [Itatiaia](https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/bernard-responde-se-atletico-encontrara-flamengo-ferido-apos-eliminacao-atencao/)
 
-5.  **Atlético encara 'semana de gigantes' com sequência de três jogos em sete dias - LANCE!** (Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOTTFEcnp3d09ySmg1SHEzLVF0RERmQmZ4MkdIRU0xcmQ5YlRZamNIZVIyWWVRRE5LOVVRNl9fOTEzT2plZ01EUUF5OWJWSGgxT0pmTnh0WXEteUw0Nld5X18yQlFlSjU5ODR3bUhDVDNrN3BzQktnakR5MGFYNHhucXBSZER3dmZZZXpSTDNxM0RmSGpWQ1lXZ3FncTUwUDBLQ0RITVdQZGlSdk5CdVY3ZDZwbWt4UTZ1aGJWQmh3UQ?oc=5)
+5.  **Manto da Massa: Galo traz novidade interativa na camisa contra o Flamengo** - [No Ataque](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTnNwRmRXN21vc3QzdGxVOGVRb3RhUG1rRXRRRmh1S201VG96cGd2VHNJdlR2NmVuX2pkQzJ6WVRCTng5THlYbWZJdjRRRHowLUY2TDFHNFlTb2pMZUN4Um5PMjFRRm9VRE5zeGFJYkFGWU5ENk93S1NOcnNDc3AxelBzSVZ5cDlfUTh1WG1CZDFseDFtb2N3eWFrc3p6OGhROXVZd3g0dHJJaGR4SVNqSWhIVmNqd1lSVE5oS2l2V0VoY2lNYmI0WUFoSFp3WEt2Qk4xaE43Rlc?oc=5)
